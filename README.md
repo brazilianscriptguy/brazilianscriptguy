@@ -1,26 +1,22 @@
-<p align="center">
-  <h1>👋 Welcome to My Profile!</h1>
-  <h3>I'm Luiz Hamilton (<b>@brazilianscriptguy</b>)</h3>
-</p>
-<p>
-    🎯 Passionate <b>Cybersecurity Analyst</b>, <b>Senior IT Analyst</b>, and <b>Systems Administrator</b>, specializing in <b>PowerShell</b> and <b>VBScript</b> solutions for advanced Windows Server and Workstation management. My focus is on creating efficient, secure, and automated IT environments for professionals and organizations.
-  </p>
-</p>
+<div style="text-align: center;">
 
-<hr>
+# 👋 Welcome to My Profile!  
+### I'm Luiz Hamilton (**@brazilianscriptguy**)  
 
-<h2>🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://github.com/brazilianscriptguy"><img src="https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://patreon.com/brazilianscriptguy"><img src="https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon"></a>
-  <a href="https://x.com/brazscriptguy"><img src="https://img.shields.io/badge/Twitter-@brazscriptguy-000000?style=for-the-badge&logo=x"></a>
-  <a href="https://www.linkedin.com/in/brazilianscriptguy/"><img src="https://img.shields.io/badge/LinkedIn-in/brazilianscriptguy-0077B5?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.youtube.com/@brazilianscriptguy"><img src="https://img.shields.io/badge/YouTube-@brazilianscriptguy-FF0000?style=for-the-badge&logo=youtube"></a>
-  <a href="https://www.instagram.com/4tetraforensics"><img src="https://img.shields.io/badge/Instagram-@4tetraforensics-E4405F?style=for-the-badge&logo=instagram"></a>
-  <a href="https://whatsapp.com/channel/0029VaEgqC50G0XZV1k4Mb1c"><img src="https://img.shields.io/badge/WhatsApp-PowerShellBR-25D366?style=for-the-badge&logo=whatsapp"></a>
-  <a href="https://orcid.org/0000-0003-3705-7468"><img src="https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid"></a>
-  <a href="mailto:luizhamilton.lhr@gmail.com"><img src="https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail"></a>
-</p>
+🎯 Passionate **Cybersecurity Analyst**, **Senior IT Analyst**, and **Systems Administrator**, specializing in **PowerShell** and **VBScript** solutions for advanced Windows Server and Workstation management. My focus is on creating efficient, secure, and automated IT environments for professionals and organizations.  
+
+<a href="https://github.com/brazilianscriptguy"><img src="https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github"></a>
+<a href="https://patreon.com/brazilianscriptguy"><img src="https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon"></a>
+<a href="https://x.com/brazscriptguy"><img src="https://img.shields.io/badge/Twitter-@brazscriptguy-000000?style=for-the-badge&logo=x"></a>
+<a href="https://www.linkedin.com/in/brazilianscriptguy/"><img src="https://img.shields.io/badge/LinkedIn-in/brazilianscriptguy-0077B5?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.youtube.com/@brazilianscriptguy"><img src="https://img.shields.io/badge/YouTube-@brazilianscriptguy-FF0000?style=for-the-badge&logo=youtube"></a>
+<a href="https://www.instagram.com/4tetraforensics"><img src="https://img.shields.io/badge/Instagram-@4tetraforensics-E4405F?style=for-the-badge&logo=instagram"></a>
+<a href="https://whatsapp.com/channel/0029VaEgqC50G0XZV1k4Mb1c"><img src="https://img.shields.io/badge/WhatsApp-PowerShellBR-25D366?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://orcid.org/0000-0003-3705-7468"><img src="https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid"></a>
+<a href="mailto:luizhamilton.lhr@gmail.com"><img src="https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail"></a>
+
+</div>
+
 
 <hr>
 
