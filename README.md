@@ -1,8 +1,10 @@
+<p align="center">
+  
 # 👋 Welcome to My Profile!  
 ### I'm Luiz Hamilton (**@brazilianscriptguy**)  
 
 🎯 Passionate **Cybersecurity Analyst**, **Senior IT Analyst**, and **Systems Administrator**, specializing in **PowerShell** and **VBScript** solutions for advanced Windows Server and Workstation management. My focus is on creating efficient, secure, and automated IT environments for professionals and organizations.  
-
+</p>
 ---
 
 ## 🌐 Connect with Me  
