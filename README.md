@@ -9,7 +9,7 @@
 <hr>
 
 <h2>🌐 Connect with Me</h2>
-<p align="center">
+
   <a href="https://github.com/brazilianscriptguy"><img src="https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github"></a>
   <a href="https://patreon.com/brazilianscriptguy"><img src="https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon"></a>
   <a href="https://x.com/brazscriptguy"><img src="https://img.shields.io/badge/Twitter-@brazscriptguy-000000?style=for-the-badge&logo=x"></a>
