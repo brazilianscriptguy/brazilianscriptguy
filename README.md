@@ -11,39 +11,42 @@
 
   <hr>
 
-  <h2>🌐 Connect with Me</h2>
+<h2>🌐 Connect with Me</h2>
 
-  <p>
-    <a href="https://github.com/brazilianscriptguy" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github" alt="GitHub">
-    </a>
-    <a href="https://patreon.com/brazilianscriptguy" target="_blank">
-      <img src="https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon" alt="Patreon">
-    </a>
-    <a href="https://x.com/brazscriptguy" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-@brazscriptguy-000000?style=for-the-badge&logo=x" alt="Twitter">
-    </a>
-    <a href="https://www.linkedin.com/in/brazilianscriptguy/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-in/brazilianscriptguy-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="https://www.youtube.com/@brazilianscriptguy" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-@brazilianscriptguy-FF0000?style=for-the-badge&logo=youtube" alt="YouTube">
-    </a>
-    <a href="https://www.instagram.com/4tetraforensics" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-@4tetraforensics-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
-    </a>
-    <a href="https://whatsapp.com/channel/0029VaEgqC50G0XZV1k4Mb1c" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-PowerShellBR-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
-    </a>
-    <a href="https://orcid.org/0000-0003-3705-7468" target="_blank">
-      <img src="https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid" alt="ORCID">
-    </a>
-    <a href="mailto:luizhamilton.lhr@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email">
-    </a>
-  </p>
+<p>
+  <a href="https://github.com/brazilianscriptguy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://patreon.com/brazilianscriptguy" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon" alt="Patreon">
+  </a>
+  <a href="https://x.com/brazscriptguy" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@brazscriptguy-000000?style=for-the-badge&logo=x" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/brazilianscriptguy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-in/brazilianscriptguy-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/@brazilianscriptguy" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-@brazilianscriptguy-FF0000?style=for-the-badge&logo=youtube" alt="YouTube">
+  </a>
+  <a href="https://www.instagram.com/4tetraforensics" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@4tetraforensics-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
+  <a href="https://whatsapp.com/channel/0029VaEgqC50G0XZV1k4Mb1c" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-PowerShellBR-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
+  </a>
+  <a href="https://orcid.org/0000-0003-3705-7468" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid" alt="ORCID">
+  </a>
+  <a href="http://lattes.cnpq.br/0191525072495482" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes%20CV-0191525072495482-00A693?style=for-the-badge&logo=academia" alt="Lattes CV">
+  </a>
+  <a href="mailto:luizhamilton.lhr@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
 
-  <hr>
+<hr>
 
   <h2>💻 My Repository Packages</h2>
   <h3>Ready-to-Download Solutions for Your IT Needs</h3>
