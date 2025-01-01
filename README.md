@@ -44,6 +44,8 @@ Through my repositories, I aim to share my knowledge, empower IT professionals, 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianscriptguy&layout=compact&theme=radical&v=2)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brazilianscriptguy&theme=radical&v=2)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brazilianscriptguy&theme=radical)
+
 ---
 
 ## 🌟 Highlights of My Repositories
