@@ -1,4 +1,3 @@
-```html
 <p align="center">
   <h1>👋 Welcome to My Profile!</h1>
   <h3>I'm Luiz Hamilton (<b>@brazilianscriptguy</b>)</h3>
@@ -132,4 +131,3 @@
 <p align="center">
   Thank you for visiting my profile! Let's make IT management smarter, faster, and more secure—together! 💻🚀
 </p>
-```
