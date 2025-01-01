@@ -2,7 +2,20 @@
 
 Welcome to my GitHub profile! I'm a passionate **Cybersecurity Analyst**, **Senior IT Analyst**, and **Systems Administrator** with deep expertise in **Windows Server** and **Workstation Administration**. I specialize in **PowerShell** and **VBScript** tools for advanced IT management, enabling seamless automation, compliance, and security.
 
-Through my repositories, I aim to share my knowledge, empower IT professionals, and contribute to the community with practical, innovative, and reliable solutions for modern IT environments.
+## 🌐 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy)
+[![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon)](https://patreon.com/brazilianscriptguy)
+[![X](https://img.shields.io/badge/Twitter-@brazscriptguy-000000?style=for-the-badge&logo=x)](https://x.com/brazscriptguy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in/brazilianscriptguy-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brazilianscriptguy/)
+[![YouTube](https://img.shields.io/badge/YouTube-@brazilianscriptguy-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@brazilianscriptguy)
+[![Instagram](https://img.shields.io/badge/Instagram-@4tetraforensics-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/4tetraforensics)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-PowerShellBR-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaEgqC50G0XZV1k4Mb1c)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-3705-7468)
+[![Lattes CV](https://img.shields.io/badge/Lattes%20CV-0191525072495482-00A693?style=for-the-badge&logo=academia)](http://lattes.cnpq.br/0191525072495482)
+[![Email](https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:luizhamilton.lhr@gmail.com)
+[![Location](https://img.shields.io/badge/Location-27°00'04.3%22S%2048°36'19.2%22W-brightgreen?style=for-the-badge&logo=googlemaps)](https://www.google.com/maps?q=-27.0011813,-48.6053388)
+[![Time Zone](https://img.shields.io/static/v1?label=Time%20Zone&message=UTC%20-3%3A00%20/%20Balneário%20Camboriú&color=blue&style=for-the-badge)](https://time.is/Balne%C3%A1rio_Cambori%C3%BA)
 
 ---
 
@@ -26,20 +39,7 @@ Explore the curated packages of scripts and tools tailored for IT professionals.
 
 [![GitHub Contribution Grid](https://ghchart.rshah.org/brazilianscriptguy)](https://github.com/brazilianscriptguy)
 
-## 🌐 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy)
-[![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon)](https://patreon.com/brazilianscriptguy)
-[![X](https://img.shields.io/badge/Twitter-@brazscriptguy-000000?style=for-the-badge&logo=x)](https://x.com/brazscriptguy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in/brazilianscriptguy-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brazilianscriptguy/)
-[![YouTube](https://img.shields.io/badge/YouTube-@brazilianscriptguy-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@brazilianscriptguy)
-[![Instagram](https://img.shields.io/badge/Instagram-@4tetraforensics-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/4tetraforensics)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-PowerShellBR-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaEgqC50G0XZV1k4Mb1c)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-3705-7468)
-[![Lattes CV](https://img.shields.io/badge/Lattes%20CV-0191525072495482-00A693?style=for-the-badge&logo=academia)](http://lattes.cnpq.br/0191525072495482)
-[![Email](https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:luizhamilton.lhr@gmail.com)
-[![Location](https://img.shields.io/badge/Location-27°00'04.3%22S%2048°36'19.2%22W-brightgreen?style=for-the-badge&logo=googlemaps)](https://www.google.com/maps?q=-27.0011813,-48.6053388)
-[![Time Zone](https://img.shields.io/static/v1?label=Time%20Zone&message=UTC%20-3%3A00%20/%20Balneário%20Camboriú&color=blue&style=for-the-badge)](https://time.is/Balne%C3%A1rio_Cambori%C3%BA)
+---
 
 ## 📊 My GitHub Statistics
 
