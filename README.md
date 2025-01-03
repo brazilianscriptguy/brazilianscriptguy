@@ -63,7 +63,7 @@
       <tr>
         <td>
           <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools" target="_blank">
-            🔹 SysAdminToolSet
+            💎 SysAdminToolSet
           </a>
         </td>
         <td>
@@ -82,7 +82,7 @@
       <tr>
         <td>
           <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/BlueTeam-Tools" target="_blank">
-            🔹 BlueTeam-Tools
+            💎 BlueTeam-Tools
           </a>
         </td>
         <td>
@@ -99,7 +99,7 @@
       <tr>
         <td>
           <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS" target="_blank">
-            🔹 ITSM-Templates-WKS
+            💎 ITSM-Templates-WKS
           </a>
         </td>
         <td>
@@ -116,7 +116,7 @@
       <tr>
         <td>
           <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-SVR" target="_blank">
-            🔹 ITSM-Templates-SVR
+            💎 ITSM-Templates-SVR
           </a>
         </td>
         <td>
@@ -133,7 +133,7 @@
       <tr>
         <td>
           <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary" target="_blank">
-            🔹 Core-ScriptLibrary
+            💎 Core-ScriptLibrary
           </a>
         </td>
         <td>
