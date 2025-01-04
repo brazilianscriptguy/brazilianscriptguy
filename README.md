@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 👋 Hi There, I'm Luiz Hamilton (@brazilianscriptguy)
+  # Hi There, I'm Luiz Hamilton (@brazilianscriptguy)
 
   <p>
     Welcome to my GitHub profile! I'm a passionate **Cybersecurity Analyst**, **Senior IT Analyst**, and 
@@ -20,8 +20,8 @@
     <a href="https://www.patreon.com/c/brazilianscriptguy" target="_blank" aria-label="Patreon">
       <img src="https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon" alt="Patreon Badge">
     </a>
-    <a href="https://x.com/brazscriptguy" target="_blank" aria-label="Twitter">
-      <img src="https://img.shields.io/badge/X-@brazscriptguy-000000?style=for-the-badge&logo=x" alt="Twitter Badge">
+    <a href="https://x.com/brazscriptguy" target="_blank" aria-label="X">
+      <img src="https://img.shields.io/badge/X-@brazscriptguy-000000?style=for-the-badge&logo=x" alt="X Badge">
     </a>
     <a href="https://www.linkedin.com/in/brazilianscriptguy/" target="_blank" aria-label="LinkedIn">
       <img src="https://img.shields.io/badge/LinkedIn-in/brazilianscriptguy-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
@@ -53,11 +53,11 @@
 
   | Repository | Description | Key Features |
   |------------|-------------|--------------|
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools" target="_blank" aria-label="SysAdminToolSet Repository"><span>🔧</span> [SysAdminToolSet](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools)<br/><img src="https://img.shields.io/badge/SysAdminToolSet-Tools-blue?style=flat&logo=windows" alt="SysAdminToolSet Badge"></a> | Comprehensive tools for Windows Server and workstation administration. | - Active Directory Management<br/>- GPO Management<br/>- Network Infrastructure Tools (DNS, DHCP, Certificates)<br/>- Security and Optimization<br/>- Complete ITSM Templates |
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/BlueTeam-Tools" target="_blank" aria-label="BlueTeam-Tools Repository"><span>🛡️</span> [BlueTeam-Tools](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/BlueTeam-Tools)<br/><img src="https://img.shields.io/badge/BlueTeam-Forensics-orange?style=flat&logo=security" alt="BlueTeam-Tools Badge"></a> | Toolkit for forensic analysis, threat detection, and incident response. | - Incident Response Scripts<br/>- Advanced Log Parsing<br/>- Security Hardening Tools |
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS" target="_blank" aria-label="ITSM-Templates-WKS Repository"><span>💻</span> [ITSM-Templates-WKS](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS)<br/><img src="https://img.shields.io/badge/ITSM-Templates-WKS-green?style=flat&logo=windows" alt="ITSM-Templates-WKS Badge"></a> | Manage and enforce ITSM compliance on Windows 10/11 workstations. | - PostIngress Scripts<br/>- Configuration Audit Tools<br/>- Customizable Modules |
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-SVR" target="_blank" aria-label="ITSM-Templates-SVR Repository"><span>🖥️</span> [ITSM-Templates-SVR](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-SVR)<br/><img src="https://img.shields.io/badge/ITSM-Templates-SVR-purple?style=flat&logo=server" alt="ITSM-Templates-SVR Badge"></a> | Templates and scripts for server hardening and ITSM compliance. | - Server Hardening Scripts<br/>- Policy Enforcement Templates<br/>- Role-Specific Modules (DNS, File Server, IIS) |
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary" target="_blank" aria-label="Core-ScriptLibrary Repository"><span>💾</span> [Core-ScriptLibrary](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary)<br/><img src="https://img.shields.io/badge/Core-ScriptLibrary-slategray?style=flat&logo=powershell" alt="Core-ScriptLibrary Badge"></a> | A foundational library of PowerShell scripts for modular IT solutions. | - Dynamic Automation<br/>- Interactive GUIs<br/>- Script Templates |
+  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools" target="_blank" aria-label="SysAdminToolSet Repository"><img src="https://img.shields.io/badge/SysAdminToolSet-Tools-blue?style=flat&logo=windows" alt="SysAdminToolSet Badge"></a> | Comprehensive tools for Windows Server and workstation administration. | - Active Directory Management<br/>- GPO Management<br/>- Network Infrastructure Tools (DNS, DHCP, Certificates)<br/>- Security and Optimization<br/>- Complete ITSM Templates |
+  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/BlueTeam-Tools" target="_blank" aria-label="BlueTeam-Tools Repository"><img src="https://img.shields.io/badge/BlueTeam-Forensics-orange?style=flat&logo=security" alt="BlueTeam-Tools Badge"></a> | Toolkit for forensic analysis, threat detection, and incident response. | - Incident Response Scripts<br/>- Advanced Log Parsing<br/>- Security Hardening Tools |
+  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS" target="_blank" aria-label="ITSM-Templates-WKS Repository"><img src="https://img.shields.io/badge/ITSM-Templates-WKS-green?style=flat&logo=windows" alt="ITSM-Templates-WKS Badge"></a> | Manage and enforce ITSM compliance on Windows 10/11 workstations. | - PostIngress Scripts<br/>- Configuration Audit Tools<br/>- Customizable Modules |
+  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-SVR" target="_blank" aria-label="ITSM-Templates-SVR Repository"><img src="https://img.shields.io/badge/ITSM-Templates-SVR-purple?style=flat&logo=server" alt="ITSM-Templates-SVR Badge"></a> | Templates and scripts for server hardening and ITSM compliance. | - Server Hardening Scripts<br/>- Policy Enforcement Templates<br/>- Role-Specific Modules (DNS, File Server, IIS) |
+  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary" target="_blank" aria-label="Core-ScriptLibrary Repository"><img src="https://img.shields.io/badge/Core-ScriptLibrary-slategray?style=flat&logo=powershell" alt="Core-ScriptLibrary Badge"></a> | A foundational library of PowerShell scripts for modular IT solutions. | - Dynamic Automation<br/>- Interactive GUIs<br/>- Script Templates |
 
   <hr>
 
