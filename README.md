@@ -17,7 +17,7 @@
   <a href="https://github.com/brazilianscriptguy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://patreon.com/brazilianscriptguy" target="_blank">
+  <a href="https://www.patreon.com/c/brazilianscriptguy" target="_blank">
     <img src="https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon" alt="Patreon">
   </a>
   <a href="https://x.com/brazscriptguy" target="_blank">
