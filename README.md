@@ -44,13 +44,11 @@
 
   | Repository | Description | Key Features |
   |------------|-------------|--------------|
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools" target="_blank" aria-label="SysAdminToolSet Repository"><img src="https://img.shields.io/badge/SysAdminToolSet-Tools-blue?style=flat&logo=windows" alt="SysAdminToolSet Badge"></a> | Comprehensive tools for Windows Server and workstation administration. | <ul><li>Active Directory Management</li><li>GPO Management</li><li>Network Infrastructure Tools (DNS, DHCP, Certificates)</li><li>Security and Optimization</li><li>Complete ITSM Templates</li></ul> |
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/BlueTeam-Tools" target="_blank" aria-label="BlueTeam-Tools Repository"><img src="https://img.shields.io/badge/BlueTeam-Forensics-orange?style=flat&logo=security" alt="BlueTeam-Tools Badge"></a> | Toolkit for forensic analysis, threat detection, and incident response. | <ul><li>Incident Response Scripts</li><li>Advanced Log Parsing</li><li>Security Hardening Tools</li></ul> |
+  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools" target="_blank" aria-label="SysAdminToolSet Repository"><img src="https://img.shields.io/badge/SysAdmin%20ToolSet-Tools-blue?style=flat&logo=windows" alt="SysAdminToolSet Badge"></a> | Comprehensive tools for Windows Server and workstation administration. | <ul><li>Active Directory Management</li><li>GPO Management</li><li>Network Infrastructure Tools (DNS, DHCP, Certificates)</li><li>Security and Optimization</li><li>Complete ITSM Templates</li></ul> |
+  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/BlueTeam-Tools" target="_blank" aria-label="BlueTeam-Tools Repository"><img src="https://img.shields.io/badge/BlueTeam%20Tools-Forensics-orange?style=flat&logo=security" alt="BlueTeam-Tools Badge"></a> | Toolkit for forensic analysis, threat detection, and incident response. | <ul><li>Incident Response Scripts</li><li>Advanced Log Parsing</li><li>Security Hardening Tools</li></ul> |
   | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS" target="_blank" aria-label="ITSM-Templates-WKS Repository"><img src="https://img.shields.io/badge/ITSM%20Templates-WKS-green?style=flat&logo=windows" alt="ITSM-Templates-WKS Badge"></a> | Manage and enforce ITSM compliance on Windows 10/11 workstations. | <ul><li>PostIngress Scripts</li><li>Configuration Audit Tools</li><li>Customizable Modules</li></ul> |
   | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-SVR" target="_blank" aria-label="ITSM-Templates-SVR Repository"><img src="https://img.shields.io/badge/ITSM%20Templates-SVR-purple?style=flat&logo=server" alt="ITSM-Templates-SVR Badge"></a> | Templates and scripts for server hardening and ITSM compliance. | <ul><li>Server Hardening Scripts</li><li>Policy Enforcement Templates</li><li>Role-Specific Modules (DNS, File Server, IIS)</li></ul> |
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary" target="_blank" aria-label="Core-ScriptLibrary Repository"><img src="https://img.shields.io/badge/Core%20ScriptLibrary-slategray?style=flat&logo=powershell" alt="Core-ScriptLibrary Badge"></a> | A foundational library of PowerShell scripts for modular IT solutions. | <ul><li>Dynamic Automation</li><li>Interactive GUIs</li><li>Script Templates</li></ul> |
-
-  <hr>
+  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary" target="_blank" aria-label="Core-ScriptLibrary Repository"><img src="https://img.shields.io/badge/Core%20ScriptLibrary-slategray?style=flat&logo=vscode" alt="Core-ScriptLibrary Badge"></a> | A foundational library of PowerShell scripts for modular IT solutions. | <ul><li>Dynamic Automation</li><li>Interactive GUIs</li><li>Script Templates</li></ul> |
 
   ## 💡 Stay Updated
   <p align="center">
@@ -59,16 +57,12 @@
     </a>
   </p>
 
-  <hr>
-
   ## 📊 My GitHub Statistics
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=brazilianscriptguy&show_icons=true&theme=radical&v=2" alt="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianscriptguy&layout=compact&theme=radical&v=2" alt="Top Languages">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=brazilianscriptguy&theme=radical&v=2" alt="GitHub Streak">
   </p>
-
-  <hr>
 
   ## 🌟 Highlights of My Repositories
   <ul>
@@ -78,16 +72,12 @@
     <li><strong>Customizable:</strong> Highly adaptable scripts tailored for diverse IT environments.</li>
   </ul>
 
-  <hr>
-
   ## 🤝 Support and Contributions
   <p>
     If my work has been helpful, consider supporting me on 
     <a href="https://www.patreon.com/c/brazilianscriptguy" target="_blank">Patreon</a> for exclusive updates and content. 
     You can also contribute by reporting issues, sharing ideas, or submitting pull requests.
   </p>
-
-  <hr>
 
   <p align="center">
     Thank you for visiting my profile! Let's make IT management smarter, faster, and more secure—together! 💻🚀
