@@ -4,8 +4,6 @@
 
   Welcome to my GitHub profile! I am a dedicated **Cybersecurity Analyst**, **Senior IT Analyst**, and **Systems Administrator** with extensive expertise in **Windows Server** and **Workstation Administration**. I specialize in developing **PowerShell** and **VBScript** tools for advanced IT management, facilitating seamless automation, ensuring compliance, and enhancing security. My mission is to create efficient, secure, and automated IT environments for professionals and organizations worldwide.
 
-  <hr>
-
   ## 🌐 Connect with Me
 
   <p>
@@ -40,8 +38,6 @@
       <img src="https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email Badge">
     </a>
   </p>
-
-  <hr>
 
   ## 💻 My Repository Packages
   ### Ready-to-Download Solutions for Your IT Needs
