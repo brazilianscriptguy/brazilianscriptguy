@@ -1,12 +1,9 @@
 <div align="center">
 
-  # Hi There, I'm Luiz Hamilton (@brazilianscriptguy)
+  # 👋 Hi There, I'm Luiz Hamilton (@brazilianscriptguy)
 
   <p>
-    Welcome to my GitHub profile! I'm a passionate **Cybersecurity Analyst**, **Senior IT Analyst**, and 
-    **Systems Administrator** with deep expertise in **Windows Server** and **Workstation Administration**. 
-    I specialize in **PowerShell** and **VBScript** tools for advanced IT management, enabling seamless automation, compliance, 
-    and security. My mission is to create efficient, secure, and automated IT environments for professionals and organizations worldwide.
+    Welcome to my GitHub profile! I'm a dedicated **Cybersecurity Analyst**, **Senior IT Analyst**, and **Systems Administrator** with extensive expertise in **Windows Server** and **Workstation Administration**. I specialize in developing **PowerShell** and **VBScript** tools for advanced IT management, facilitating seamless automation, compliance, and security. My mission is to create efficient, secure, and automated IT environments for professionals and organizations worldwide.
   </p>
 
   <hr>
@@ -53,11 +50,11 @@
 
   | Repository | Description | Key Features |
   |------------|-------------|--------------|
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools" target="_blank" aria-label="SysAdminToolSet Repository"><img src="https://img.shields.io/badge/SysAdminToolSet-Tools-blue?style=flat&logo=windows" alt="SysAdminToolSet Badge"></a> | Comprehensive tools for Windows Server and workstation administration. | - Active Directory Management<br/>- GPO Management<br/>- Network Infrastructure Tools (DNS, DHCP, Certificates)<br/>- Security and Optimization<br/>- Complete ITSM Templates |
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/BlueTeam-Tools" target="_blank" aria-label="BlueTeam-Tools Repository"><img src="https://img.shields.io/badge/BlueTeam-Forensics-orange?style=flat&logo=security" alt="BlueTeam-Tools Badge"></a> | Toolkit for forensic analysis, threat detection, and incident response. | - Incident Response Scripts<br/>- Advanced Log Parsing<br/>- Security Hardening Tools |
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS" target="_blank" aria-label="ITSM-Templates-WKS Repository"><img src="https://img.shields.io/badge/ITSM-Templates-WKS-green?style=flat&logo=windows" alt="ITSM-Templates-WKS Badge"></a> | Manage and enforce ITSM compliance on Windows 10/11 workstations. | - PostIngress Scripts<br/>- Configuration Audit Tools<br/>- Customizable Modules |
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-SVR" target="_blank" aria-label="ITSM-Templates-SVR Repository"><img src="https://img.shields.io/badge/ITSM-Templates-SVR-purple?style=flat&logo=server" alt="ITSM-Templates-SVR Badge"></a> | Templates and scripts for server hardening and ITSM compliance. | - Server Hardening Scripts<br/>- Policy Enforcement Templates<br/>- Role-Specific Modules (DNS, File Server, IIS) |
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary" target="_blank" aria-label="Core-ScriptLibrary Repository"><img src="https://img.shields.io/badge/Core-ScriptLibrary-slategray?style=flat&logo=powershell" alt="Core-ScriptLibrary Badge"></a> | A foundational library of PowerShell scripts for modular IT solutions. | - Dynamic Automation<br/>- Interactive GUIs<br/>- Script Templates |
+  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools" target="_blank" aria-label="SysAdminToolSet Repository"><img src="https://img.shields.io/badge/SysAdminToolSet-Tools-blue?style=flat&logo=windows" alt="SysAdminToolSet Badge"></a> | Comprehensive tools for Windows Server and workstation administration. | <ul><li>Active Directory Management</li><li>GPO Management</li><li>Network Infrastructure Tools (DNS, DHCP, Certificates)</li><li>Security and Optimization</li><li>Complete ITSM Templates</li></ul> |
+  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/BlueTeam-Tools" target="_blank" aria-label="BlueTeam-Tools Repository"><img src="https://img.shields.io/badge/BlueTeam-Forensics-orange?style=flat&logo=security" alt="BlueTeam-Tools Badge"></a> | Toolkit for forensic analysis, threat detection, and incident response. | <ul><li>Incident Response Scripts</li><li>Advanced Log Parsing</li><li>Security Hardening Tools</li></ul> |
+  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS" target="_blank" aria-label="ITSM-Templates-WKS Repository"><img src="https://img.shields.io/badge/ITSM%20Templates-WKS-green?style=flat&logo=windows" alt="ITSM-Templates-WKS Badge"></a> | Manage and enforce ITSM compliance on Windows 10/11 workstations. | <ul><li>PostIngress Scripts</li><li>Configuration Audit Tools</li><li>Customizable Modules</li></ul> |
+  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-SVR" target="_blank" aria-label="ITSM-Templates-SVR Repository"><img src="https://img.shields.io/badge/ITSM%20Templates-SVR-purple?style=flat&logo=server" alt="ITSM-Templates-SVR Badge"></a> | Templates and scripts for server hardening and ITSM compliance. | <ul><li>Server Hardening Scripts</li><li>Policy Enforcement Templates</li><li>Role-Specific Modules (DNS, File Server, IIS)</li></ul> |
+  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary" target="_blank" aria-label="Core-ScriptLibrary Repository"><img src="https://img.shields.io/badge/Core%20ScriptLibrary-slategray?style=flat&logo=powershell" alt="Core-ScriptLibrary Badge"></a> | A foundational library of PowerShell scripts for modular IT solutions. | <ul><li>Dynamic Automation</li><li>Interactive GUIs</li><li>Script Templates</li></ul> |
 
   <hr>
 
