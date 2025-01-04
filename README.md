@@ -2,9 +2,7 @@
 
   # 👋 Hi There, I'm Luiz Hamilton (@brazilianscriptguy)
 
-  <p>
-    Welcome to my GitHub profile! I'm a dedicated **Cybersecurity Analyst**, **Senior IT Analyst**, and **Systems Administrator** with extensive expertise in **Windows Server** and **Workstation Administration**. I specialize in developing **PowerShell** and **VBScript** tools for advanced IT management, facilitating seamless automation, compliance, and security. My mission is to create efficient, secure, and automated IT environments for professionals and organizations worldwide.
-  </p>
+    Welcome to my GitHub profile! I am a dedicated **Cybersecurity Analyst**, **Senior IT Analyst**, and **Systems Administrator** with extensive expertise in **Windows Server** and **Workstation Administration**. I specialize in developing **PowerShell** and **VBScript** tools for advanced IT management, facilitating seamless automation, ensuring compliance, and enhancing security. My mission is to create efficient, secure, and automated IT environments for professionals and organizations worldwide.
 
   <hr>
 
