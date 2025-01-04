@@ -46,11 +46,58 @@
   </a>
 </p>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Repository Packages</title>
+  <!-- Include Font Awesome for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-p6AaLfv1A61FcV1cV1f6sZqs2AOWoVppKxOQEmoIzYdja25I+N0YcSxqsXrHjk8l2+9ycic6I+NIMiKvo5a1Cg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <style>
+    table {
+      width: 90%;
+      margin: auto;
+      border-collapse: collapse;
+    }
+    th, td {
+      padding: 15px;
+      text-align: left;
+      border: 1px solid #ddd;
+    }
+    th {
+      background-color: #f4f4f4;
+    }
+    ul {
+      margin: 0;
+      padding-left: 20px;
+    }
+    a {
+      text-decoration: none;
+      color: inherit;
+      display: flex;
+      align-items: center;
+    }
+    a i {
+      margin-right: 8px;
+      color: #333;
+    }
+    a img {
+      margin-left: 8px;
+    }
+    /* Optional: Add hover effects for better user experience */
+    a:hover img {
+      transform: scale(1.05);
+      transition: transform 0.2s;
+    }
+  </style>
+</head>
+<body>
+
 <hr>
 <h2>💻 My Repository Packages</h2>
 <h3>Ready-to-Download Solutions for Your IT Needs</h3>
 
-<table align="center" border="1" cellpadding="10" cellspacing="0">
+<table>
   <thead>
     <tr>
       <th>Repository</th>
@@ -62,7 +109,8 @@
     <tr>
       <td>
         <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools" target="_blank">
-          💎 <img src="https://img.shields.io/badge/SysAdminToolSet-Tools-blue?style=flat&logo=github" alt="SysAdminToolSet Badge">
+          <i class="fas fa-tools"></i>
+          <img src="https://img.shields.io/badge/SysAdminToolSet-Tools-blue?style=flat&logo=windows" alt="SysAdminToolSet Badge">
         </a>
       </td>
       <td>
@@ -81,7 +129,8 @@
     <tr>
       <td>
         <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/BlueTeam-Tools" target="_blank">
-          💎 <img src="https://img.shields.io/badge/BlueTeam-Forensics-orange?style=flat&logo=shield" alt="BlueTeam-Tools Badge">
+          <i class="fas fa-shield-alt"></i>
+          <img src="https://img.shields.io/badge/BlueTeam-Forensics-orange?style=flat&logo=security" alt="BlueTeam-Tools Badge">
         </a>
       </td>
       <td>
@@ -98,7 +147,8 @@
     <tr>
       <td>
         <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS" target="_blank">
-          💎 <img src="https://img.shields.io/badge/ITSM-Templates-WKS-green?style=flat&logo=windows" alt="ITSM-Templates-WKS Badge">
+          <i class="fas fa-laptop"></i>
+          <img src="https://img.shields.io/badge/ITSM-Templates-WKS-green?style=flat&logo=windows" alt="ITSM-Templates-WKS Badge">
         </a>
       </td>
       <td>
@@ -115,7 +165,8 @@
     <tr>
       <td>
         <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-SVR" target="_blank">
-          💎 <img src="https://img.shields.io/badge/ITSM-Templates-SVR-purple?style=flat&logo=server" alt="ITSM-Templates-SVR Badge">
+          <i class="fas fa-server"></i>
+          <img src="https://img.shields.io/badge/ITSM-Templates-SVR-purple?style=flat&logo=server" alt="ITSM-Templates-SVR Badge">
         </a>
       </td>
       <td>
@@ -132,7 +183,8 @@
     <tr>
       <td>
         <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary" target="_blank">
-          💎 <img src="https://img.shields.io/badge/Core-ScriptLibrary-slategray?style=flat&logo=powershell" alt="Core-ScriptLibrary Badge">
+          <i class="fas fa-code"></i>
+          <img src="https://img.shields.io/badge/Core-ScriptLibrary-slategray?style=flat&logo=powershell" alt="Core-ScriptLibrary Badge">
         </a>
       </td>
       <td>
@@ -148,6 +200,8 @@
     </tr>
   </tbody>
 </table>
+</body>
+</html>
 
   <p>
     💡 <strong>Stay updated with the latest tools and improvements:</strong> 
