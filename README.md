@@ -6,15 +6,15 @@
 
   ## 🌐 Connect with Me
 
-  <p>
+ <p>
     <a href="https://github.com/brazilianscriptguy" target="_blank" aria-label="GitHub">
       <img src="https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github" alt="GitHub Badge">
     </a>
-    <a href="https://www.patreon.com/c/brazilianscriptguy" target="_blank" aria-label="Patreon">
+    <a href="https://www.patreon.com/brazilianscriptguy" target="_blank" aria-label="Patreon">
       <img src="https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon" alt="Patreon Badge">
     </a>
-    <a href="https://x.com/brazscriptguy" target="_blank" aria-label="X">
-      <img src="https://img.shields.io/badge/X-@brazscriptguy-000000?style=for-the-badge&logo=x" alt="X Badge">
+    <a href="https://x.com/brazilianscriptguy" target="_blank" aria-label="X">
+      <img src="https://img.shields.io/badge/X-@brazilianscriptguy-000000?style=for-the-badge&logo=x" alt="X Badge">
     </a>
     <a href="https://www.linkedin.com/in/brazilianscriptguy/" target="_blank" aria-label="LinkedIn">
       <img src="https://img.shields.io/badge/LinkedIn-in/brazilianscriptguy-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
@@ -25,7 +25,7 @@
     <a href="https://www.instagram.com/4tetraforensics" target="_blank" aria-label="Instagram">
       <img src="https://img.shields.io/badge/Instagram-@4tetraforensics-E4405F?style=for-the-badge&logo=instagram" alt="Instagram Badge">
     </a>
-    <a href="https://wa.me/0029VaEgqC50G0XZV1k4Mb1c" target="_blank" aria-label="WhatsApp">
+    <a href="https://wa.me/message/0029VaEgqC50G0XZV1k4Mb1c" target="_blank" aria-label="WhatsApp">
       <img src="https://img.shields.io/badge/WhatsApp-PowerShellBR-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp Badge">
     </a>
     <a href="https://orcid.org/0000-0003-3705-7468" target="_blank" aria-label="ORCID">
