@@ -35,24 +35,24 @@
     <a href="mailto:luizhamilton.lhr@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Email" title="Send me an email">
       <img src="https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email Badge">
     </a>
-  <a href="https://www.google.com/maps/search/?api=1&query=2%C2%B037'13.0%22N+51%C2%B000'35.2%22W" target="_blank" rel="noopener noreferrer" aria-label="Location" title="View my location: Brazilian Stonehenge">
-    <img src="https://img.shields.io/badge/Location-Brazilian%20Stonehenge-blue?style=for-the-badge&logo=googlemaps" alt="Location Badge">
-  </a>
-<a href="https://time.is/" target="_blank" rel="noopener noreferrer" aria-label="Time" title="Current time: 11:11:11 (UTC -03:00)">
-  <img src="https://img.shields.io/static/v1?label=Time&message=11%3A11%3A11%20(UTC%20-03%3A00)&color=green&style=for-the-badge" alt="Time Badge">
-</a>
-</div>
+    <a href="https://www.google.com/maps/search/?api=1&query=2%C2%B037'13.0%22N+51%C2%B000'35.2%22W" target="_blank" rel="noopener noreferrer" aria-label="Location" title="View my location: Brazilian Stonehenge">
+      <img src="https://img.shields.io/badge/Location-Brazilian%20Stonehenge-blue?style=for-the-badge&logo=googlemaps" alt="Location Badge">
+    </a>
+    <a href="https://time.is/" target="_blank" rel="noopener noreferrer" aria-label="Time" title="Current time: 11:11:11 (UTC -03:00)">
+      <img src="https://img.shields.io/static/v1?label=Time&message=11%3A11%3A11%20(UTC%20-03%3A00)&color=green&style=for-the-badge" alt="Time Badge">
+    </a>
+  </div>
 
   ## 💻 My Repository Packages
   ### Ready-to-Download Solutions for Your IT Needs
 
   | Repository | Description | Key Features |
   |------------|-------------|--------------|
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools" target="_blank" aria-label="SysAdminToolSet Repository"><img src="https://img.shields.io/badge/SysAdmin%20ToolSet-Tools-blue?style=for-the-badge&logo=windows" alt="SysAdminToolSet Badge"></a> | Comprehensive tools for Windows Server and workstation administration. | <ul><li>Active Directory Management</li><li>GPO Management</li><li>Network Infrastructure Tools (DNS, DHCP, Certificates)</li><li>Security and Optimization</li><li>Complete ITSM Templates</li></ul> |
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/BlueTeam-Tools" target="_blank" aria-label="BlueTeam-Tools Repository"><img src="https://img.shields.io/badge/BlueTeam%20Tools-Forensics-orange?style=for-the-badge&logo=security" alt="BlueTeam-Tools Badge"></a> | Toolkit for forensic analysis, threat detection, and incident response. | <ul><li>Incident Response Scripts</li><li>Advanced Log Parsing</li><li>Security Hardening Tools</li></ul> |
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS" target="_blank" aria-label="ITSM-Templates-WKS Repository"><img src="https://img.shields.io/badge/ITSM%20Templates-WKS-green?style=for-the-badge&logo=windows" alt="ITSM-Templates-WKS Badge"></a> | Manage and enforce ITSM compliance on Windows 10/11 workstations. | <ul><li>PostIngress Scripts</li><li>Configuration Audit Tools</li><li>Customizable Modules</li></ul> |
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-SVR" target="_blank" aria-label="ITSM-Templates-SVR Repository"><img src="https://img.shields.io/badge/ITSM%20Templates-SVR-purple?style=for-the-badge&logo=server" alt="ITSM-Templates-SVR Badge"></a> | Templates and scripts for server hardening and ITSM compliance. | <ul><li>Server Hardening Scripts</li><li>Policy Enforcement Templates</li><li>Role-Specific Modules (DNS, File Server, IIS)</li></ul> |
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary" target="_blank" aria-label="Core-ScriptLibrary Repository"><img src="https://img.shields.io/badge/Core%20ScriptLibrary-Asset-red?style=for-the-badge&logo=vscode" alt="Core-ScriptLibrary Badge"></a> | A foundational library of PowerShell scripts for modular IT solutions. | <ul><li>Dynamic Automation</li><li>Interactive GUIs</li><li>Script Templates</li></ul> |
+  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools" target="_blank" aria-label="SysAdminToolSet Repository" title="Comprehensive tools for Windows Server administration"><img src="https://img.shields.io/badge/SysAdmin%20ToolSet-Tools-blue?style=for-the-badge&logo=windows" alt="SysAdminToolSet Badge"></a> | Comprehensive tools for Windows Server and workstation administration. | <ul><li>Active Directory Management</li><li>GPO Management</li><li>Network Infrastructure Tools (DNS, DHCP, Certificates)</li><li>Security and Optimization</li><li>Complete ITSM Templates</li></ul> |
+  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/BlueTeam-Tools" target="_blank" aria-label="BlueTeam-Tools Repository" title="Toolkit for forensic analysis and threat detection"><img src="https://img.shields.io/badge/BlueTeam%20Tools-Forensics-orange?style=for-the-badge&logo=security" alt="BlueTeam-Tools Badge"></a> | Toolkit for forensic analysis, threat detection, and incident response. | <ul><li>Incident Response Scripts</li><li>Advanced Log Parsing</li><li>Security Hardening Tools</li></ul> |
+  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS" target="_blank" aria-label="ITSM-Templates-WKS Repository" title="ITSM compliance for Windows workstations"><img src="https://img.shields.io/badge/ITSM%20Templates-WKS-green?style=for-the-badge&logo=windows" alt="ITSM-Templates-WKS Badge"></a> | Manage and enforce ITSM compliance on Windows 10/11 workstations. | <ul><li>PostIngress Scripts</li><li>Configuration Audit Tools</li><li>Customizable Modules</li></ul> |
+  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-SVR" target="_blank" aria-label="ITSM-Templates-SVR Repository" title="Server hardening templates"><img src="https://img.shields.io/badge/ITSM%20Templates-SVR-purple?style=for-the-badge&logo=server" alt="ITSM-Templates-SVR Badge"></a> | Templates and scripts for server hardening and ITSM compliance. | <ul><li>Server Hardening Scripts</li><li>Policy Enforcement Templates</li><li>Role-Specific Modules (DNS, File Server, IIS)</li></ul> |
+  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary" target="_blank" aria-label="Core-ScriptLibrary Repository" title="Dynamic PowerShell library"><img src="https://img.shields.io/badge/Core%20ScriptLibrary-Asset-red?style=for-the-badge&logo=vscode" alt="Core-ScriptLibrary Badge"></a> | A foundational library of PowerShell scripts for modular IT solutions. | <ul><li>Dynamic Automation</li><li>Interactive GUIs</li><li>Script Templates</li></ul> |
 
   ## 💡 Stay Updated
   <p align="center">
