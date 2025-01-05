@@ -35,7 +35,7 @@
     <a href="mailto:luizhamilton.lhr@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Email" title="Send me an email">
       <img src="https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email Badge">
     </a>
-  <a href="https://www.google.com/maps/place/Brazilian+Stonehenge/@2.6202778,-51.0097778,17z/data=!4m7!3m6!1s0x8d6915001bc8384b:0x2deae544bdb4df9a!4b1!8m2!3d2.6202778!4d-51.0097778!16s%2Fg%2F11vq3gqp1s?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer" aria-label="Location" title="View my location: Brazilian Stonehenge">
+  <a href="https://www.google.com/maps/search/?api=1&query=2%C2%B037'13.0%22N+51%C2%B000'35.2%22W" target="_blank" rel="noopener noreferrer" aria-label="Location" title="View my location: Brazilian Stonehenge">
     <img src="https://img.shields.io/badge/Location-Brazilian%20Stonehenge-blue?style=for-the-badge&logo=googlemaps" alt="Location Badge">
   </a>
   <a href="https://time.is/" target="_blank" rel="noopener noreferrer" aria-label="Time" title="Current time: 10:11 (UTC -03:00)">
