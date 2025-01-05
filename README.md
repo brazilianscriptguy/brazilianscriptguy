@@ -39,9 +39,8 @@
     <img src="https://img.shields.io/badge/Location-Brazilian%20Stonehenge-blue?style=for-the-badge&logo=googlemaps" alt="Location Badge">
   </a>
 <a href="https://time.is/" target="_blank" rel="noopener noreferrer" aria-label="Time" title="Current time: 10:11 (UTC -03:00)">
-  <img src="https://img.shields.io/badge/Time-10%3A11%20(UTC%20-03%3A00)-green?style=for-the-badge" alt="Time Badge">
+  <img src="https://img.shields.io/static/v1?label=Time&message=10%3A11%20(UTC%20-03%3A00)&color=green&style=for-the-badge" alt="Time Badge">
 </a>
-
 </div>
 
   ## 💻 My Repository Packages
