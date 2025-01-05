@@ -41,7 +41,7 @@
   <a href="https://time.is/" target="_blank" rel="noopener noreferrer" aria-label="Time" title="Current time: 10:11 (UTC -03:00)">
     <img src="https://img.shields.io/badge/Time-10%3A11%20(UTC%20-03%3A00)-green?style=for-the-badge&logo=calendar" alt="Time Badge">
   </a>
-  </div>
+</div>
 
   ## 💻 My Repository Packages
   ### Ready-to-Download Solutions for Your IT Needs
