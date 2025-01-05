@@ -5,36 +5,43 @@
   Welcome to my GitHub profile! I am a dedicated **Cybersecurity Analyst**, **Senior IT Analyst**, and **Systems Administrator** with extensive expertise in **Windows Server** and **Workstation Administration**. I specialize in developing **PowerShell** and **VBScript** tools for advanced IT management, facilitating seamless automation, ensuring compliance, and enhancing security. My mission is to create efficient, secure, and automated IT environments for professionals and organizations worldwide.
 
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/brazilianscriptguy" target="_blank" rel="noopener noreferrer" aria-label="GitHub" title="Visit my GitHub profile">
-    <img src="https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github" alt="GitHub Badge">
-  </a>
-  <a href="https://www.patreon.com/brazilianscriptguy" target="_blank" rel="noopener noreferrer" aria-label="Patreon" title="Support me on Patreon">
-    <img src="https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon" alt="Patreon Badge">
-  </a>
-  <a href="https://x.com/brazilianscriptguy" target="_blank" rel="noopener noreferrer" aria-label="X" title="Follow me on X">
-    <img src="https://img.shields.io/badge/X-@brazilianscriptguy-000000?style=for-the-badge&logo=x" alt="X Badge">
-  </a>
-  <a href="https://www.linkedin.com/in/brazilianscriptguy/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" title="Connect with me on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-in/brazilianscriptguy-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
-  </a>
-  <a href="https://www.youtube.com/@brazilianscriptguy" target="_blank" rel="noopener noreferrer" aria-label="YouTube" title="Subscribe to my YouTube channel">
-    <img src="https://img.shields.io/badge/YouTube-@brazilianscriptguy-FF0000?style=for-the-badge&logo=youtube" alt="YouTube Badge">
-  </a>
-  <a href="https://www.instagram.com/4tetraforensics" target="_blank" rel="noopener noreferrer" aria-label="Instagram" title="Follow me on Instagram">
-    <img src="https://img.shields.io/badge/Instagram-@4tetraforensics-E4405F?style=for-the-badge&logo=instagram" alt="Instagram Badge">
-  </a>
-  <a href="https://whatsapp.com/channel/0029VaEgqC50G0XZV1k4Mb1c" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" title="Join my WhatsApp channel">
-    <img src="https://img.shields.io/badge/WhatsApp-PowerShellBR-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp Badge">
-  </a>
-  <a href="https://orcid.org/0000-0003-3705-7468" target="_blank" rel="noopener noreferrer" aria-label="ORCID" title="View my ORCID profile">
-    <img src="https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid" alt="ORCID Badge">
-  </a>
-  <a href="http://lattes.cnpq.br/0191525072495482" target="_blank" rel="noopener noreferrer" aria-label="Lattes CV" title="View my Lattes CV">
-    <img src="https://img.shields.io/badge/Lattes%20CV-0191525072495482-00A693?style=for-the-badge&logo=academia" alt="Lattes CV Badge">
-  </a>
-  <a href="mailto:luizhamilton.lhr@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Email" title="Send me an email">
-    <img src="https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email Badge">
-  </a>
+    <a href="https://github.com/brazilianscriptguy" target="_blank" rel="noopener noreferrer" aria-label="GitHub" title="Visit my GitHub profile">
+      <img src="https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github" alt="GitHub Badge">
+    </a>
+    <a href="https://www.patreon.com/brazilianscriptguy" target="_blank" rel="noopener noreferrer" aria-label="Patreon" title="Support me on Patreon">
+      <img src="https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon" alt="Patreon Badge">
+    </a>
+    <a href="https://x.com/brazilianscriptguy" target="_blank" rel="noopener noreferrer" aria-label="X" title="Follow me on X">
+      <img src="https://img.shields.io/badge/X-@brazilianscriptguy-000000?style=for-the-badge&logo=x" alt="X Badge">
+    </a>
+    <a href="https://www.linkedin.com/in/brazilianscriptguy/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" title="Connect with me on LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-in/brazilianscriptguy-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
+    </a>
+    <a href="https://www.youtube.com/@brazilianscriptguy" target="_blank" rel="noopener noreferrer" aria-label="YouTube" title="Subscribe to my YouTube channel">
+      <img src="https://img.shields.io/badge/YouTube-@brazilianscriptguy-FF0000?style=for-the-badge&logo=youtube" alt="YouTube Badge">
+    </a>
+    <a href="https://www.instagram.com/4tetraforensics" target="_blank" rel="noopener noreferrer" aria-label="Instagram" title="Follow me on Instagram">
+      <img src="https://img.shields.io/badge/Instagram-@4tetraforensics-E4405F?style=for-the-badge&logo=instagram" alt="Instagram Badge">
+    </a>
+    <a href="https://whatsapp.com/channel/0029VaEgqC50G0XZV1k4Mb1c" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" title="Join my WhatsApp channel">
+      <img src="https://img.shields.io/badge/WhatsApp-PowerShellBR-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp Badge">
+    </a>
+    <a href="https://orcid.org/0000-0003-3705-7468" target="_blank" rel="noopener noreferrer" aria-label="ORCID" title="View my ORCID profile">
+      <img src="https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid" alt="ORCID Badge">
+    </a>
+    <a href="http://lattes.cnpq.br/0191525072495482" target="_blank" rel="noopener noreferrer" aria-label="Lattes CV" title="View my Lattes CV">
+      <img src="https://img.shields.io/badge/Lattes%20CV-0191525072495482-00A693?style=for-the-badge&logo=academia" alt="Lattes CV Badge">
+    </a>
+    <a href="mailto:luizhamilton.lhr@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Email" title="Send me an email">
+      <img src="https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email Badge">
+    </a>
+    <!-- New Location Badge -->
+    <a href="https://www.google.com/maps/search/?api=1&query=27%C2%B000'04.3%22S+48%C2%B036'19.2%22W" target="_blank" rel="noopener noreferrer" aria-label="Location" title="View my location: 27°00'04.3'S 48°36'19.2'W">
+      <img src="https://img.shields.io/badge/Location-27°00'04.3%22S%2048°36'19.2%22W-blue?style=for-the-badge&logo=googlemaps" alt="Location Badge">
+    </a>
+    <!-- New Time Badge -->
+    <img src="https://img.shields.io/badge/Time-10:11%20(UTC%20-03:00)-green?style=for-the-badge&logo=clock" alt="Time Badge">
+  </div>
 </div>
 
   ## 💻 My Repository Packages
