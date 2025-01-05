@@ -25,7 +25,7 @@
     <a href="https://www.instagram.com/4tetraforensics" target="_blank" aria-label="Instagram">
       <img src="https://img.shields.io/badge/Instagram-@4tetraforensics-E4405F?style=for-the-badge&logo=instagram" alt="Instagram Badge">
     </a>
-    <a href="https://wa.me/message/0029VaEgqC50G0XZV1k4Mb1c" target="_blank" aria-label="WhatsApp">
+    <a href="https://whatsapp.com/channel/0029VaEgqC50G0XZV1k4Mb1c" target="_blank" aria-label="WhatsApp">
       <img src="https://img.shields.io/badge/WhatsApp-PowerShellBR-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp Badge">
     </a>
     <a href="https://orcid.org/0000-0003-3705-7468" target="_blank" aria-label="ORCID">
