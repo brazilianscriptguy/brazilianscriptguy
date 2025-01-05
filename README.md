@@ -35,13 +35,11 @@
     <a href="mailto:luizhamilton.lhr@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Email" title="Send me an email">
       <img src="https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email Badge">
     </a>
-    <!-- New Location Badge -->
     <a href="https://www.google.com/maps/search/?api=1&query=27%C2%B000'04.3%22S+48%C2%B036'19.2%22W" target="_blank" rel="noopener noreferrer" aria-label="Location" title="View my location: 27°00'04.3'S 48°36'19.2'W">
       <img src="https://img.shields.io/badge/Location-27°00'04.3%22S%2048°36'19.2%22W-blue?style=for-the-badge&logo=googlemaps" alt="Location Badge">
-    </a>
-    <!-- New Time Badge -->
-    <img src="https://img.shields.io/badge/Time-10:11%20(UTC%20-03:00)-green?style=for-the-badge&logo=clock" alt="Time Badge">
-  </div>
+    <a href="https://time.is/" target="_blank" rel="noopener noreferrer" aria-label="Time" title="Current time: 10:11 (UTC -03:00)">
+  <img src="https://img.shields.io/badge/Time-10%3A11%20(UTC%20-03%3A00)-green?style=for-the-badge&logo=clock" alt="Time Badge">
+</a>
 </div>
 
   ## 💻 My Repository Packages
