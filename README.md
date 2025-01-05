@@ -36,7 +36,7 @@
       <img src="https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email Badge">
     </a>
   <a href="https://www.google.com/maps/place/Brazilian+Stonehenge/@2.6202778,-51.0097778,17z/data=!4m7!3m6!1s0x8d6915001bc8384b:0x2deae544bdb4df9a!4b1!8m2!3d2.6202778!4d-51.0097778!16s%2Fg%2F11vq3gqp1s?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer" aria-label="Location" title="View my location: Stonehenge Brasileiro">
-    <img src="https://img.shields.io/badge/Location-Stonehenge%20Brasileiro-blue?style=for-the-badge&logo=googlemaps" alt="Location Badge">
+    <img src="https://img.shields.io/badge/Location-Brazilian%20Stonehenge-blue?style=for-the-badge&logo=googlemaps" alt="Location Badge">
   </a>
   <a href="https://time.is/" target="_blank" rel="noopener noreferrer" aria-label="Time" title="Current time: 10:11 (UTC -03:00)">
     <img src="https://img.shields.io/badge/Time-10%3A11%20(UTC%20-03%3A00)-green?style=for-the-badge&logo=calendar" alt="Time Badge">
