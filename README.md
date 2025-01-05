@@ -38,8 +38,8 @@
   <a href="https://www.google.com/maps/search/?api=1&query=2%C2%B037'13.0%22N+51%C2%B000'35.2%22W" target="_blank" rel="noopener noreferrer" aria-label="Location" title="View my location: Brazilian Stonehenge">
     <img src="https://img.shields.io/badge/Location-Brazilian%20Stonehenge-blue?style=for-the-badge&logo=googlemaps" alt="Location Badge">
   </a>
-  <a href="https://time.is/" target="_blank" rel="noopener noreferrer" aria-label="Time" title="Current time: 10:11 (UTC -03:00)">
-  <img src="https://img.shields.io/badge/Time-10%3A11%20(UTC%20-03%3A00)-green?style=for-the-badge&logo=googlecalendar" alt="Time Badge">
+ <a href="https://time.is/" target="_blank" rel="noopener noreferrer" aria-label="Time" title="Current time: 10:11 (UTC -03:00)">
+  <img src="https://img.shields.io/badge/Time-10%3A11%20(UTC%20-03%3A00)-green?style=for-the-badge&logo=clockify" alt="Time Badge">
 </a>
 </div>
 
