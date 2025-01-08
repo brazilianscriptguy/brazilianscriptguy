@@ -65,7 +65,10 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=brazilianscriptguy&show_icons=true&theme=radical&v=2" alt="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianscriptguy&layout=compact&theme=radical&v=2" alt="Top Languages">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=brazilianscriptguy&theme=radical&v=2" alt="GitHub Streak">
+   <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=brazilianscriptguy" alt="GitHub Streak" />
+</a>
+
   </p>
 
   ## 🌟 Highlights of My Repositories
