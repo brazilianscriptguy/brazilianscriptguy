@@ -61,12 +61,12 @@
     </a>
   </p>
 
- ## 📊 My GitHub Statistics
+## 📊 My GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brazilianscriptguy&show_icons=true&theme=radical&v=2" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianscriptguy&layout=compact&theme=radical&v=2" alt="Top Languages">
-  <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=brazilianscriptguy&theme=radical" alt="GitHub Streak">
+  <a href="https://streak-stats.demolab.com/?user=brazilianscriptguy" target="_blank" rel="noopener noreferrer">
+    <img src="https://streak-stats.demolab.com/?user=brazilianscriptguy&theme=radical" alt="GitHub Streak">
   </a>
 </p>
 
