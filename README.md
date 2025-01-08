@@ -79,12 +79,11 @@
   </ul>
 
   ## 🤝 Support and Contributions
-  <p>
-    If my work has been helpful, consider supporting me on 
-    <a href="https://www.patreon.com/c/brazilianscriptguy" target="_blank">Patreon</a> for exclusive updates and content. 
-    You can also contribute by reporting issues, sharing ideas, or submitting pull requests.
-  </p>
-
+  <p align="center">
+  <a href="https://www.patreon.com/c/brazilianscriptguy" target="_blank" rel="noopener noreferrer" aria-label="Support me on Patreon" title="Support me on Patreon">
+    <img src="https://img.shields.io/badge/Support%20Me-Patreon-red?style=for-the-badge&logo=patreon" alt="Support me on Patreon">
+  </a>
+</p>
   <p align="center">
     Thank you for visiting my profile! Let's make IT management smarter, faster, and more secure—together! 💻🚀
   </p>
