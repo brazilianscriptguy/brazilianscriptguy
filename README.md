@@ -70,13 +70,14 @@
   </a>
 </p>
 
-  ## 🌟 Highlights of My Repositories
-  <ul>
-    <li><strong>GUI Integration:</strong> User-friendly graphical interfaces for every tool.</li>
-    <li><strong>Advanced Logging:</strong> Detailed <code>.log</code> and <code>.csv</code> files for tracking and reporting.</li>
-    <li><strong>Enhanced Security:</strong> Tools for compliance auditing, forensic data collection, and system hardening.</li>
-    <li><strong>Customizable:</strong> Highly adaptable scripts tailored for diverse IT environments.</li>
-  </ul>
+## 🌟 Highlights of My Repositories
+
+<div align="left">
+  <img src="https://img.shields.io/badge/GUI%20Integration-User%20Friendly%20Tools-blue?style=for-the-badge&logo=windowsterminal" alt="GUI Integration Badge">
+  <img src="https://img.shields.io/badge/Advanced%20Logging-.log%20%26%20.csv%20Tracking-yellow?style=for-the-badge&logo=notepadplusplus" alt="Advanced Logging Badge">
+  <img src="https://img.shields.io/badge/Enhanced%20Security-Compliance%20%26%20Forensics-red?style=for-the-badge&logo=security" alt="Enhanced Security Badge">
+  <img src="https://img.shields.io/badge/Customizable-Adaptive%20to%20IT%20Environments-green?style=for-the-badge&logo=gear" alt="Customizable Badge">
+</div>
 
   ## 🤝 Support and Contributions
   <p align="center">
