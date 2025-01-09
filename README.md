@@ -68,18 +68,6 @@
   <a href="https://streak-stats.demolab.com/?user=brazilianscriptguy" target="_blank" rel="noopener noreferrer">
     <img src="https://streak-stats.demolab.com/?user=brazilianscriptguy&theme=radical" alt="GitHub Streak">
   </a>
-
-## 📊 My GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brazilianscriptguy&show_icons=true&theme=radical&v=2" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianscriptguy&layout=compact&theme=radical&v=2" alt="Top Languages">
-  <img src="https://streak-stats.demolab.com/?user=brazilianscriptguy&theme=radical" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  🔗 [Latest GitHub Events](https://api.github.com/users/brazilianscriptguy/events)
-</p>
-
 </p>
 
 ## 🌟 Highlights of My Repositories
