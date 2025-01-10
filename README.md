@@ -1,5 +1,5 @@
 <div align="center">
-  # 👋 Hi There, I'm Luiz Hamilton (@brazilianscriptguy)
+  <h1>👋 Hi There, I'm Luiz Hamilton (@brazilianscriptguy)</h1>
 </div>
 
 <p style="text-align: left;">
@@ -51,25 +51,91 @@
 
 <hr>
 
-  ## 💻 My Repository Packages
-  ### Ready-to-Download Solutions for Your IT Needs
+<h2 align="center">💻 My Repository Packages</h2>
+<h3 align="center">Ready-to-Download Solutions for Your IT Needs</h3>
 
-  | Repository | Description | Key Features |
-  |------------|-------------|--------------|
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools" target="_blank"><img src="https://img.shields.io/badge/SysAdmin%20ToolSet-Tools-blue?style=for-the-badge&logo=windows" alt="SysAdminToolSet Badge"></a> | Comprehensive tools for Windows Server and workstation administration. | <ul><li>Active Directory Management</li><li>GPO Management</li><li>Network Infrastructure Tools (DNS, DHCP, Certificates)</li><li>Security and Optimization</li><li>Complete ITSM Templates</li></ul> |
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/BlueTeam-Tools" target="_blank"><img src="https://img.shields.io/badge/BlueTeam%20Tools-Forensics-orange?style=for-the-badge&logo=security" alt="BlueTeam-Tools Badge"></a> | Toolkit for forensic analysis, threat detection, and incident response. | <ul><li>Incident Response Scripts</li><li>Advanced Log Parsing</li><li>Security Hardening Tools</li></ul> |
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS" target="_blank"><img src="https://img.shields.io/badge/ITSM%20Templates-WKS-green?style=for-the-badge&logo=windows" alt="ITSM-Templates-WKS Badge"></a> | Manage and enforce ITSM compliance on Windows 10/11 workstations. | <ul><li>PostIngress Scripts</li><li>Configuration Audit Tools</li><li>Customizable Modules</li></ul> |
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-SVR" target="_blank"><img src="https://img.shields.io/badge/ITSM%20Templates-SVR-purple?style=for-the-badge&logo=server" alt="ITSM-Templates-SVR Badge"></a> | Templates and scripts for server hardening and ITSM compliance. | <ul><li>Server Hardening Scripts</li><li>Policy Enforcement Templates</li><li>Role-Specific Modules (DNS, File Server, IIS)</li></ul> |
-  | <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary" target="_blank"><img src="https://img.shields.io/badge/Core%20ScriptLibrary-Asset-red?style=for-the-badge&logo=vscode" alt="Core-ScriptLibrary Badge"></a> | A foundational library of PowerShell scripts for modular IT solutions. | <ul><li>Dynamic Automation</li><li>Interactive GUIs</li><li>Script Templates</li></ul> |
+<table align="center" border="1" style="border-collapse: collapse; width: 80%;">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Description</th>
+      <th>Key Features</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools" target="_blank">
+        <img src="https://img.shields.io/badge/SysAdmin%20ToolSet-Tools-blue?style=for-the-badge&logo=windows" alt="SysAdminToolSet Badge"></a></td>
+      <td>Comprehensive tools for Windows Server and workstation administration.</td>
+      <td>
+        <ul>
+          <li>Active Directory Management</li>
+          <li>GPO Management</li>
+          <li>Network Infrastructure Tools (DNS, DHCP, Certificates)</li>
+          <li>Security and Optimization</li>
+          <li>Complete ITSM Templates</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/BlueTeam-Tools" target="_blank">
+        <img src="https://img.shields.io/badge/BlueTeam%20Tools-Forensics-orange?style=for-the-badge&logo=security" alt="BlueTeam-Tools Badge"></a></td>
+      <td>Toolkit for forensic analysis, threat detection, and incident response.</td>
+      <td>
+        <ul>
+          <li>Incident Response Scripts</li>
+          <li>Advanced Log Parsing</li>
+          <li>Security Hardening Tools</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS" target="_blank">
+        <img src="https://img.shields.io/badge/ITSM%20Templates-WKS-green?style=for-the-badge&logo=windows" alt="ITSM-Templates-WKS Badge"></a></td>
+      <td>Manage and enforce ITSM compliance on Windows 10/11 workstations.</td>
+      <td>
+        <ul>
+          <li>PostIngress Scripts</li>
+          <li>Configuration Audit Tools</li>
+          <li>Customizable Modules</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-SVR" target="_blank">
+        <img src="https://img.shields.io/badge/ITSM%20Templates-SVR-purple?style=for-the-badge&logo=server" alt="ITSM-Templates-SVR Badge"></a></td>
+      <td>Templates and scripts for server hardening and ITSM compliance.</td>
+      <td>
+        <ul>
+          <li>Server Hardening Scripts</li>
+          <li>Policy Enforcement Templates</li>
+          <li>Role-Specific Modules (DNS, File Server, IIS)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary" target="_blank">
+        <img src="https://img.shields.io/badge/Core%20ScriptLibrary-Asset-red?style=for-the-badge&logo=vscode" alt="Core-ScriptLibrary Badge"></a></td>
+      <td>A foundational library of PowerShell scripts for modular IT solutions.</td>
+      <td>
+        <ul>
+          <li>Dynamic Automation</li>
+          <li>Interactive GUIs</li>
+          <li>Script Templates</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-  ## 💡 Stay Updated
-  <p align="center">
-    <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases" target="_blank">
-      <img src="https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&label=Latest%20Releases&logo=github" alt="Latest Releases Badge">
-    </a>
-  </p>
+<h2 align="center">💡 Stay Updated</h2>
+<p align="center">
+  <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases" target="_blank">
+    <img src="https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&label=Latest%20Releases&logo=github" alt="Latest Releases Badge">
+  </a>
+</p>
 
-## 📊 My GitHub Statistics
+<h2 align="center">📊 My GitHub Statistics</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brazilianscriptguy&show_icons=true&theme=radical&v=2" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianscriptguy&layout=compact&theme=radical&v=2" alt="Top Languages">
@@ -78,9 +144,8 @@
   </a>
 </p>
 
-## 🌟 Highlights of My Repositories
-
-<div align="left">
+<h2 align="center">🌟 Highlights of My Repositories</h2>
+<div align="center">
   <div>
     <img src="https://img.shields.io/badge/GUI%20Integration-blue?style=for-the-badge&logo=windowsterminal" alt="GUI Integration Badge">
     User-friendly graphical interfaces for every tool.
@@ -99,18 +164,16 @@
   </div>
 </div>
 
-  ## 🤝 Support and Contributions
-  <p align="center">
+<h2 align="center">🤝 Support and Contributions</h2>
+<p align="center">
   <a href="https://www.patreon.com/c/brazilianscriptguy" target="_blank" rel="noopener noreferrer" aria-label="Support me on Patreon" title="Support me on Patreon">
     <img src="https://img.shields.io/badge/Support%20Me-Patreon-red?style=for-the-badge&logo=patreon" alt="Support me on Patreon">
   </a>
 </p>
-  <p align="center">
-    Thank you for visiting my profile! Let's make IT management smarter, faster, and more secure—together! 💻🚀
-  </p>
+<p align="center">
+  Thank you for visiting my profile! Let's make IT management smarter, faster, and more secure—together! 💻🚀
+</p>
 
-  <footer>
-    &copy; 2025 Luiz Hamilton. All rights reserved.
-  </footer>
-
-</div>
+<footer align="center">
+  &copy; 2025 Luiz Hamilton. All rights reserved.
+</footer>
