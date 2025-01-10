@@ -172,6 +172,5 @@
 </p>
 <p align="center">
   Thank you for visiting my profile! Let's make IT management smarter, faster, and more secure—together! 💻🚀
-
 &copy; 2025 Luiz Hamilton. All rights reserved.
 </p>
