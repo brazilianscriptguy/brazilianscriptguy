@@ -144,8 +144,8 @@
   </a>
 </p>
 
-<h2 align="center">🌟 Highlights of My Repositories</h2>
-<div align="center">
+<h2>🌟 Highlights of My Repositories</h2>
+<div>
   <div>
     <img src="https://img.shields.io/badge/GUI%20Integration-blue?style=for-the-badge&logo=windowsterminal" alt="GUI Integration Badge">
     User-friendly graphical interfaces for every tool.
