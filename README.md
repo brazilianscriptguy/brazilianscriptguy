@@ -144,8 +144,8 @@
   </a>
 </p>
 
-<h2>🌟 Highlights of My Repositories</h2>
-<div>
+<h2 align="center">🌟 Highlights of My Repositories</h2>
+<div align="center">
   <div>
     <img src="https://img.shields.io/badge/GUI%20Integration-blue?style=for-the-badge&logo=windowsterminal" alt="GUI Integration Badge">
     User-friendly graphical interfaces for every tool.
@@ -164,7 +164,7 @@
   </div>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
   <h2>🤝 Support and Contributions</h2>
   <p>
     <a href="https://www.patreon.com/c/brazilianscriptguy" target="_blank" rel="noopener noreferrer" aria-label="Support me on Patreon" title="Support me on Patreon">
@@ -172,7 +172,7 @@
     </a>
   </p>
   <p>
-    Thank you for visiting my profile! Let's make IT management smarter, faster, and more secure together! 💻🚀
+    Thank you for visiting my profile! Let's make IT management smarter, faster, and more secure—together! 💻🚀
   </p>
   <p>&copy; 2025 Luiz Hamilton. All rights reserved.</p>
 </div>
