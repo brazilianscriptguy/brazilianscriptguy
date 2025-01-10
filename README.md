@@ -174,6 +174,4 @@
   Thank you for visiting my profile! Let's make IT management smarter, faster, and more secure—together! 💻🚀
 </p>
 
-<footer align="center">
-  &copy; 2025 Luiz Hamilton. All rights reserved.
-</footer>
+<footer align="center">  &copy; 2025 Luiz Hamilton. All rights reserved.</footer>
