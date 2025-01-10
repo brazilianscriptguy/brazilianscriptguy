@@ -164,14 +164,21 @@
   </div>
 </div>
 
-<div align="center">
-  <h2>🤝 Support and Contributions</h2>
-  <p>
-    <a href="https://www.patreon.com/c/brazilianscriptguy" target="_blank" rel="noopener noreferrer" aria-label="Support me on Patreon" title="Support me on Patreon">
-      <img src="https://img.shields.io/badge/Support%20Me-Patreon-red?style=for-the-badge&logo=patreon" alt="Support me on Patreon">
-    </a>
-  </p>
-  <p>
+<h2>🤝 Support and Contributions</h2>
+<p align="center">
+  <a href="mailto:luizhamilton.lhr@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.patreon.com/brazilianscriptguy" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Support%20Me-Patreon-red?style=for-the-badge&logo=patreon" alt="Support on Patreon">
+  </a>
+  <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Releases-Windows%20SysAdmin%20ProSuite-blue?style=for-the-badge&logo=github" alt="Releases">
+  </a>
+  <a href="https://whatsapp.com/channel/0029VaEgqC50G0XZV1k4Mb1c" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Join%20Us-WhatsApp-25D366?style=for-the-badge&logo=whatsapp" alt="Join WhatsApp Channel">
+  </a>
+</p>
     Thank you for visiting my profile! Let's make IT management smarter, faster, and more secure—together! 💻🚀
   </p>
   <p>&copy; 2025 Luiz Hamilton. All rights reserved.</p>
