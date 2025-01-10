@@ -10,7 +10,7 @@
   create efficient, secure, and automated IT environments for professionals and organizations worldwide.
 </p>
 
-<div style="text-align: center; display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<div align="center">
   <a href="https://github.com/brazilianscriptguy" target="_blank" aria-label="GitHub" title="Visit my GitHub profile">
     <img src="https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github" alt="GitHub Badge">
   </a>
