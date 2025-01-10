@@ -1,7 +1,8 @@
 <div align="center">
 
   # 👋 Hi There, I'm Luiz Hamilton (@brazilianscriptguy)
-
+  </div>
+  
   Welcome to my GitHub profile! I am a dedicated **Cybersecurity Analyst**, **Senior IT Analyst**, and **Systems Administrator** with extensive expertise in **Windows Server** and **Workstation Administration**. I specialize in developing **PowerShell** and **VBScript** tools for advanced IT management, facilitating seamless automation, ensuring compliance, and enhancing security. My mission is to create efficient, secure, and automated IT environments for professionals and organizations worldwide.
 
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
@@ -41,7 +42,6 @@
     <a href="https://time.is/" target="_blank" aria-label="Time" title="Current time: 11:11:11 (UTC -03:00)">
       <img src="https://img.shields.io/static/v1?label=Time&message=11%3A11%3A11%20(UTC%20-03%3A00)&color=green&style=for-the-badge" alt="Time Badge">
     </a>
-  </div>
 
   ## 💻 My Repository Packages
   ### Ready-to-Download Solutions for Your IT Needs
