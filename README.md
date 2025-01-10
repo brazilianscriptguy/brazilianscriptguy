@@ -164,14 +164,15 @@
   </div>
 </div>
 
-<h2 align="center">🤝 Support and Contributions</h2>
-<p align="center">
-  <a href="https://www.patreon.com/c/brazilianscriptguy" target="_blank" rel="noopener noreferrer" aria-label="Support me on Patreon" title="Support me on Patreon">
-    <img src="https://img.shields.io/badge/Support%20Me-Patreon-red?style=for-the-badge&logo=patreon" alt="Support me on Patreon">
-  </a>
-</p>
-<p align="center">
-  Thank you for visiting my profile! Let's make IT management smarter, faster, and more secure—together! 💻🚀
-
-&copy; 2025 Luiz Hamilton. All rights reserved.
-</p>
+<div style="text-align: center;">
+  <h2>🤝 Support and Contributions</h2>
+  <p>
+    <a href="https://www.patreon.com/c/brazilianscriptguy" target="_blank" rel="noopener noreferrer" aria-label="Support me on Patreon" title="Support me on Patreon">
+      <img src="https://img.shields.io/badge/Support%20Me-Patreon-red?style=for-the-badge&logo=patreon" alt="Support me on Patreon">
+    </a>
+  </p>
+  <p>
+    Thank you for visiting my profile! Let's make IT management smarter, faster, and more secure together! 💻🚀
+  </p>
+  <p>&copy; 2025 Luiz Hamilton. All rights reserved.</p>
+</div>
