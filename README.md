@@ -164,8 +164,8 @@
   </div>
 </div>
 
-<h2>🤝 Support and Contributions</h2>
 <p align="center">
+<h2>🤝 Support and Contributions</h2>
   <a href="mailto:luizhamilton.lhr@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email">
   </a>
