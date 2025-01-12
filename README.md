@@ -2,7 +2,7 @@
   <h1>👋 Hi There, I'm Luiz Hamilton (@brazilianscriptguy)</h1>
 </div>
 
-<p style="text-align: left;">
+<p style="text-align: justify;">
   Welcome to my GitHub profile! I am a dedicated <strong>Cybersecurity Analyst</strong>, <strong>Senior IT Analyst</strong>, 
   <strong>Systems Administrator</strong>, <strong>Windows Server Specialist</strong>, <strong>IT Support Expert</strong>, and 
   <strong>Digital Forensics Examiner</strong>. I have extensive expertise in <strong>Windows Server</strong> and 
