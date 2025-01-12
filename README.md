@@ -2,15 +2,14 @@
   <h1>👋 Hi There, I'm Luiz Hamilton (@brazilianscriptguy)</h1>
 </div>
 
-<p style="text-align: justify;">
+<p style="text-align: justify; line-height: 1.8; font-family: Arial, sans-serif; font-size: 16px;">
   Welcome to my GitHub profile! I am a dedicated <strong>Cybersecurity Analyst</strong>, <strong>Senior IT Analyst</strong>, 
   <strong>Systems Administrator</strong>, <strong>Windows Server Specialist</strong>, <strong>IT Support Expert</strong>, and 
   <strong>Digital Forensics Examiner</strong>. I have extensive expertise in <strong>Windows Server</strong> and 
   <strong>Workstation Administration</strong>. I specialize in developing <strong>PowerShell</strong> and <strong>VBScript</strong> 
   tools for advanced IT management, facilitating seamless automation, ensuring compliance, and enhancing security. My mission is to 
-  create efficient, secure, and automated IT environments for professionals and organizations worldwide. 
+  create efficient, secure, and automated IT environments for professionals and organizations worldwide.
 </p>
-
 
 <div align="center">
   <a href="https://github.com/brazilianscriptguy" target="_blank" aria-label="GitHub" title="Visit my GitHub profile">
