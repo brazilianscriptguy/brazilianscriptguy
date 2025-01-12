@@ -3,8 +3,9 @@
 </div>
 
 <p style="text-align: left;">
-  Welcome to my GitHub profile! I am a dedicated <strong>Cybersecurity Analyst</strong>, <strong>Senior IT Analyst</strong>, and 
-  <strong>Systems Administrator</strong> with extensive expertise in <strong>Windows Server</strong> and 
+  Welcome to my GitHub profile! I am a dedicated <strong>Cybersecurity Analyst</strong>, <strong>Senior IT Analyst</strong>, 
+  <strong>Systems Administrator</strong>, <strong>Windows Server Specialist</strong>, <strong>IT Support Expert</strong>, and 
+  <strong>Digital Forensics Examiner</strong>. I have extensive expertise in <strong>Windows Server</strong> and 
   <strong>Workstation Administration</strong>. I specialize in developing <strong>PowerShell</strong> and <strong>VBScript</strong> 
   tools for advanced IT management, facilitating seamless automation, ensuring compliance, and enhancing security. My mission is to 
   create efficient, secure, and automated IT environments for professionals and organizations worldwide.
