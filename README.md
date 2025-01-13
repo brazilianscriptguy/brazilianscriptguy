@@ -53,14 +53,14 @@
 <hr>
 
 <h2 align="center">💻 My Repository Packages</h2>
-<h3 align="center">Ready-to-Download Solutions for Your IT Needs</h3>
+<h3 align="center">Efficient, Secure, and Ready-to-Download IT Solutions</h3>
 
-<table align="center" border="1" style="border-collapse: collapse; width: 80%;">
+<table align="center" border="1" style="border-collapse: collapse; width: 80%; text-align: left;">
   <thead>
     <tr>
-      <th>Repository</th>
-      <th>Description</th>
-      <th>Key Features</th>
+      <th style="width: 25%;">Repository</th>
+      <th style="width: 35%;">Description</th>
+      <th style="width: 40%;">Key Features</th>
     </tr>
   </thead>
   <tbody>
@@ -70,13 +70,13 @@
           <img src="https://img.shields.io/badge/SysAdmin%20ToolSet-Tools-blue?style=for-the-badge&logo=windows" alt="SysAdminToolSet Badge">
         </a>
       </td>
-      <td>Comprehensive tools for Windows Server and workstation administration.</td>
+      <td>Comprehensive tools for managing Windows Servers, workstations, and Active Directory environments.</td>
       <td>
         <ul>
-          <li>Active Directory Management</li>
-          <li>GPO Management</li>
-          <li>Network Infrastructure Tools (DNS, DHCP, Certificates)</li>
-          <li>Security and Optimization</li>
+          <li>Advanced Active Directory Management</li>
+          <li>Group Policy Objects (GPO) Templates and Management</li>
+          <li>Infrastructure Management (DNS, DHCP, Certificates)</li>
+          <li>System Security and Optimization Tools</li>
         </ul>
       </td>
     </tr>
@@ -86,12 +86,13 @@
           <img src="https://img.shields.io/badge/BlueTeam%20Tools-Forensics-orange?style=for-the-badge&logo=security" alt="BlueTeam-Tools Badge">
         </a>
       </td>
-      <td>Toolkit for forensic analysis, threat detection, and incident response.</td>
+      <td>A specialized toolkit for forensic analysis, threat detection, and security incident response.</td>
       <td>
         <ul>
-          <li>Incident Response Scripts</li>
-          <li>Advanced Log Parsing</li>
-          <li>Security Hardening Tools</li>
+          <li>Incident Response Automation</li>
+          <li>Advanced Log Analysis and Parsing Tools</li>
+          <li>Scripts for System Hardening</li>
+          <li>Threat Detection and Mitigation Utilities</li>
         </ul>
       </td>
     </tr>
@@ -101,13 +102,13 @@
           <img src="https://img.shields.io/badge/ITSM%20Templates-WKS-green?style=for-the-badge&logo=windows" alt="ITSM-Templates-WKS Badge">
         </a>
       </td>
-      <td>Manage and enforce ITSM compliance on Windows 10/11 workstations.</td>
+      <td>Tools and templates for enforcing ITSM compliance on Windows 10/11 workstations.</td>
       <td>
         <ul>
-          <li>PostIngress Scripts</li>
-          <li>Configuration Audit Tools</li>
-          <li>Customizable Modules</li>
-          <li>Complete ITSM Templates for Workstation</li>
+          <li>PostIngress Configuration Scripts</li>
+          <li>Workstation Compliance Auditing</li>
+          <li>Customizable ITSM Modules</li>
+          <li>Comprehensive Configuration Templates</li>
         </ul>
       </td>
     </tr>
@@ -117,13 +118,13 @@
           <img src="https://img.shields.io/badge/ITSM%20Templates-SVR-purple?style=for-the-badge&logo=server" alt="ITSM-Templates-SVR Badge">
         </a>
       </td>
-      <td>Templates and scripts for server hardening and ITSM compliance.</td>
+      <td>Predefined templates and scripts for ITSM compliance and server hardening.</td>
       <td>
         <ul>
-          <li>Server Hardening Scripts</li>
-          <li>Policy Enforcement Templates</li>
-          <li>Role-Specific Modules (DNS, File Server, IIS)</li>
-          <li>Complete ITSM Templates for Servers</li>
+          <li>Server Hardening and Role-Based Configurations</li>
+          <li>Policy Enforcement Scripts</li>
+          <li>Modules for DNS, File Servers, IIS, and More</li>
+          <li>Complete ITSM Solutions for Servers</li>
         </ul>
       </td>
     </tr>
@@ -133,12 +134,13 @@
           <img src="https://img.shields.io/badge/Core%20ScriptLibrary-Asset-red?style=for-the-badge&logo=vscode" alt="Core-ScriptLibrary Badge">
         </a>
       </td>
-      <td>A foundational library of PowerShell scripts for modular IT solutions.</td>
+      <td>A foundational library of modular PowerShell scripts for dynamic and advanced IT solutions.</td>
       <td>
         <ul>
-          <li>Dynamic Automation</li>
-          <li>Interactive GUIs</li>
-          <li>Script Templates</li>
+          <li>Automation for Routine IT Tasks</li>
+          <li>Dynamic, User-Friendly GUI Support</li>
+          <li>Script Templates for IT Customizations</li>
+          <li>Seamless Integration with Other Tools</li>
         </ul>
       </td>
     </tr>
