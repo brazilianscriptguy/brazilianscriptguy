@@ -74,8 +74,7 @@
           <li>GPO Management</li>
           <li>Network Infrastructure Tools (DNS, DHCP, Certificates)</li>
           <li>Security and Optimization</li>
-          <li>Complete ITSM Templates</li>
-        </ul>
+          </ul>
       </td>
     </tr>
     <tr>
@@ -99,6 +98,7 @@
           <li>PostIngress Scripts</li>
           <li>Configuration Audit Tools</li>
           <li>Customizable Modules</li>
+          <li>Complete ITSM Templates for Workstation</li>
         </ul>
       </td>
     </tr>
@@ -111,6 +111,7 @@
           <li>Server Hardening Scripts</li>
           <li>Policy Enforcement Templates</li>
           <li>Role-Specific Modules (DNS, File Server, IIS)</li>
+          <li>Complete ITSM Templates for Servers</li>
         </ul>
       </td>
     </tr>
