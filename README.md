@@ -4,13 +4,51 @@
 </div>
 
 <p style="text-align: justify; line-height: 1.8; font-family: Arial, sans-serif; font-size: 16px;">
-  Welcome to my GitHub profile! I am a dedicated <strong>Cybersecurity Analyst</strong>, <strong>Senior IT Analyst</strong>, 
-  <strong>Systems Administrator</strong>, <strong>Windows Server Specialist</strong>, <strong>IT Support Expert</strong>, and 
-  <strong>Digital Forensics Examiner</strong>. I have extensive expertise in <strong>Windows Server</strong> and 
-  <strong>Workstation Administration</strong>. I specialize in developing <strong>PowerShell</strong> and <strong>VBScript</strong> 
-  tools for advanced IT management, facilitating seamless automation, ensuring compliance, and enhancing security. My mission is to 
-  create efficient, secure, and automated IT environments for professionals and organizations worldwide.
+  Welcome to my GitHub profile! I am a dedicated 
+  <strong>
+    <img src="https://img.shields.io/badge/Cybersecurity%20Analyst-blue?style=flat-square&logo=security" alt="Cybersecurity Analyst Badge">
+    Cybersecurity Analyst
+  </strong>, 
+  <strong>
+    <img src="https://img.shields.io/badge/Senior%20IT%20Analyst-red?style=flat-square&logo=microsoft" alt="Senior IT Analyst Badge">
+    Senior IT Analyst
+  </strong>, 
+  <strong>
+    <img src="https://img.shields.io/badge/Systems%20Administrator-green?style=flat-square&logo=serverfault" alt="Systems Administrator Badge">
+    Systems Administrator
+  </strong>, 
+  <strong>
+    <img src="https://img.shields.io/badge/Windows%20Server%20Specialist-purple?style=flat-square&logo=windows" alt="Windows Server Specialist Badge">
+    Windows Server Specialist
+  </strong>, 
+  <strong>
+    <img src="https://img.shields.io/badge/IT%20Support%20Expert-orange?style=flat-square&logo=helpdesk" alt="IT Support Expert Badge">
+    IT Support Expert
+  </strong>, and 
+  <strong>
+    <img src="https://img.shields.io/badge/Digital%20Forensics%20Examiner-darkblue?style=flat-square&logo=forensic-science" alt="Digital Forensics Examiner Badge">
+    Digital Forensics Examiner
+  </strong>. 
+  I have extensive expertise in 
+  <strong>
+    <img src="https://img.shields.io/badge/Windows%20Server-blue?style=flat-square&logo=windows" alt="Windows Server Badge">
+    Windows Server
+  </strong> and 
+  <strong>
+    <img src="https://img.shields.io/badge/Workstation%20Administration-green?style=flat-square&logo=desktopcomputing" alt="Workstation Administration Badge">
+    Workstation Administration
+  </strong>. 
+  I specialize in developing 
+  <strong>
+    <img src="https://img.shields.io/badge/PowerShell-darkgreen?style=flat-square&logo=powershell" alt="PowerShell Badge">
+    PowerShell
+  </strong> and 
+  <strong>
+    <img src="https://img.shields.io/badge/VBScript-blueviolet?style=flat-square&logo=visualstudio" alt="VBScript Badge">
+    VBScript
+  </strong> tools for advanced IT management, facilitating seamless automation, ensuring compliance, and enhancing security. My mission is to create efficient, secure, and automated IT environments for professionals and organizations worldwide.
 </p>
+
 
 <div align="center">
   <a href="https://github.com/brazilianscriptguy" target="_blank">
