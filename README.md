@@ -192,6 +192,12 @@
     <a href="https://www.patreon.com/brazilianscriptguy" target="_blank">
       <img src="https://img.shields.io/badge/Support%20Me-Patreon-red?style=for-the-badge&logo=patreon" alt="Support on Patreon">
     </a>
+    <a href="https://buymeacoffee.com/brazilianscriptguy" target="_blank">
+      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?style=for-the-badge&logo=buymeacoffee" alt="Buy Me a Coffee Badge">
+    </a>
+    <a href="https://ko-fi.com/brazilianscriptguy" target="_blank">
+      <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-blue?style=for-the-badge&logo=kofi" alt="Ko-fi Badge">
+    </a>
     <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases" target="_blank">
       <img src="https://img.shields.io/badge/Releases-Windows%20SysAdmin%20ProSuite-blue?style=for-the-badge&logo=github" alt="Releases">
     </a>
