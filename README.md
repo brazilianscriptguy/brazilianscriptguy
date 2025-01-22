@@ -198,7 +198,7 @@
     <a href="https://ko-fi.com/brazilianscriptguy" target="_blank">
       <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-blue?style=for-the-badge&logo=kofi" alt="Ko-fi Badge">
     </a>
-    <a href="https://gofund.me/f/brazilianscriptguy" target="_blank">
+    <a href="https://www.gofundme.com/f/brazilianscriptguy" target="_blank">
       <img src="https://img.shields.io/badge/GoFundMe-Donate-green?style=for-the-badge&logo=gofundme" alt="GoFundMe Badge">
     </a>
     <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases" target="_blank">
