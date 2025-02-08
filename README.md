@@ -77,7 +77,7 @@
           <li>Group Policy Objects (GPO) Templates and Management</li>
           <li>Infrastructure Management (DNS, DHCP, Certificates)</li>
           <li>System Security and Optimization Tools</li>
-          <li><strong>ActiveDirectory-SSO-Integrations for LDAP-based Single Sign-On (SSO) authentication</strong></li>
+          <li>ActiveDirectory SSO Integrations for LDAP-based Single Sign-On (SSO) authentication</li>
         </ul>
       </td>
     </tr>
