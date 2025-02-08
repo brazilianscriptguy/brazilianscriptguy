@@ -48,7 +48,11 @@
   <a href="https://time.is/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Time&message=11%3A11%3A11%20(UTC%20-03%3A00)&color=green&style=for-the-badge" alt="Time Badge">
   </a>
+  <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases/tag/ActiveDirectory-SSO-Integrations" target="_blank">
+    <img src="https://img.shields.io/badge/ActiveDirectory%20SSO-Integrations-blue?style=for-the-badge&logo=github" alt="ActiveDirectory SSO Badge">
+  </a>
 </div>
+
 
 <hr>
 
