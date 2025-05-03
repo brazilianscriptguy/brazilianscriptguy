@@ -1,16 +1,18 @@
 <div align="center">
   
-  <h1>👋 Hi There, I'm Luiz Hamilton (@brazilianscriptguy)</h1>
+<h1>👋 Hi there, I'm Luiz Hamilton (@brazilianscriptguy)</h1>
 </div>
 
 <p style="text-align: justify; line-height: 1.8; font-family: Arial, sans-serif; font-size: 16px;">
-  Welcome to my GitHub profile! I am a dedicated <strong>Cybersecurity Analyst</strong>, <strong>Senior IT Analyst</strong>, 
-  <strong>Systems Administrator</strong>, <strong>Windows Server Specialist</strong>, <strong>IT Support Expert</strong>, and 
-  <strong>Digital Forensics Examiner</strong>. I have extensive expertise in <strong>Windows Server</strong> and 
-  <strong>Workstation Administration</strong>. I specialize in developing <code>PowerShell</code> and <code>VBScript</code> 
-  tools for advanced IT management, facilitating seamless automation, ensuring compliance, and enhancing security. My mission is to 
-  create efficient, secure, and automated IT environments for professionals and organizations worldwide.
+  Welcome to my GitHub profile! I'm a results-driven <strong>IAM Analyst</strong> and <strong>Senior Systems Analyst</strong> 
+  with proven expertise in <strong>Identity & Access Management</strong>, <strong>Cybersecurity</strong>, and 
+  <strong>Digital Forensics</strong>. I specialize in administering and securing <strong>Windows Server environments</strong>, 
+  managing complex <strong>IT infrastructure</strong>, and delivering advanced <strong>IT support</strong> solutions.
+  <br><br>
+  I develop powerful <code>PowerShell</code> and <code>VBScript</code> tools to automate identity management, strengthen compliance, and streamline enterprise operations. 
+  My mission is to engineer efficient, secure, and scalable IT systems that support digital resilience and operational excellence for organizations across industries.
 </p>
+
 <div align="center">
   <a href="https://github.com/brazilianscriptguy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github" alt="GitHub Badge">
