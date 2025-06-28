@@ -1,19 +1,20 @@
 <div align="center">
-  
-<h1>👋 Hi there, I'm Luiz Hamilton (@brazilianscriptguy)</h1>
+  <h1>👋 Hi there, I'm Luiz Hamilton (@brazilianscriptguy)</h1>
 </div>
 
 <p style="text-align: justify; line-height: 1.8; font-family: Arial, sans-serif; font-size: 16px;">
   Welcome to my GitHub profile! I'm a results-driven <strong>IAM Analyst</strong> and <strong>Senior Systems Analyst</strong> 
   with proven expertise in <strong>Identity & Access Management</strong>, <strong>Cybersecurity</strong>, and 
-  <strong>Digital Forensics</strong>. I specialize in administering and securing <strong>Windows Server environments</strong>, 
-  managing complex <strong>IT infrastructure</strong>, and delivering advanced <strong>IT support</strong> solutions.
+  <strong>Digital Forensics</strong>. I specialize in securing and administering <strong>Windows Server infrastructures</strong>, 
+  building enterprise-grade <strong>automation scripts</strong>, and supporting high-availability IT operations.
   <br><br>
-  I develop powerful <code>PowerShell</code> and <code>VBScript</code> tools to automate identity management, strengthen compliance, and streamline enterprise operations. 
-  My mission is to engineer efficient, secure, and scalable IT systems that support digital resilience and operational excellence for organizations across industries.
+  I develop powerful <code>PowerShell</code> and <code>VBScript</code> tools to automate identity workflows, enforce ITSM compliance, 
+  and improve administrative efficiency. My mission is to engineer secure, reliable, and scalable systems that enable 
+  digital transformation across organizations.
 </p>
 
-<div align="center">
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <!-- Profile Badges -->
   <a href="https://github.com/brazilianscriptguy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github" alt="GitHub Badge">
   </a>
@@ -55,14 +56,14 @@
 <hr>
 
 <h2 align="center">💻 My Repository Packages</h2>
-<h3 align="center">Efficient, Secure, and Ready-to-Download IT Solutions</h3>
+<h3 align="center">Efficient, Secure, and Ready-to-Deploy IT Solutions</h3>
 
-<table align="center" border="1" style="border-collapse: collapse; width: 80%; text-align: left;">
+<table align="center" border="1" style="border-collapse: collapse; width: 90%; text-align: left; font-size: 15px;">
   <thead>
     <tr>
-      <th style="width: 25%;">Repository</th>
-      <th style="width: 35%;">Description</th>
-      <th style="width: 40%;">Key Features</th>
+      <th style="width: 22%;">Repository</th>
+      <th style="width: 33%;">Description</th>
+      <th style="width: 45%;">Key Features</th>
     </tr>
   </thead>
   <tbody>
@@ -72,14 +73,13 @@
           <img src="https://img.shields.io/badge/SysAdmin%20ToolSet-Tools-blue?style=for-the-badge&logo=windows" alt="SysAdminToolSet Badge">
         </a>
       </td>
-      <td>Comprehensive tools for managing Windows Servers, workstations, and Active Directory environments.</td>
+      <td>Essential tools for managing Windows Servers, workstations, and Active Directory environments.</td>
       <td>
         <ul>
-          <li>Advanced Active Directory Management</li>
-          <li>Group Policy Objects (GPO) Templates and Management</li>
-          <li>Infrastructure Management (DNS, DHCP, Certificates)</li>
-          <li>System Security and Optimization Tools</li>
-          <li>Active Directory SSO Integrations for LDAP-Based Single Sign-On (SSO) Authentication</li>
+          <li>Advanced AD Management</li>
+          <li>GPO Templates and Enforcement</li>
+          <li>Infrastructure Services (DNS, DHCP, Certs)</li>
+          <li>SSO & LDAP Configurations</li>
         </ul>
       </td>
     </tr>
@@ -89,130 +89,104 @@
           <img src="https://img.shields.io/badge/BlueTeam%20Tools-Forensics-orange?style=for-the-badge&logo=security" alt="BlueTeam-Tools Badge">
         </a>
       </td>
-      <td>A specialized toolkit for forensic analysis, threat detection, and security incident response.</td>
+      <td>Digital forensics and incident response scripts for cybersecurity operations.</td>
       <td>
         <ul>
           <li>Incident Response Automation</li>
-          <li>Advanced Log Analysis and Parsing Tools</li>
-          <li>Scripts for System Hardening</li>
-          <li>Threat Detection and Mitigation Utilities</li>
+          <li>SIEM & Log Parsers</li>
+          <li>Security Hardening Scripts</li>
+          <li>Threat Detection Tools</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS" target="_blank">
-          <img src="https://img.shields.io/badge/ITSM%20Templates-WKS-green?style=for-the-badge&logo=windows" alt="ITSM-Templates-WKS Badge">
+          <img src="https://img.shields.io/badge/ITSM%20Templates-WKS-green?style=for-the-badge&logo=windows" alt="ITSM-WKS Badge">
         </a>
       </td>
-      <td>Tools and templates for enforcing ITSM compliance on Windows 10/11 workstations.</td>
+      <td>Scripts and templates for ITSM-compliant workstation configuration on Windows 10/11.</td>
       <td>
         <ul>
-          <li>PostIngress Configuration Scripts</li>
-          <li>Workstation Compliance Auditing</li>
-          <li>Customizable ITSM Modules</li>
-          <li>Comprehensive Configuration Templates</li>
+          <li>Pre/Post Domain Join Scripts</li>
+          <li>ITSM Compliance Templates</li>
+          <li>Offline Login Setup</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-SVR" target="_blank">
-          <img src="https://img.shields.io/badge/ITSM%20Templates-SVR-purple?style=for-the-badge&logo=server" alt="ITSM-Templates-SVR Badge">
+          <img src="https://img.shields.io/badge/ITSM%20Templates-SVR-purple?style=for-the-badge&logo=server" alt="ITSM-SVR Badge">
         </a>
       </td>
-      <td>Predefined templates and scripts for ITSM compliance and server hardening.</td>
+      <td>Server hardening and automation templates for secure and compliant server infrastructure.</td>
       <td>
         <ul>
-          <li>Server Hardening and Role-Based Configurations</li>
-          <li>Policy Enforcement Scripts</li>
-          <li>Modules for DNS, File Servers, IIS, and More</li>
-          <li>Complete ITSM Solutions for Servers</li>
+          <li>DNS / IIS / File Server Modules</li>
+          <li>Service Role Templates</li>
+          <li>Security & Audit Automation</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary" target="_blank">
-          <img src="https://img.shields.io/badge/Core%20ScriptLibrary-Asset-red?style=for-the-badge&logo=vscode" alt="Core-ScriptLibrary Badge">
+          <img src="https://img.shields.io/badge/Core%20ScriptLibrary-Asset-red?style=for-the-badge&logo=vscode" alt="CoreScript Badge">
         </a>
       </td>
-      <td>A foundational library of modular PowerShell scripts for dynamic and advanced IT solutions.</td>
+      <td>Reusable and modular PowerShell scripts for building dynamic IT solutions.</td>
       <td>
         <ul>
-          <li>Automation for Routine IT Tasks</li>
-          <li>Dynamic, User-Friendly GUI Support</li>
-          <li>Script Templates for IT Customizations</li>
-          <li>Seamless Integration with Other Tools</li>
+          <li>Custom GUIs</li>
+          <li>Automation Templates</li>
+          <li>Multi-use Function Libraries</li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
 
-<h2 align="center">💡 Stay Updated</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases" target="_blank">
-    <img src="https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&label=Latest%20Releases&logo=github" alt="Latest Releases Badge">
-  </a>
-</p>
-
-<h2 align="center">📊 My GitHub Statistics</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brazilianscriptguy&show_icons=true&theme=radical&v=2" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianscriptguy&layout=compact&theme=radical&v=2" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=brazilianscriptguy&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianscriptguy&layout=compact&theme=radical" alt="Top Languages">
   <a href="https://streak-stats.demolab.com/?user=brazilianscriptguy" target="_blank">
     <img src="https://streak-stats.demolab.com/?user=brazilianscriptguy&theme=radical" alt="GitHub Streak">
   </a>
 </p>
 
-<h2>🌟 Highlights of My Repositories</h2>
-<div>
-  <div>
-    <img src="https://img.shields.io/badge/GUI%20Integration-blue?style=for-the-badge&logo=windowsterminal" alt="GUI Integration Badge">
-    User-friendly graphical interfaces for every tool.
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/Advanced%20Logging-yellow?style=for-the-badge&logo=notepadplusplus" alt="Advanced Logging Badge">
-    Detailed <code>.log</code> and <code>.csv</code> files for tracking and reporting.
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/Enhanced%20Security-red?style=for-the-badge&logo=security" alt="Enhanced Security Badge">
-    Tools for compliance auditing, forensic data collection, and system hardening.
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/Customizable-green?style=for-the-badge&logo=gear" alt="Customizable Badge">
-    Highly adaptable scripts tailored for diverse IT environments.
-  </div>
+<h2 align="center">🌟 Highlights</h2>
+<ul>
+  <li><strong>🎨 GUI-Driven Tools:</strong> Every utility includes an intuitive graphical interface.</li>
+  <li><strong>📝 Structured Logs:</strong> All outputs saved in organized <code>.log</code> and <code>.csv</code> formats.</li>
+  <li><strong>🔐 Security First:</strong> Includes forensic tools and hardening scripts.</li>
+  <li><strong>⚙️ Modular Scripts:</strong> All solutions are customizable for enterprise-grade deployments.</li>
+</ul>
+
+<hr>
+
+<h2 align="center">🤝 Support & Contributions</h2>
+<div align="center">
+  <a href="mailto:luizhamilton.lhr@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.patreon.com/brazilianscriptguy" target="_blank">
+    <img src="https://img.shields.io/badge/Support%20Me-Patreon-red?style=for-the-badge&logo=patreon" alt="Patreon">
+  </a>
+  <a href="https://buymeacoffee.com/brazilianscriptguy" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buymeacoffee" alt="Buy Me Coffee">
+  </a>
+  <a href="https://ko-fi.com/brazilianscriptguy" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-blue?style=for-the-badge&logo=kofi" alt="Ko-fi">
+  </a>
+  <a href="https://www.gofundme.com/f/brazilianscriptguy" target="_blank">
+    <img src="https://img.shields.io/badge/GoFundMe-green?style=for-the-badge&logo=gofundme" alt="GoFundMe">
+  </a>
 </div>
 
-<div>
-  <h2 align="center">🤝 Support and Contributions</h2>
-  <p align="center">
-    <a href="mailto:luizhamilton.lhr@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email">
-    </a>
-    <a href="https://www.patreon.com/brazilianscriptguy" target="_blank">
-      <img src="https://img.shields.io/badge/Support%20Me-Patreon-red?style=for-the-badge&logo=patreon" alt="Support on Patreon">
-    </a>
-    <a href="https://buymeacoffee.com/brazilianscriptguy" target="_blank">
-      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?style=for-the-badge&logo=buymeacoffee" alt="Buy Me a Coffee Badge">
-    </a>
-    <a href="https://ko-fi.com/brazilianscriptguy" target="_blank">
-      <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-blue?style=for-the-badge&logo=kofi" alt="Ko-fi Badge">
-    </a>
-    <a href="https://www.gofundme.com/f/brazilianscriptguy" target="_blank">
-      <img src="https://img.shields.io/badge/GoFundMe-Donate-green?style=for-the-badge&logo=gofundme" alt="GoFundMe Badge">
-    </a>
-    <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases" target="_blank">
-      <img src="https://img.shields.io/badge/Releases-Windows%20SysAdmin%20ProSuite-blue?style=for-the-badge&logo=github" alt="Releases">
-    </a>
-    <a href="https://whatsapp.com/channel/0029VaEgqC50G0XZV1k4Mb1c" target="_blank">
-      <img src="https://img.shields.io/badge/Join%20Us-WhatsApp-25D366?style=for-the-badge&logo=whatsapp" alt="Join WhatsApp Channel">
-    </a>
-  </p>
-  <p align="center">
-    Thank you for visiting my profile! Let's make IT management smarter, faster, and more secure—together! 💻🚀
-  </p>
-  <p align="center">&copy; 2025 Luiz Hamilton. All rights reserved.</p>
-</div>
+<p align="center" style="margin-top: 20px;">
+  🚀 Thank you for visiting my profile! Let’s make IT smarter, faster, and more secure — together!
+</p>
+
+<p align="center">&copy; 2025 Luiz Hamilton. All rights reserved.</p>
