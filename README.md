@@ -21,7 +21,7 @@
   <a href="https://www.patreon.com/brazilianscriptguy" target="_blank">
     <img src="https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon" alt="Patreon Badge">
   </a>
-  <a href="https://x.com/brazilianscriptguy" target="_blank">
+  <a href="https://x.com/brazscriptguy" target="_blank">
     <img src="https://img.shields.io/badge/X-@brazilianscriptguy-000000?style=for-the-badge&logo=x" alt="X Badge">
   </a>
   <a href="https://www.linkedin.com/in/brazilianscriptguy/" target="_blank">
