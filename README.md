@@ -4,13 +4,13 @@
 
 <p style="text-align: justify; line-height: 1.8; font-family: Arial, sans-serif; font-size: 16px;">
   Welcome to my GitHub profile! I'm a results-driven <strong>IAM Analyst</strong> and <strong>Senior Systems Analyst</strong> 
-  with proven expertise in <strong>Identity & Access Management</strong>, <strong>Cybersecurity</strong>, and 
+  with expertise in <strong>Identity & Access Management</strong>, <strong>Cybersecurity</strong>, and 
   <strong>Digital Forensics</strong>. I specialize in securing and administering <strong>Windows Server infrastructures</strong>, 
   building enterprise-grade <strong>automation scripts</strong>, and supporting high-availability IT operations.
   <br><br>
-  I develop powerful <code>PowerShell</code> and <code>VBScript</code> tools to automate identity workflows, enforce ITSM compliance, 
-  and improve administrative efficiency. My mission is to engineer secure, reliable, and scalable systems that enable 
-  digital transformation across organizations.
+  I create robust <code>PowerShell</code> and <code>VBScript</code> tools to automate identity workflows, enforce ITSM compliance, 
+  and boost administrative productivity. My mission is to engineer secure, reliable, and scalable systems that accelerate 
+  digital transformation across enterprises.
 </p>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
@@ -73,13 +73,13 @@
           <img src="https://img.shields.io/badge/SysAdmin%20ToolSet-Tools-blue?style=for-the-badge&logo=windows" alt="SysAdminToolSet Badge">
         </a>
       </td>
-      <td>Essential tools for managing Windows Servers, workstations, and Active Directory environments.</td>
+      <td>Powerful scripts for managing AD, GPOs, DNS, DHCP, Certificates, and Infrastructure automation.</td>
       <td>
         <ul>
-          <li>Advanced AD Management</li>
-          <li>GPO Templates and Enforcement</li>
-          <li>Infrastructure Services (DNS, DHCP, Certs)</li>
-          <li>SSO & LDAP Configurations</li>
+          <li>Advanced Active Directory Automation</li>
+          <li>GPO Deployment Frameworks</li>
+          <li>Infrastructure Services Integration</li>
+          <li>Smart Network Utilities</li>
         </ul>
       </td>
     </tr>
@@ -89,13 +89,13 @@
           <img src="https://img.shields.io/badge/BlueTeam%20Tools-Forensics-orange?style=for-the-badge&logo=security" alt="BlueTeam-Tools Badge">
         </a>
       </td>
-      <td>Digital forensics and incident response scripts for cybersecurity operations.</td>
+      <td>Custom scripts for Digital Forensics & Incident Response (DFIR), threat analysis and security assessments.</td>
       <td>
         <ul>
-          <li>Incident Response Automation</li>
-          <li>SIEM & Log Parsers</li>
-          <li>Security Hardening Scripts</li>
-          <li>Threat Detection Tools</li>
+          <li>Live Forensics Collection</li>
+          <li>SIEM and Log Parsers</li>
+          <li>Credential & Audit Review</li>
+          <li>Threat Response Tools</li>
         </ul>
       </td>
     </tr>
@@ -105,12 +105,12 @@
           <img src="https://img.shields.io/badge/ITSM%20Templates-WKS-green?style=for-the-badge&logo=windows" alt="ITSM-WKS Badge">
         </a>
       </td>
-      <td>Scripts and templates for ITSM-compliant workstation configuration on Windows 10/11.</td>
+      <td>Workstation provisioning templates that align with ITSM policy and endpoint security hardening.</td>
       <td>
         <ul>
           <li>Pre/Post Domain Join Scripts</li>
-          <li>ITSM Compliance Templates</li>
-          <li>Offline Login Setup</li>
+          <li>Auto-enforce Naming Conventions</li>
+          <li>Offline Caching, Services Control</li>
         </ul>
       </td>
     </tr>
@@ -120,12 +120,12 @@
           <img src="https://img.shields.io/badge/ITSM%20Templates-SVR-purple?style=for-the-badge&logo=server" alt="ITSM-SVR Badge">
         </a>
       </td>
-      <td>Server hardening and automation templates for secure and compliant server infrastructure.</td>
+      <td>Templates and scripts to deploy, lock down, and monitor Windows-based server infrastructure.</td>
       <td>
         <ul>
-          <li>DNS / IIS / File Server Modules</li>
-          <li>Service Role Templates</li>
-          <li>Security & Audit Automation</li>
+          <li>Secure DNS / IIS / File Roles</li>
+          <li>Role-Based Hardening</li>
+          <li>Audit & Firewall Baselines</li>
         </ul>
       </td>
     </tr>
@@ -135,17 +135,24 @@
           <img src="https://img.shields.io/badge/Core%20ScriptLibrary-Asset-red?style=for-the-badge&logo=vscode" alt="CoreScript Badge">
         </a>
       </td>
-      <td>Reusable and modular PowerShell scripts for building dynamic IT solutions.</td>
+      <td>Reusable, modular, and extensible code blocks and functions used throughout all tools and frameworks.</td>
       <td>
         <ul>
-          <li>Custom GUIs</li>
-          <li>Automation Templates</li>
-          <li>Multi-use Function Libraries</li>
+          <li>Universal GUI Framework</li>
+          <li>Reusable Functions</li>
+          <li>Portable Modules</li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
+
+<h2 align="center">💡 Stay Updated</h2>
+<p align="center">
+  <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases" target="_blank">
+    <img src="https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&label=Latest%20Releases&logo=github" alt="Latest Releases Badge">
+  </a>
+</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
