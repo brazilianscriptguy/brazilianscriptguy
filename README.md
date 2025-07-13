@@ -81,14 +81,7 @@
     <li>DNS & DHCP Zone and Reservation Tools</li>
     <li>Certificate Authority Scripts</li>
     <li>Smart Network & Infrastructure Utilities</li>
-    <li>WSUS Maintenance Suite:
-      <ul>
-        <li>Assembly check for WSUS Console installation</li>
-        <li>Index fragmentation analyzer & reindex script generator</li>
-        <li>Full-featured WSUS Cleanup GUI with WID maintenance</li>
-      </ul>
-    </li>
-  </ul>
+    <li>WSUS Maintenance Suite</li>
 </td>
     </tr>
     <tr>
