@@ -48,20 +48,16 @@
       <td><a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools"><img src="https://img.shields.io/badge/SysAdmin%20ToolSet-Tools-blue?style=for-the-badge&logo=windows"></a></td>
       <td>Comprehensive scripts for managing AD, GPOs, DNS, DHCP, WSUS, and Certificate Services with automation and precision.</td>
       <td>
-        <ul>
-          <li>Active Directory Automation</li>
-          <li>GPO Deployment Frameworks</li>
-          <li>DNS & DHCP Management</li>
-          <li>Certificate Authority Scripting</li>
-          <li>Network & Infrastructure Tools</li>
-          <li>WSUS Toolset:
-            <ul>
-              <li>Assembly Detection & WSUS Console Check</li>
-              <li>SQL Index Fragmentation Analyzer</li>
-              <li>Full WSUS Cleanup and Maintenance GUI</li>
-            </ul>
-          </li>
-        </ul>
+       <td>
+  <ul>
+    <li>Advanced Active Directory Automation</li>
+    <li>GPO Deployment Frameworks</li>
+    <li>DNS & DHCP Zone and Reservation Tools</li>
+    <li>Certificate Authority Scripts</li>
+    <li>Smart Network & Infrastructure Utilities</li>
+    <li>WSUS Maintenance Suite</li>
+</td>
+</ul>
       </td>
     </tr>
     <tr>
