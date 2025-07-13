@@ -105,9 +105,7 @@
       <img src="https://img.shields.io/badge/ITSM%20Templates-WKS-green?style=for-the-badge&logo=windows" alt="ITSM-WKS Badge">
     </a>
   </td>
-  <td>
-    Templates for provisioning and institutionalizing Windows 10/11 workstations, aligned with ITSM policy and endpoint hardening standards. Based on the <strong>JUNE-19-2025 ITSM Application Guide</strong>.
-  </td>
+  <td>Templates for provisioning and institutionalizing Windows 10/11 workstations, aligned with ITSM policy and endpoint hardening standards.</td>
   <td>
     <ul>
       <li>Pre/Post Domain Join Automation</li>
