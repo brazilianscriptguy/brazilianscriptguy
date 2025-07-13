@@ -100,20 +100,23 @@
       </td>
     </tr>
     <tr>
-      <td>
-        <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS" target="_blank">
-          <img src="https://img.shields.io/badge/ITSM%20Templates-WKS-green?style=for-the-badge&logo=windows" alt="ITSM-WKS Badge">
-        </a>
-      </td>
-      <td>Workstation provisioning templates that align with ITSM policy and endpoint security hardening.</td>
-      <td>
-        <ul>
-          <li>Pre/Post Domain Join Scripts</li>
-          <li>Auto-enforce Naming Conventions</li>
-          <li>Offline Caching, Services Control</li>
-        </ul>
-      </td>
-    </tr>
+  <td>
+    <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS" target="_blank">
+      <img src="https://img.shields.io/badge/ITSM%20Templates-WKS-green?style=for-the-badge&logo=windows" alt="ITSM-WKS Badge">
+    </a>
+  </td>
+  <td>
+    Templates for provisioning and institutionalizing Windows 10/11 workstations, aligned with ITSM policy and endpoint hardening standards. Based on the <strong>JUNE-19-2025 ITSM Application Guide</strong>.
+  </td>
+  <td>
+    <ul>
+      <li>Pre/Post Domain Join Automation</li>
+      <li>Offline Profile Caching & Cert Sync</li>
+      <li>Auto Host Naming & Printer Setup</li>
+      <li>macOS Join + Compliance Registry Fixes</li>
+    </ul>
+  </td>
+</tr>
     <tr>
       <td>
         <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-SVR" target="_blank">
