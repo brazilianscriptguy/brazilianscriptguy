@@ -73,15 +73,23 @@
           <img src="https://img.shields.io/badge/SysAdmin%20ToolSet-Tools-blue?style=for-the-badge&logo=windows" alt="SysAdminToolSet Badge">
         </a>
       </td>
-      <td>Powerful scripts for managing AD, GPOs, DNS, DHCP, Certificates, and Infrastructure automation.</td>
-      <td>
-        <ul>
-          <li>Advanced Active Directory Automation</li>
-          <li>GPO Deployment Frameworks</li>
-          <li>Infrastructure Services Integration</li>
-          <li>Smart Network Utilities</li>
-        </ul>
-      </td>
+      <td>Comprehensive scripts for managing Active Directory, Group Policy, DNS, DHCP, Certificate Services, WSUS, and other Windows infrastructure components with automation and precision.</td>
+<td>
+  <ul>
+    <li>Advanced Active Directory Automation</li>
+    <li>GPO Deployment Frameworks</li>
+    <li>DNS & DHCP Zone and Reservation Tools</li>
+    <li>Certificate Authority Scripts</li>
+    <li>Smart Network & Infrastructure Utilities</li>
+    <li>WSUS Maintenance Suite:
+      <ul>
+        <li>Assembly check for WSUS Console installation</li>
+        <li>Index fragmentation analyzer & reindex script generator</li>
+        <li>Full-featured WSUS Cleanup GUI with WID maintenance</li>
+      </ul>
+    </li>
+  </ul>
+</td>
     </tr>
     <tr>
       <td>
