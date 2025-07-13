@@ -48,7 +48,6 @@
       <td><a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools"><img src="https://img.shields.io/badge/SysAdmin%20ToolSet-Tools-blue?style=for-the-badge&logo=windows"></a></td>
       <td>Comprehensive scripts for managing AD, GPOs, DNS, DHCP, WSUS, and Certificate Services with automation and precision.</td>
       <td>
-       <td>
   <ul>
     <li>Advanced Active Directory Automation</li>
     <li>GPO Deployment Frameworks</li>
