@@ -6,8 +6,7 @@
   Welcome to my GitHub profile! I'm a results-driven <strong>IAM Analyst</strong> and <strong>Senior Systems Analyst</strong>
   with deep expertise in <strong>Identity & Access Management</strong>, <strong>Cybersecurity</strong>, and
   <strong>Digital Forensics</strong>. I specialize in securing and administering <strong>Windows Server infrastructures</strong>,
-  developing enterprise-grade <strong>automation scripts</strong>, and supporting high-availability IT operations.
-  <br><br>
+  developing enterprise-grade <strong>automation scripts</strong>, and supporting high-availability IT operations.<br><br>
   I build robust <code>PowerShell</code> and <code>VBScript</code> tools to automate identity workflows, enforce ITSM compliance,
   and boost administrative productivity. My mission is to engineer secure, scalable, and reliable solutions that transform
   enterprise IT operations.
@@ -15,7 +14,6 @@
 
 <!-- Badges -->
 <div align="center" style="margin: 20px 0;">
-  <!-- Social + Dev Links -->
   <a href="https://github.com/brazilianscriptguy"><img src="https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github"></a>
   <a href="https://www.patreon.com/brazilianscriptguy"><img src="https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon"></a>
   <a href="https://x.com/brazscriptguy"><img src="https://img.shields.io/badge/X-@brazilianscriptguy-000000?style=for-the-badge&logo=x"></a>
@@ -27,7 +25,7 @@
   <a href="http://lattes.cnpq.br/0191525072495482"><img src="https://img.shields.io/badge/Lattes%20CV-0191525072495482-00A693?style=for-the-badge&logo=academia"></a>
   <a href="mailto:luizhamilton.lhr@gmail.com"><img src="https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.google.com/maps/search/?api=1&query=2%C2%B037'13.0%22N+51%C2%B000'35.2%22W"><img src="https://img.shields.io/badge/Location-Brazilian%20Stonehenge-blue?style=for-the-badge&logo=googlemaps"></a>
-  <a href="https://time.is/"><img src="https://img.shields.io/static/v1?label=Time&message=11%3A11%3A11%20(UTC%20-03%3A00)&color=green&style=for-the-badge"></a>
+  <a href="https://time.is/"><img src="https://img.shields.io/static/v1?label=Time&message=UTC%20-03%3A00&color=green&style=for-the-badge"></a>
 </div>
 
 <hr>
@@ -48,15 +46,20 @@
       <td><a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools"><img src="https://img.shields.io/badge/SysAdmin%20ToolSet-Tools-blue?style=for-the-badge&logo=windows"></a></td>
       <td>Comprehensive scripts for managing AD, GPOs, DNS, DHCP, WSUS, and Certificate Services with automation and precision.</td>
       <td>
-  <ul>
-    <li>Advanced Active Directory Automation</li>
-    <li>GPO Deployment Frameworks</li>
-    <li>DNS & DHCP Zone and Reservation Tools</li>
-    <li>Certificate Authority Scripts</li>
-    <li>Smart Network & Infrastructure Utilities</li>
-    <li>WSUS Maintenance Suite</li>
-</td>
-</ul>
+        <ul>
+          <li>Active Directory Automation</li>
+          <li>GPO Deployment Frameworks</li>
+          <li>DNS & DHCP Zone and Reservation Tools</li>
+          <li>Certificate Authority Scripts</li>
+          <li>Smart Network & Infrastructure Utilities</li>
+          <li>WSUS Maintenance Suite:
+            <ul>
+              <li>🧩 Assembly Detection & WSUS Console Check</li>
+              <li>🗃️ SQL Index Fragmentation Analyzer</li>
+              <li>🛠️ Full WSUS Cleanup and Maintenance GUI</li>
+            </ul>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -108,18 +111,14 @@
   </tbody>
 </table>
 
-<h2 align="center">📈 Stay Updated</h2>
+<h2 align="center">📢 Latest Release</h2>
 <p align="center">
-  <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases" target="_blank">
-    <img src="https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&label=Latest%20Release&logo=github" alt="Latest Releases Badge">
-  </a>
-  <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools" target="_blank">
-    <img src="https://img.shields.io/badge/WSUS%20Tools-View%20Now-blue?style=for-the-badge&logo=windows" alt="WSUS Tools Badge">
+  <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases">
+    <img src="https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&label=Latest%20Release&logo=github" alt="Latest Release Badge">
   </a>
 </p>
 
-
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brazilianscriptguy&show_icons=true&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianscriptguy&layout=compact&theme=radical">
