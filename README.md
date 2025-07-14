@@ -108,6 +108,17 @@
   </tbody>
 </table>
 
+<h2 align="center">📈 Stay Updated</h2>
+<p align="center">
+  <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases" target="_blank">
+    <img src="https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&label=Latest%20Release&logo=github" alt="Latest Releases Badge">
+  </a>
+  <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools" target="_blank">
+    <img src="https://img.shields.io/badge/WSUS%20Tools-View%20Now-blue?style=for-the-badge&logo=windows" alt="WSUS Tools Badge">
+  </a>
+</p>
+
+
 <h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brazilianscriptguy&show_icons=true&theme=radical">
