@@ -12,7 +12,7 @@
   enterprise IT operations.
 </p>
 
-<!-- Badges -->
+<!-- 🔗 Social & Contact Badges -->
 <div style="text-align: center; margin: 30px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://github.com/brazilianscriptguy"><img src="https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github"></a>
   <a href="https://www.patreon.com/brazilianscriptguy"><img src="https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon"></a>
@@ -42,10 +42,72 @@
     </tr>
   </thead>
   <tbody>
-    <!-- All rows kept exactly the same as your original -->
-    <!-- ✅ Preserved content: ToolSet, BlueTeam, ITSM-WKS, ITSM-SVR, Core -->
-    <!-- No content was removed or modified except spacing/padding -->
-    <!-- You already nailed the descriptions and features 💪 -->
+    <tr>
+      <td><a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools"><img src="https://img.shields.io/badge/SysAdmin%20ToolSet-Tools-blue?style=for-the-badge&logo=windows"></a></td>
+      <td>Comprehensive scripts for managing AD, GPOs, DNS, DHCP, WSUS, and Certificate Services with automation and precision.</td>
+      <td>
+        <ul>
+          <li>Active Directory Automation</li>
+          <li>GPO Deployment Frameworks</li>
+          <li>DNS & DHCP Zone and Reservation Tools</li>
+          <li>Certificate Authority Scripts</li>
+          <li>Smart Network & Infrastructure Utilities</li>
+          <li>WSUS Maintenance Suite:
+            <ul>
+              <li>🧩 Assembly Detection & WSUS Console Check</li>
+              <li>🗃️ SQL Index Fragmentation Analyzer</li>
+              <li>🛠️ Full WSUS Cleanup and Maintenance GUI</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/BlueTeam-Tools"><img src="https://img.shields.io/badge/BlueTeam%20Tools-Forensics-orange?style=for-the-badge&logo=security"></a></td>
+      <td>Scripts for DFIR operations, audit parsing, and threat hunting across endpoints and servers.</td>
+      <td>
+        <ul>
+          <li>Live Evidence Collection</li>
+          <li>Security Log Correlation</li>
+          <li>Credential Harvesting Detection</li>
+          <li>Custom SIEM Parsers</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS"><img src="https://img.shields.io/badge/ITSM%20Templates-WKS-green?style=for-the-badge&logo=windows"></a></td>
+      <td>Templates for provisioning and hardening Windows 10/11 workstations under strict ITSM and endpoint security policies.</td>
+      <td>
+        <ul>
+          <li>Pre/Post Domain Join Automation</li>
+          <li>Offline Profile Caching</li>
+          <li>Printer Mapping and Naming Conventions</li>
+          <li>Compliance Registry Fixes</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-SVR"><img src="https://img.shields.io/badge/ITSM%20Templates-SVR-purple?style=for-the-badge&logo=server"></a></td>
+      <td>Deployment templates for secure and compliant Windows Server roles with policy enforcement and monitoring tools.</td>
+      <td>
+        <ul>
+          <li>Role-Based Server Lockdown</li>
+          <li>DNS, IIS, and SMB Hardening</li>
+          <li>Firewall & Audit Baselines</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary"><img src="https://img.shields.io/badge/Core%20ScriptLibrary-Asset-red?style=for-the-badge&logo=vscode"></a></td>
+      <td>Shared logic, modular libraries, UI frameworks, and helper functions across all ProSuite components.</td>
+      <td>
+        <ul>
+          <li>Universal GUI Shell</li>
+          <li>Reusable Core Functions</li>
+          <li>Portable Script Modules</li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
