@@ -52,13 +52,8 @@
           <li>DNS & DHCP Zone and Reservation Tools</li>
           <li>Certificate Authority Scripts</li>
           <li>Smart Network & Infrastructure Utilities</li>
-          <li>WSUS Maintenance Suite:
-            <ul>
-              <li>🧩 Assembly Detection & WSUS Console Check</li>
-              <li>🗃️ SQL Index Fragmentation Analyzer</li>
-              <li>🛠️ Full WSUS Cleanup and Maintenance GUI</li>
-            </ul>
-          </li>
+          <li>WSUS Maintenance Suite
+            </li>
         </ul>
       </td>
     </tr>
