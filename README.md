@@ -114,14 +114,10 @@
 </p>
 <!-- ✅ Release Workflow Status Badge -->
 <div style="text-align: center; margin-bottom: 20px;">
-  <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/release.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/release.yml?branch=main&label=Release%20Automation&style=for-the-badge">
+  <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/changelog-releases-package-publisher.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/changelog-releases-package-publisher.yml?branch=main&label=Release%20Automation&style=for-the-badge">
   </a>
 </div>
-
-
-<!-- 🔗 Social & Contact Badges -->
-<div style="text-align: center; margin: 30px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 <h2 style="text-align: center;">📊 GitHub Stats</h2>
 <p style="text-align: center; display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=brazilianscriptguy&show_icons=true&theme=radical" alt="GitHub Stats">
