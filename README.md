@@ -119,6 +119,7 @@
   </a>
 </div>
 
+
 <!-- 🔗 Social & Contact Badges -->
 <div style="text-align: center; margin: 30px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 <h2 style="text-align: center;">📊 GitHub Stats</h2>
