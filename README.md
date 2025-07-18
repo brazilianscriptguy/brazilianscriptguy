@@ -1,153 +1,76 @@
-<div style="text-align: center;">
-  <h1>👋 Hi there, I'm Luiz Hamilton (@brazilianscriptguy)</h1>
-</div>
+# 👋 Hi there, I'm Luiz Hamilton (@brazilianscriptguy)
 
-<p style="text-align: justify; line-height: 1.8; font-family: Arial, sans-serif; font-size: 16px; margin: 20px;">
-  Welcome to my GitHub profile! I'm a results-driven <strong>IAM Analyst</strong> and <strong>Senior Systems Analyst</strong>
-  with deep expertise in <strong>Identity & Access Management</strong>, <strong>Cybersecurity</strong>, and
-  <strong>Digital Forensics</strong>. I specialize in securing and administering <strong>Windows Server infrastructures</strong>,
-  developing enterprise-grade <strong>automation scripts</strong>, and supporting high-availability IT operations.<br><br>
-  I build robust <code>PowerShell</code> and <code>VBScript</code> tools to automate identity workflows, enforce ITSM compliance,
-  and boost administrative productivity. My mission is to engineer secure, scalable, and reliable solutions that transform
-  enterprise IT operations.
-</p>
+Welcome to my GitHub profile! I'm a results-driven **IAM Analyst** and **Senior Systems Analyst** with deep expertise in **Identity & Access Management**, **Cybersecurity**, and **Digital Forensics**. I specialize in securing and administering **Windows Server infrastructures**, developing enterprise-grade **automation scripts**, and supporting high-availability IT operations.
 
-<!-- 🔗 Social & Contact Badges -->
-<div style="text-align: center; margin: 30px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://github.com/brazilianscriptguy"><img src="https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://www.patreon.com/brazilianscriptguy"><img src="https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon"></a>
-  <a href="https://x.com/brazscriptguy"><img src="https://img.shields.io/badge/X-@brazilianscriptguy-000000?style=for-the-badge&logo=x"></a>
-  <a href="https://www.linkedin.com/in/brazilianscriptguy/"><img src="https://img.shields.io/badge/LinkedIn-in/brazilianscriptguy-0077B5?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.youtube.com/@brazilianscriptguy"><img src="https://img.shields.io/badge/YouTube-@brazilianscriptguy-FF0000?style=for-the-badge&logo=youtube"></a>
-  <a href="https://www.instagram.com/4tetraforensics"><img src="https://img.shields.io/badge/Instagram-@4tetraforensics-E4405F?style=for-the-badge&logo=instagram"></a>
-  <a href="https://whatsapp.com/channel/0029VaEgqC50G0XZV1k4Mb1c"><img src="https://img.shields.io/badge/WhatsApp-PowerShellBR-25D366?style=for-the-badge&logo=whatsapp"></a>
-  <a href="https://orcid.org/0000-0003-3705-7468"><img src="https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid"></a>
-  <a href="http://lattes.cnpq.br/0191525072495482"><img src="https://img.shields.io/badge/Lattes%20CV-0191525072495482-00A693?style=for-the-badge&logo=academia"></a>
-  <a href="mailto:luizhamilton.lhr@gmail.com"><img src="https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.google.com/maps/search/?api=1&query=2%C2%B037'13.0%22N+51%C2%B000'35.2%22W"><img src="https://img.shields.io/badge/Location-Brazilian%20Stonehenge-blue?style=for-the-badge&logo=googlemaps"></a>
-  <a href="https://time.is/"><img src="https://img.shields.io/static/v1?label=Time&message=UTC%20-03%3A00&color=green&style=for-the-badge"></a>
-</div>
+I build robust `PowerShell` and `VBScript` tools to automate identity workflows, enforce ITSM compliance, and boost administrative productivity. My mission is to engineer secure, scalable, and reliable solutions that transform enterprise IT operations.
 
-<hr>
+---
 
-<h2 style="text-align: center;">💻 My Repository Packages</h2>
-<h3 style="text-align: center;">Efficient, Secure, and Ready-to-Deploy IT Solutions</h3>
+## 🔗 Social & Contact Badges
 
-<table align="center" border="1" style="border-collapse: collapse; width: 90%; text-align: left; font-size: 15px; margin: auto;">
-  <thead style="background-color: #f9f9f9;">
-    <tr>
-      <th style="width: 22%; padding: 8px;">Repository</th>
-      <th style="width: 33%; padding: 8px;">Description</th>
-      <th style="width: 45%; padding: 8px;">Key Features</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools"><img src="https://img.shields.io/badge/SysAdmin%20ToolSet-Tools-blue?style=for-the-badge&logo=windows"></a></td>
-      <td>Comprehensive scripts for managing AD, GPOs, DNS, DHCP, WSUS, and Certificate Services with automation and precision.</td>
-      <td>
-        <ul>
-          <li>Active Directory Automation</li>
-          <li>GPO Deployment Frameworks</li>
-          <li>DNS & DHCP Zone and Reservation Tools</li>
-          <li>Certificate Authority Scripts</li>
-          <li>Smart Network & Infrastructure Utilities</li>
-          <li>WSUS Maintenance Suite
-            </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/BlueTeam-Tools"><img src="https://img.shields.io/badge/BlueTeam%20Tools-Forensics-orange?style=for-the-badge&logo=security"></a></td>
-      <td>Scripts for DFIR operations, audit parsing, and threat hunting across endpoints and servers.</td>
-      <td>
-        <ul>
-          <li>Live Evidence Collection</li>
-          <li>Security Log Correlation</li>
-          <li>Credential Harvesting Detection</li>
-          <li>Custom SIEM Parsers</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS"><img src="https://img.shields.io/badge/ITSM%20Templates-WKS-green?style=for-the-badge&logo=windows"></a></td>
-      <td>Templates for provisioning and hardening Windows 10/11 workstations under strict ITSM and endpoint security policies.</td>
-      <td>
-        <ul>
-          <li>Pre/Post Domain Join Automation</li>
-          <li>Offline Profile Caching</li>
-          <li>Printer Mapping and Naming Conventions</li>
-          <li>Compliance Registry Fixes</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-SVR"><img src="https://img.shields.io/badge/ITSM%20Templates-SVR-purple?style=for-the-badge&logo=server"></a></td>
-      <td>Deployment templates for secure and compliant Windows Server roles with policy enforcement and monitoring tools.</td>
-      <td>
-        <ul>
-          <li>Role-Based Server Lockdown</li>
-          <li>DNS, IIS, and SMB Hardening</li>
-          <li>Firewall & Audit Baselines</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary"><img src="https://img.shields.io/badge/Core%20ScriptLibrary-Asset-red?style=for-the-badge&logo=vscode"></a></td>
-      <td>Shared logic, modular libraries, UI frameworks, and helper functions across all ProSuite components.</td>
-      <td>
-        <ul>
-          <li>Universal GUI Shell</li>
-          <li>Reusable Core Functions</li>
-          <li>Portable Script Modules</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+[![GitHub](https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy)
+[![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/brazilianscriptguy)
+[![X](https://img.shields.io/badge/X-@brazilianscriptguy-000000?style=for-the-badge&logo=x)](https://x.com/brazscriptguy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in/brazilianscriptguy-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brazilianscriptguy/)
+[![YouTube](https://img.shields.io/badge/YouTube-@brazilianscriptguy-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@brazilianscriptguy)
+[![Instagram](https://img.shields.io/badge/Instagram-@4tetraforensics-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/4tetraforensics)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-PowerShellBR-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaEgqC50G0XZV1k4Mb1c)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-3705-7468)
+[![Lattes](https://img.shields.io/badge/Lattes%20CV-0191525072495482-00A693?style=for-the-badge&logo=academia)](http://lattes.cnpq.br/0191525072495482)
+[![Email](https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:luizhamilton.lhr@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Brazilian%20Stonehenge-blue?style=for-the-badge&logo=googlemaps)](https://www.google.com/maps/search/?api=1&query=2%C2%B037'13.0%22N+51%C2%B000'35.2%22W)
+![Time](https://img.shields.io/static/v1?label=Time&message=UTC%20-03%3A00&color=green&style=for-the-badge)
 
-<h2 style="text-align: center;">📢 Latest Release</h2>
-<p style="text-align: center;">
-  <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases">
-    <img src="https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&label=Latest%20Release&logo=github" alt="Latest Release Badge">
-  </a>
-</p>
-<!-- ✅ Release Workflow Status Badge -->
-<div style="text-align: center; margin-bottom: 20px;">
-  <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/changelog-releases-package-publisher.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/changelog-releases-package-publisher.yml?branch=main&label=Release%20Automation&style=for-the-badge">
-  </a>
-</div>
-<h2 style="text-align: center;">📊 GitHub Stats</h2>
-<p style="text-align: center; display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=brazilianscriptguy&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianscriptguy&layout=compact&theme=radical" alt="Top Languages">
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=brazilianscriptguy&theme=radical">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=brazilianscriptguy&theme=radical" alt="GitHub Streak">
-  </a>
-</p>
+---
 
-<h2 style="text-align: center;">🌟 Highlights</h2>
-<ul style="margin: 0 auto; width: 85%; font-size: 16px; line-height: 1.6;">
-  <li><strong>🎨 GUI-Driven Tools:</strong> All tools include graphical interfaces to simplify administration.</li>
-  <li><strong>📝 Structured Logs:</strong> Outputs exported as structured <code>.log</code> and <code>.csv</code>.</li>
-  <li><strong>🔐 Security by Design:</strong> Forensics-ready, with built-in compliance and hardening scripts.</li>
-  <li><strong>⚙️ Modular Architecture:</strong> Easily adapted for enterprise use and scalable deployments.</li>
-</ul>
+## 💻 My Repository Packages
+**Efficient, Secure, and Ready-to-Deploy IT Solutions**
 
-<hr>
+| Repository | Description | Key Features |
+|------------|-------------|--------------|
+| [![SysAdmin ToolSet](https://img.shields.io/badge/SysAdmin%20ToolSet-Tools-blue?style=for-the-badge&logo=windows)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools) | Scripts for managing AD, GPOs, DNS, DHCP, WSUS, and CA. | - Active Directory Automation<br>- GPO Deployment Frameworks<br>- DNS/DHCP Tools<br>- Certificate Authority Scripts<br>- WSUS Maintenance |
+| [![BlueTeam Tools](https://img.shields.io/badge/BlueTeam%20Tools-Forensics-orange?style=for-the-badge&logo=security)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/BlueTeam-Tools) | DFIR, log correlation, threat hunting. | - Live Evidence Collection<br>- Credential Theft Detection<br>- Audit/Event Parsers |
+| [![ITSM WKS](https://img.shields.io/badge/ITSM%20Templates-WKS-green?style=for-the-badge&logo=windows)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS) | Hardening templates for Windows 10/11. | - Pre/Post Join Automation<br>- Registry Compliance Fixes<br>- Printer/Offline Profiles |
+| [![ITSM SVR](https://img.shields.io/badge/ITSM%20Templates-SVR-purple?style=for-the-badge&logo=server)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-SVR) | Secure server provisioning templates. | - Role Lockdown<br>- DNS/IIS/SMB Hardening<br>- Firewall & Audit Baselines |
+| [![Core ScriptLibrary](https://img.shields.io/badge/Core%20ScriptLibrary-Asset-red?style=for-the-badge&logo=vscode)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary) | Reusable libraries and core modules. | - GUI Frameworks<br>- Portable Modules<br>- Core Helpers |
 
-<h2 style="text-align: center;">🤝 Support & Contributions</h2>
-<div style="text-align: center; display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 20px;">
-  <a href="mailto:luizhamilton.lhr@gmail.com"><img src="https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.patreon.com/brazilianscriptguy"><img src="https://img.shields.io/badge/Support%20Me-Patreon-red?style=for-the-badge&logo=patreon"></a>
-  <a href="https://buymeacoffee.com/brazilianscriptguy"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buymeacoffee"></a>
-  <a href="https://ko-fi.com/brazilianscriptguy"><img src="https://img.shields.io/badge/Ko--fi-blue?style=for-the-badge&logo=kofi"></a>
-  <a href="https://www.gofundme.com/f/brazilianscriptguy"><img src="https://img.shields.io/badge/GoFundMe-green?style=for-the-badge&logo=gofundme"></a>
-</div>
+---
 
-<p style="text-align: center; font-size: 15px; margin-top: 10px;">
-  🚀 Thank you for visiting my profile! Let’s make IT smarter, faster, and more secure — together!
-</p>
+## 📢 Latest Release
 
-<p style="text-align: center; color: #777;">&copy; 2025 Luiz Hamilton. All rights reserved.</p>
+[![Latest Release](https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&label=Latest%20Release&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases)
+
+[![Release Automation](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/changelog-releases-package-publisher.yml?branch=main&label=Release%20Automation&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/changelog-releases-package-publisher.yml)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brazilianscriptguy&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianscriptguy&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brazilianscriptguy&theme=radical)](https://github-readme-streak-stats.herokuapp.com?user=brazilianscriptguy&theme=radical)
+
+---
+
+## 🌟 Highlights
+
+- **🎨 GUI-Driven Tools:** All tools include graphical interfaces to simplify administration.
+- **📝 Structured Logs:** Outputs exported as structured `.log` and `.csv`.
+- **🔐 Security by Design:** Forensics-ready, with built-in compliance and hardening scripts.
+- **⚙️ Modular Architecture:** Easily adapted for enterprise use and scalable deployments.
+
+---
+
+## 🤝 Support & Contributions
+
+[![Email](https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:luizhamilton.lhr@gmail.com)
+[![Patreon](https://img.shields.io/badge/Support%20Me-Patreon-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/brazilianscriptguy)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/brazilianscriptguy)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-blue?style=for-the-badge&logo=kofi)](https://ko-fi.com/brazilianscriptguy)
+[![GoFundMe](https://img.shields.io/badge/GoFundMe-green?style=for-the-badge&logo=gofundme)](https://www.gofundme.com/f/brazilianscriptguy)
+
+---
+
+🚀 Thank you for visiting my profile! Let’s make IT smarter, faster, and more secure — together!
+
+© 2025 Luiz Hamilton. All rights reserved.
