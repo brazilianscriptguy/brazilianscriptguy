@@ -43,7 +43,7 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 Stay updated with the most recent version of the **Windows-SysAdmin-ProSuite**, including automated build and deployment status.
 
 [![Latest Release](https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&label=Latest%20Release&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases)
-[![Release Workflow Status](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/changelog-releases-package-publisher.yml?branch=main&label=Release%20Automation&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/changelog-releases-package-publisher.yml)
+[![Release Workflow Status](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/build-github-releases.yml?branch=main&label=Release%20Automation&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/build-github-releases.yml)
 
 > 💡 The release process includes automatic packaging, SHA256 checksum signing, CHANGELOG parsing, and PSScriptAnalyzer validation for every tagged version.
 
