@@ -46,7 +46,7 @@ Stay updated with the most recent version of the **Windows-SysAdmin-ProSuite**, 
 [![Release Workflow Status](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/build-github-releases.yml?branch=main&label=Release%20Automation&style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/build-github-releases.yml)
 [![NuGet Package Publishing](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/publish-all-nuget-packages.yml?branch=main&label=NuGet%20Publishing&style=for-the-badge&logo=nuget)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/publish-all-nuget-packages.yml)
 
-> 💡 The release process includes automatic packaging, SHA256 checksum signing, CHANGELOG parsing, and PSScriptAnalyzer validation for every tagged version. The release process includes automatic packaging, SHA256 checksum signing, CHANGELOG parsing, and PSScriptAnalyzer validation for every tagged version.
+> 💡 The release process includes automatic packaging, SHA256 checksum signing, CHANGELOG parsing, and PSScriptAnalyzer validation for every tagged version.
 
 ## 📊 GitHub Stats
 
