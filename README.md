@@ -59,7 +59,7 @@ Stay updated with the most recent version of the **Windows-SysAdmin-ProSuite**, 
 - **🎨 GUI-Driven Tools:** All tools include graphical interfaces to simplify administration.
 - **📝 Structured Logs:** Outputs exported as structured `.log` and `.csv`.
 - **🔐 Security by Design:** Forensics-ready, with built-in compliance and hardening scripts.
-- **⚙️ Modular Architecture:** Easily adapted for enterprise use and scalable deployments.
+- **⚙️ Modular Architecture:** Easily adapted for enterprise use and scalable deployments..
 
 ---
 
