@@ -42,10 +42,17 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 Stay updated with the most recent version of the **Windows-SysAdmin-ProSuite**, including automated build and deployment status.
 
-[![Latest Release](https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&label=Latest%20Release&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases)
-[![build-github-releases](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/make-github-releases.yml/badge.svg)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/make-github-releases.yml)
+<p align="center">
+  <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases">
+    <img alt="Latest Release" src="https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&label=Latest%20Release&logo=github">
+  </a>
+  <a href="https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/make-github-releases.yml">
+    <img alt="Build GitHub Releases" src="https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/make-github-releases.yml?branch=main&style=for-the-badge&label=Build%20Status&logo=githubactions">
+  </a>
+</p>
 
-> 💡 The release process includes automatic packaging, SHA256 checksum signing, CHANGELOG parsing, and PSScriptAnalyzer validation for every tagged version.
+> 💡 The release process includes automatic packaging, SHA256 checksum signing, and CHANGELOG parsing for every tagged version.
+
 
 ## 📊 GitHub Stats
 
