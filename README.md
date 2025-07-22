@@ -51,7 +51,7 @@ Stay updated with the most recent version of the **Windows-SysAdmin-ProSuite**, 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brazilianscriptguy&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianscriptguy&layout=compact&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brazilianscriptguy&theme=radical)](https://github-readme-streak-stats.herokuapp.com?user=brazilianscriptguy&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=brazilianscriptguy&theme=radical)](https://streak-stats.demolab.com?user=brazilianscriptguy)
 
 ---
 
