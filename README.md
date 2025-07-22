@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a results-driven **IAM Analyst** and **Senior Systems Analyst** with deep expertise in **Identity & Access Management**, **Cybersecurity**, and **Digital Forensics**. I specialize in securing and administering **Windows Server infrastructures**, developing enterprise-grade **automation scripts**, and supporting high-availability IT operations.
 
-I build robust `PowerShell` and `VBScript` tools to automate identity workflows, enforce ITSM compliance, and boost administrative productivity. My mission is to engineer secure, scalable, and reliable solutions that transform enterprise IT operations. 
+I build robust `PowerShell` and `VBScript` tools to automate identity workflows, enforce ITSM compliance, and boost administrative productivity. My mission is to engineer secure, scalable, and reliable solutions that transform enterprise IT operations.
 
 ---
 
@@ -63,7 +63,7 @@ Stay updated with the most recent version of the **Windows-SysAdmin-ProSuite**, 
 - **🎨 GUI-Driven Tools:** All tools include graphical interfaces to simplify administration.
 - **📝 Structured Logs:** Outputs exported as structured `.log` and `.csv`.
 - **🔐 Security by Design:** Forensics-ready, with built-in compliance and hardening scripts.
-- **⚙️ Modular Architecture:** Easily adapted for enterprise use and scalable deployments..
+- **⚙️ Modular Architecture:** Easily adapted for enterprise use and scalable deployments.
 
 ---
 
