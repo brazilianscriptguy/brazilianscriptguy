@@ -65,6 +65,7 @@ Stay updated with the most recent version of the **Windows-SysAdmin-ProSuite**, 
 [![.npmignore](https://img.shields.io/badge/.npmignore-present-yellow?style=for-the-badge&logo=npm)](https://docs.npmjs.com/cli/v10/configuring-npm/package-json#files)
 [![.prettierignore](https://img.shields.io/badge/.prettierignore-used-informational?style=for-the-badge&logo=prettier)](https://prettier.io/docs/en/ignore.html)
 [![.prettierrc](https://img.shields.io/badge/.prettierrc-configured-success?style=for-the-badge&logo=prettier)](https://prettier.io/docs/en/configuration.html)
+[![Prettier Code Style](https://img.shields.io/badge/Code%20Style-Prettier-ff69b4?style=for-the-badge&logo=prettier)](https://prettier.io)
 
 ---
 
