@@ -45,7 +45,7 @@ Stay updated with the most recent version of the **Windows-SysAdmin-ProSuite**, 
 [![Latest Release](https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&label=Latest%20Release&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases)
 [![Build GitHub Releases](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/make-github-releases.yml?branch=main&style=for-the-badge&label=Build%20Status&logo=githubactions)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/make-github-releases.yml)
 [![Publish NuGet Package to GitHub](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/publish-nuget.yml?branch=main&style=for-the-badge&label=Publish%20NuGet&logo=nuget)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/publish-nuget.yml)
-[![All Scripts](https://img.shields.io/badge/List_All-Scripts-blue?style=for-the-badge&logo=powershell)](https://github.com/search?q=repo:brazilianscriptguy/Windows-SysAdmin-ProSuite+path:*.ps1+OR+path:*.vbs&type=code)
+[![List All Scripts](https://img.shields.io/badge/View_All-Scripts-blue?style=for-the-badge&logo=powershell)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?q=filename:.ps1+OR+filename:.vbs&type=code)
 
 > 💡 The release process includes automatic packaging, SHA256 checksum signing, and CHANGELOG parsing for every tagged version.
 
