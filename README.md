@@ -52,7 +52,8 @@ Stay updated with the most recent version of the **Windows-SysAdmin-ProSuite**, 
 
 ## 🧾 Scripts Index
 
-[![View Scripts](https://img.shields.io/badge/View-PS1_&_VBS_Scripts-blue?style=for-the-badge&logo=powershell)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+%28path%3A*.ps1+OR+path%3A*.vbs%29&type=code)
+[![View PowerShell Scripts](https://img.shields.io/badge/View-.ps1_Scripts-blue?style=for-the-badge&logo=powershell)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A*.ps1&type=code)
+[![View VBScript Files](https://img.shields.io/badge/View-.vbs_Scripts-blue?style=for-the-badge&logo=windows)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A*.vbs&type=code)
 
 ---
 
