@@ -50,7 +50,7 @@ Stay updated with the most recent version of the **Windows-SysAdmin-ProSuite**, 
 
 ---
 
-## 🧾 Script Index
+## 🧾Scripts Index
 
 [![View Scripts](https://img.shields.io/badge/View-PS1_&_VBS_Scripts-blue?style=for-the-badge&logo=powershell)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+extension%3Aps1+OR+extension%3Avbs&type=code)
 
