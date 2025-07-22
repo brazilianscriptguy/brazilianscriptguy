@@ -55,6 +55,7 @@ Stay updated with the most recent version of the **Windows-SysAdmin-ProSuite**, 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brazilianscriptguy&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianscriptguy&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=brazilianscriptguy&theme=radical)](https://streak-stats.demolab.com?user=brazilianscriptguy)
+[![View All Scripts](https://img.shields.io/badge/Scripts-View_All-blue?style=for-the-badge&logo=powershell)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?q=extension%3Aps1+OR+extension%3Avbs)
 
 ---
 
