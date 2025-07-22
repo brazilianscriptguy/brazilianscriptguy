@@ -66,6 +66,7 @@ Stay updated with the most recent version of the **Windows-SysAdmin-ProSuite**, 
 [![.prettierignore](https://img.shields.io/badge/.prettierignore-used-informational?style=for-the-badge&logo=prettier)](https://prettier.io/docs/en/ignore.html)
 [![.prettierrc](https://img.shields.io/badge/.prettierrc-configured-success?style=for-the-badge&logo=prettier)](https://prettier.io/docs/en/configuration.html)
 [![Prettier Code Style](https://img.shields.io/badge/Code%20Style-Prettier-ff69b4?style=for-the-badge&logo=prettier)](https://prettier.io)
+[![PSScriptAnalyzer](https://img.shields.io/badge/PSScriptAnalyzer-enabled-blueviolet?style=for-the-badge&logo=powershell)](https://github.com/PowerShell/PSScriptAnalyzer)
 
 ---
 
