@@ -57,6 +57,17 @@ Stay updated with the most recent version of the **Windows-SysAdmin-ProSuite**, 
 
 ---
 
+## 📦 Project Configs & Quality Signals
+
+[![EditorConfig](https://img.shields.io/badge/EditorConfig-enabled-blue?style=for-the-badge&logo=editorconfig)](https://editorconfig.org/)
+[![.gitattributes](https://img.shields.io/badge/.gitattributes-configured-critical?style=for-the-badge&logo=git)](https://git-scm.com/docs/gitattributes)
+[![.dockerignore](https://img.shields.io/badge/.dockerignore-present-lightgrey?style=for-the-badge&logo=docker)](https://docs.docker.com/engine/reference/builder/#dockerignore-file)
+[![.npmignore](https://img.shields.io/badge/.npmignore-present-yellow?style=for-the-badge&logo=npm)](https://docs.npmjs.com/cli/v10/configuring-npm/package-json#files)
+[![.prettierignore](https://img.shields.io/badge/.prettierignore-used-informational?style=for-the-badge&logo=prettier)](https://prettier.io/docs/en/ignore.html)
+[![.prettierrc](https://img.shields.io/badge/.prettierrc-configured-success?style=for-the-badge&logo=prettier)](https://prettier.io/docs/en/configuration.html)
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brazilianscriptguy&show_icons=true&theme=radical)
