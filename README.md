@@ -80,12 +80,26 @@ Stay updated with the most recent version of the **Windows-SysAdmin-ProSuite**, 
 
 ---
 
-## 🌟 Highlights
+## 🌟 Highlights & Core Competencies
 
 - **🎨 GUI-Driven Tools:** All tools include graphical interfaces to simplify administration.
 - **📝 Structured Logs:** Outputs exported as structured `.log` and `.csv`.
 - **🔐 Security by Design:** Forensics-ready, with built-in compliance and hardening scripts.
 - **⚙️ Modular Architecture:** Easily adapted for enterprise use and scalable deployments.
+
+---
+
+**💼 Windows Infrastructure Automation**  
+I build advanced automation workflows using `PowerShell` and `VBScript` to streamline Active Directory, WSUS, GPO, DNS, DHCP, and Certificate Services administration. My toolkits minimize manual intervention while enhancing ITSM alignment and compliance.
+
+**🛡️ Security & Forensics**  
+I design and maintain hardened, audit-ready scripts that support **Digital Forensics and Incident Response (DFIR)** processes. Tools include credential artifact analysis, threat hunting modules, and logging mechanisms that preserve digital evidence integrity.
+
+**🔁 CI/CD & Code Quality**  
+All repositories include robust **GitHub Actions** pipelines with **Prettier** formatting, **PSScriptAnalyzer** linting, and automated packaging/deployment workflows. I ensure every commit meets enterprise standards for consistency and security.
+
+**🏗️ Modular, Enterprise-Grade Codebase**  
+My entire codebase follows a modular architecture, facilitating flexible reuse across diverse environments. Scripts are GUI-driven where applicable, and packaged for NuGet or zipped deployment — ready for integration into enterprise infrastructures.
 
 ---
 
