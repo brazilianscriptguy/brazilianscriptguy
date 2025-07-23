@@ -89,7 +89,7 @@ Stay updated with the most recent version of the **Windows-SysAdmin-ProSuite**, 
 
 ---
 
-**💼 Windows Infrastructure Automation**  
+## 💼 Windows Infrastructure Automation  
 - I build advanced automation workflows using `PowerShell` and `VBScript` to streamline Active Directory, WSUS, GPO, DNS, DHCP, and Certificate Services administration. My toolkits minimize manual intervention while enhancing ITSM alignment and compliance.
 
 **🛡️ Security & Forensics**  
