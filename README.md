@@ -40,13 +40,11 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 ## 📢 Latest Release & Automation Status
 
-Stay updated with the most recent version of the **Windows-SysAdmin-ProSuite**, including automated build and deployment status.
-
 [![Latest Release](https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&label=Latest%20Release&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases)
 [![GitHub Releases Status](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/make-update-github-releases.yml?branch=main&style=for-the-badge&label=GitHub%20Releases%20Status&logo=githubactions)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/make-update-github-releases.yml)
 [![Publish NuGet Package](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/publish-nuget-package-to-github.yml?branch=main&style=for-the-badge&label=Publish%20NuGet%20Package&logo=nuget)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/publish-nuget-package-to-github.yml)
 
-> 💡 The release process includes automatic packaging, SHA256 checksum signing, and CHANGELOG parsing for every tagged version.
+> 💡 Every release includes NuGet packaging, changelog automation, and SHA256 integrity validation.
 
 ---
 
@@ -60,15 +58,10 @@ Stay updated with the most recent version of the **Windows-SysAdmin-ProSuite**, 
 ## 📦 Project Configs & Quality Signals
 
 [![EditorConfig](https://img.shields.io/badge/EditorConfig-enabled-blue?style=for-the-badge&logo=editorconfig)](https://editorconfig.org/)
-[![.gitattributes](https://img.shields.io/badge/.gitattributes-configured-critical?style=for-the-badge&logo=git)](https://git-scm.com/docs/gitattributes)
-[![.dockerignore](https://img.shields.io/badge/.dockerignore-present-lightgrey?style=for-the-badge&logo=docker)](https://docs.docker.com/engine/reference/builder/#dockerignore-file)
-[![.npmignore](https://img.shields.io/badge/.npmignore-present-yellow?style=for-the-badge&logo=npm)](https://docs.npmjs.com/cli/v10/configuring-npm/package-json#files)
-[![.prettierignore](https://img.shields.io/badge/.prettierignore-used-informational?style=for-the-badge&logo=prettier)](https://prettier.io/docs/en/ignore.html)
-[![.prettierrc](https://img.shields.io/badge/.prettierrc-configured-success?style=for-the-badge&logo=prettier)](https://prettier.io/docs/en/configuration.html)
 [![Prettier Code Style](https://img.shields.io/badge/Code%20Style-Prettier-ff69b4?style=for-the-badge&logo=prettier)](https://prettier.io)
 [![PSScriptAnalyzer](https://img.shields.io/badge/PSScriptAnalyzer-enabled-blueviolet?style=for-the-badge&logo=powershell)](https://github.com/PowerShell/PSScriptAnalyzer)
-[![SARIF Analysis](https://img.shields.io/badge/Code%20Scanning-PSScriptAnalyzer-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 [![PowerShell Lint](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/psscriptanalyzer-check.yml?branch=main&label=PowerShell%20Lint&logo=powershell&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/psscriptanalyzer-check.yml)
+[![SARIF Analysis](https://img.shields.io/badge/Code%20Scanning-PSScriptAnalyzer-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
 ---
 
@@ -82,24 +75,14 @@ Stay updated with the most recent version of the **Windows-SysAdmin-ProSuite**, 
 
 ## 🌟 Highlights & Core Competencies
 
-- **🎨 GUI-Driven Tools:** All tools include graphical interfaces to simplify administration.
-- **📝 Structured Logs:** Outputs exported as structured `.log` and `.csv`.
-- **🔐 Security by Design:** Forensics-ready, with built-in compliance and hardening scripts.
-- **⚙️ Modular Architecture:** Easily adapted for enterprise use and scalable deployments.
-
----
-
-## 💼 Windows Infrastructure Automation  
-- I build advanced automation workflows using `PowerShell` and `VBScript` to streamline Active Directory, WSUS, GPO, DNS, DHCP, and Certificate Services administration. My toolkits minimize manual intervention while enhancing ITSM alignment and compliance.
-
-**🛡️ Security & Forensics**  
-- I design and maintain hardened, audit-ready scripts that support **Digital Forensics and Incident Response (DFIR)** processes. Tools include credential artifact analysis, threat hunting modules, and logging mechanisms that preserve digital evidence integrity.
-
-**🔁 CI/CD & Code Quality**  
-- All repositories include robust **GitHub Actions** pipelines with **Prettier** formatting, **PSScriptAnalyzer** linting, and automated packaging/deployment workflows. I ensure every commit meets enterprise standards for consistency and security.
-
-**🏗️ Modular, Enterprise-Grade Codebase**  
-- My entire codebase follows a modular architecture, facilitating flexible reuse across diverse environments. Scripts are GUI-driven where applicable, and packaged for NuGet or zipped deployment — ready for integration into enterprise infrastructures.
+- **🎨 GUI-Driven Tools:** Intuitive interfaces to simplify complex operations.
+- **📝 Structured Logging:** Logs in `.log` and `.csv` formats for traceability and reporting.
+- **🔐 Security by Design:** Forensics-ready scripts with hardening and compliance built-in.
+- **⚙️ Modular Architecture:** Adaptable and scalable for enterprise-level deployment.
+- **💼 Windows Automation:** PowerShell/VBScript automation across AD, DNS, WSUS, and GPOs.
+- **🛡️ Forensics & DFIR:** Credential artifact analysis, threat detection, and integrity logging.
+- **🔁 CI/CD Excellence:** GitHub Actions pipelines, NuGet packaging, changelog parsing.
+- **🏗️ Clean Codebase:** Prettier, EditorConfig, and PSScriptAnalyzer ensure maintainability.
 
 ---
 
