@@ -90,16 +90,16 @@ Stay updated with the most recent version of the **Windows-SysAdmin-ProSuite**, 
 ---
 
 **💼 Windows Infrastructure Automation**  
-I build advanced automation workflows using `PowerShell` and `VBScript` to streamline Active Directory, WSUS, GPO, DNS, DHCP, and Certificate Services administration. My toolkits minimize manual intervention while enhancing ITSM alignment and compliance.
+- I build advanced automation workflows using `PowerShell` and `VBScript` to streamline Active Directory, WSUS, GPO, DNS, DHCP, and Certificate Services administration. My toolkits minimize manual intervention while enhancing ITSM alignment and compliance.
 
 **🛡️ Security & Forensics**  
-I design and maintain hardened, audit-ready scripts that support **Digital Forensics and Incident Response (DFIR)** processes. Tools include credential artifact analysis, threat hunting modules, and logging mechanisms that preserve digital evidence integrity.
+- I design and maintain hardened, audit-ready scripts that support **Digital Forensics and Incident Response (DFIR)** processes. Tools include credential artifact analysis, threat hunting modules, and logging mechanisms that preserve digital evidence integrity.
 
 **🔁 CI/CD & Code Quality**  
-All repositories include robust **GitHub Actions** pipelines with **Prettier** formatting, **PSScriptAnalyzer** linting, and automated packaging/deployment workflows. I ensure every commit meets enterprise standards for consistency and security.
+- All repositories include robust **GitHub Actions** pipelines with **Prettier** formatting, **PSScriptAnalyzer** linting, and automated packaging/deployment workflows. I ensure every commit meets enterprise standards for consistency and security.
 
 **🏗️ Modular, Enterprise-Grade Codebase**  
-My entire codebase follows a modular architecture, facilitating flexible reuse across diverse environments. Scripts are GUI-driven where applicable, and packaged for NuGet or zipped deployment — ready for integration into enterprise infrastructures.
+- My entire codebase follows a modular architecture, facilitating flexible reuse across diverse environments. Scripts are GUI-driven where applicable, and packaged for NuGet or zipped deployment — ready for integration into enterprise infrastructures.
 
 ---
 
@@ -113,6 +113,6 @@ My entire codebase follows a modular architecture, facilitating flexible reuse a
 
 ---
 
-🚀 Thank you for visiting my profile! Let’s make IT smarter, faster, and more secure — together!
+> 🚀 "My mission is to engineer secure, scalable, and reliable solutions that transform enterprise IT operations."
 
 © 2025 Luiz Hamilton. All rights reserved.
