@@ -6,7 +6,7 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 ---
 
-## 🔗 Social & Contact Badges
+## 🔗 Social & Contact Badges 
 
 [![GitHub](https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy)
 [![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/brazilianscriptguy)
