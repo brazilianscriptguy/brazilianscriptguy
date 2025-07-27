@@ -72,7 +72,9 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 [![SARIF Report](https://img.shields.io/badge/SARIF%20Report-Available-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
 <!-- 📜 VBSCRIPT -->
-[![VBScript Syntax Check](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/vbscript-syntax-check.yml?branch=main&label=VBScript%20Syntax&logo=windows&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/vbscript-syntax-check.yml)
+[![VBScript Syntax](https://img.shields.io/badge/VBScript%20Syntax-Checked-blue?style=for-the-badge&logo=windows)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite)
+[![VBScript Lint](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/vbscript-syntax-check.yml?branch=main&label=VBScript%20Lint&logo=windows&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/vbscript-syntax-check.yml)
+[![SARIF Report](https://img.shields.io/badge/SARIF%20Report-Available-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
 ---
 
