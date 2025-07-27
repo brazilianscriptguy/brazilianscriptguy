@@ -72,7 +72,7 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 [![SARIF Analysis](https://img.shields.io/badge/Code%20Scanning-PSScriptAnalyzer-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
 <!-- 📜 VBSCRIPT -->
-[![VBScript Syntax Check](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/vbscript-syntax-check.yml?branch=main&label=VBScript%20Syntax&logo=windows&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/vbscript-syntax-check.yml)
+[![VBScript Syntax Check](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/vbscript-syntax-validation.yml?branch=main&label=VBScript%20Syntax&logo=windows&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/vbscript-syntax-validation.yml)
 
 ---
 
