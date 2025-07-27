@@ -67,9 +67,9 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 [![Prettier Check](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/prettier-check.yml?branch=main&label=Prettier%20Check&logo=prettier&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/prettier-check.yml)
 
 <!-- ⚡ POWERSHELL -->
-[![PSScriptAnalyzer](https://img.shields.io/badge/PSScriptAnalyzer-enabled-blueviolet?style=for-the-badge&logo=powershell)](https://github.com/PowerShell/PSScriptAnalyzer)
+[![PSScriptAnalyzer](https://img.shields.io/badge/PSScriptAnalyzer-Enabled-blueviolet?style=for-the-badge&logo=powershell)](https://github.com/PowerShell/PSScriptAnalyzer)
 [![PowerShell Lint](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/psscriptanalyzer-check.yml?branch=main&label=PowerShell%20Lint&logo=powershell&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/psscriptanalyzer-check.yml)
-[![SARIF Analysis](https://img.shields.io/badge/Code%20Scanning-PSScriptAnalyzer-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
+[![SARIF Report](https://img.shields.io/badge/SARIF%20Report-Available-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
 <!-- 📜 VBSCRIPT -->
 [![VBScript Syntax Check](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/vbscript-syntax-check.yml?branch=main&label=VBScript%20Syntax&logo=windows&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/vbscript-syntax-check.yml)
