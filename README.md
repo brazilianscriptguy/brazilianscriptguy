@@ -60,7 +60,8 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 <!-- 🧱 GENERAL FORMATTING & CONFIG -->
 [![EditorConfig](https://img.shields.io/badge/EditorConfig-enabled-blue?style=for-the-badge&logo=editorconfig)](https://editorconfig.org/)
-[![EditorConfig Check](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/editorconfig-check.yml?branch=main&label=EditorConfig%20Check&logo=editorconfig&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/editorconfig-check.yml)
+[![EditorConfig Check](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/editorconfig-check.yml?branch=main&label=EditorConfig%20Lint&logo=editorconfig&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/editorconfig-check.yml)
+[![EditorConfig Summary](https://img.shields.io/badge/Markdown-Summary-informational?style=for-the-badge&logo=markdown)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/editorconfig-check.yml)
 
 <!-- 🎨 JAVASCRIPT / MARKDOWN / WEB FILES -->
 [![Prettier Code Style](https://img.shields.io/badge/Code%20Style-Prettier-ff69b4?style=for-the-badge&logo=prettier)](https://prettier.io)
