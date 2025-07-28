@@ -91,14 +91,17 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 ## 🌟 Highlights & Core Competencies
 
-- **🎨 GUI-Driven Tools:** Intuitive interfaces to simplify complex operations.
-- **📝 Structured Logging:** Logs in `.log` and `.csv` formats for traceability and reporting.
-- **🔐 Security by Design:** Forensics-ready scripts with hardening and compliance built-in.
-- **⚙️ Modular Architecture:** Adaptable and scalable for enterprise-level deployment.
-- **💼 Windows Automation:** PowerShell/VBScript automation across AD, DNS, WSUS, and GPOs.
-- **🛡️ Forensics & DFIR:** Credential artifact analysis, threat detection, and integrity logging.
-- **🔁 CI/CD Excellence:** GitHub Actions pipelines, NuGet packaging, changelog parsing.
-- **🏗️ Clean Codebase:** Prettier, EditorConfig, and PSScriptAnalyzer ensure maintainability.
+- **🎨 GUI-Driven Tools:** Intuitive PowerShell and HTA interfaces to simplify complex administrative workflows.
+- **📝 Structured Logging:** Human-readable and machine-parseable `.log` and `.csv` outputs for diagnostics, auditing, and reporting.
+- **🔐 Security by Design:** Hardening scripts with built-in credential hygiene, logging, and tamper-proofing for forensic readiness.
+- **⚙️ Modular Architecture:** Fully portable, layered script structure adaptable to enterprise-scale deployments.
+- **💼 Windows Automation:** Advanced automation across Active Directory, DNS, DHCP, WSUS, GPOs, and certificate services.
+- **🛡️ Forensics & DFIR:** Tooling for credential artifact inspection, unauthorized access tracing, and security event correlation.
+- **🔁 CI/CD Excellence:** Automated validation via GitHub Actions including Prettier, PSScriptAnalyzer, EditorConfig, VBScript checks.
+- **📦 NuGet Packaging Engine:** Custom `.nuspec`-driven builds, changelog-aware versioning, and SHA256-integrity enforcement.
+- **📊 SARIF Integration:** Unified security reporting with CodeQL, PSScriptAnalyzer, and VBScript syntax checks via GitHub Code Scanning.
+- **🔎 CodeQL Security Audits:** Static analysis to detect vulnerabilities like injection, deserialization flaws, and insecure patterns.
+- **🏗️ Clean Codebase:** Prettier formatting, EditorConfig enforcement, and multi-language linting ensure maintainability and readability.
 
 ---
 
