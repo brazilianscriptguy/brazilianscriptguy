@@ -41,8 +41,13 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 ## 📢 Latest Release & Automation Status
 
+<!-- 🧱 LATEST RELEASE -->
 [![Latest Release](https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&label=Latest%20Release&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases)
+
+<!-- 🧱 GIT RELEASE STATUS -->
 [![GitHub Releases Status](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/make-update-github-releases.yml?branch=main&style=for-the-badge&label=GitHub%20Releases%20Status&logo=githubactions)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/make-update-github-releases.yml)
+
+<!-- 🧱 PUBLISH NUGET -->
 [![Publish NuGet Package](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/publish-nuget-package-to-github.yml?branch=main&style=for-the-badge&label=Publish%20NuGet%20Package&logo=nuget)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/publish-nuget-package-to-github.yml)
 
 > 💡 Every release includes NuGet packaging, changelog automation, and SHA256 integrity validation.
