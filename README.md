@@ -57,13 +57,25 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 ## 📦 Project Configs & Quality Signals
 
+<!-- 🧱 GENERAL FORMATTING & CONFIG -->
 [![EditorConfig](https://img.shields.io/badge/EditorConfig-Enabled-blue?style=for-the-badge&logo=editorconfig)](https://editorconfig.org/)
 [![EditorConfig Check](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/editorconfig-check.yml?branch=main&label=EditorConfig%20Lint&logo=editorconfig&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/editorconfig-check.yml)
+[![EditorConfig Summary](https://img.shields.io/badge/Markdown%20Summary-Available-informational?style=for-the-badge&logo=markdown)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/editorconfig-check.yml)
+
+<!-- 🎨 JAVASCRIPT / MARKDOWN / WEB FILES -->
 [![Prettier Code Style](https://img.shields.io/badge/Code%20Style-Prettier-ff69b4?style=for-the-badge&logo=prettier)](https://prettier.io)
 [![Prettier Check](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/prettier-check.yml?branch=main&label=Prettier%20Lint&logo=prettier&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/prettier-check.yml)
+[![Prettier Summary](https://img.shields.io/badge/Format%20Summary-Artifact%20+%20Markdown-blueviolet?style=for-the-badge&logo=markdown)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/prettier-check.yml)
+
+<!-- ⚡ POWERSHELL -->
 [![PSScriptAnalyzer](https://img.shields.io/badge/PSScriptAnalyzer-Enabled-blueviolet?style=for-the-badge&logo=powershell)](https://github.com/PowerShell/PSScriptAnalyzer)
 [![PowerShell Lint](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/psscriptanalyzer-check.yml?branch=main&label=PowerShell%20Lint&logo=powershell&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/psscriptanalyzer-check.yml)
+[![PowerShell SARIF](https://img.shields.io/badge/SARIF%20Export-PowerShell-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
+
+<!-- 📜 VBSCRIPT -->
 [![VBScript Syntax](https://img.shields.io/badge/VBScript%20Lint-Enabled-blue?style=for-the-badge&logo=windows)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite)
+[![VBScript Check](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/vbscript-syntax-check.yml?branch=main&label=VBScript%20Check&logo=windows&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/vbscript-syntax-check.yml)
+[![VBScript SARIF](https://img.shields.io/badge/SARIF%20Export-VBScript-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
 ---
 
