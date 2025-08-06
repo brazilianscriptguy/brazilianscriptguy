@@ -115,6 +115,4 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 > 🚀 "My mission is to engineer secure, scalable, and reliable solutions that transform enterprise IT operations."
 
-© 2025 Luiz Hamilton. All rights reserved. 
-
-
+© 2025 Luiz Hamilton. All rights reserved.
