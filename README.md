@@ -88,7 +88,7 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brazilianscriptguy&theme=tokyonight)
 ![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brazilianscriptguy&theme=tokyonight)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brazilianscriptguy&theme=tokyo-night&hide_border=true)
+![Metrics](https://metrics.lecoq.io/brazilianscriptguy?template=classic&activity=1&activity.days=14&activity.filter=all&config.timezone=America/Sao_Paulo)
 
 ---
 
