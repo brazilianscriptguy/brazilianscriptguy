@@ -52,6 +52,8 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 [![View PowerShell Scripts](https://img.shields.io/badge/View-.ps1_Scripts-blue?style=for-the-badge&logo=powershell)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A*.ps1&type=code)
 [![View VBScript Files](https://img.shields.io/badge/View-.vbs_Scripts-blue?style=for-the-badge&logo=windows)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A*.vbs&type=code)
+[![View HTA Files](https://img.shields.io/badge/View-.hta_UI_Files-blue?style=for-the-badge&logo=windows)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A*.hta&type=code)
+[![View Workflows](https://img.shields.io/badge/View-GitHub_Actions_Workflows-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A.github%2Fworkflows&type=code)
 
 ---
 
@@ -88,7 +90,7 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brazilianscriptguy&theme=tokyonight)
 ![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brazilianscriptguy&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=brazilianscriptguy&theme=tokyonight_duo)](https://streak-stats.demolab.com?user=brazilianscriptguy)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brazilianscriptguy&theme=tokyo-night&hide_border=true)
 
 ---
 
@@ -120,5 +122,5 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 > 🚀 "My mission is to engineer secure, scalable, and reliable solutions that transform enterprise IT operations."
 
-© 2025 Luiz Hamilton. All rights reserved.
-
+© 2026 Luiz Hamilton. All rights reserved.
+```
