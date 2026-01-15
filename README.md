@@ -80,12 +80,10 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
-![GitHub Stats](https://raw.githubusercontent.com/brazilianscriptguy/brazilianscriptguy/main/assets/readme-cards/github-stats.svg)
-![Top Languages](https://raw.githubusercontent.com/brazilianscriptguy/brazilianscriptguy/main/assets/readme-cards/top-languages.svg)
-![GitHub Streak](https://raw.githubusercontent.com/brazilianscriptguy/brazilianscriptguy/main/assets/readme-cards/streak.svg)
-
+![GitHub Stats](https://raw.githubusercontent.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/main/assets/readme-cards/github-stats.svg)
+![Top Languages](https://raw.githubusercontent.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/main/assets/readme-cards/top-languages.svg)
+![GitHub Streak](https://raw.githubusercontent.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/main/assets/readme-cards/streak.svg)
 
 
 
