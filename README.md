@@ -79,11 +79,17 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 ---
 
-## 📊 GitHub Stats (GitHub-native generation)
+## 📊 GitHub Stats
 
-![GitHub Stats](https://raw.githubusercontent.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/main/assets/readme-cards/github-stats.svg)
-![Top Languages](https://raw.githubusercontent.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/main/assets/readme-cards/top-languages.svg)
-![GitHub Streak](https://raw.githubusercontent.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/main/assets/readme-cards/streak.svg)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brazilianscriptguy&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brazilianscriptguy&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brazilianscriptguy&theme=tokyonight&utcOffset=-3)
+
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brazilianscriptguy&theme=tokyonight)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brazilianscriptguy&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=brazilianscriptguy&theme=tokyonight_duo&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brazilianscriptguy&theme=tokyo-night&hide_border=true)
 
 ---
 
