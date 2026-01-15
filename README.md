@@ -81,12 +81,6 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://raw.githubusercontent.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/main/assets/readme-cards/github-stats.svg)
-![Top Languages](https://raw.githubusercontent.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/main/assets/readme-cards/top-languages.svg)
-![GitHub Streak](https://raw.githubusercontent.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/main/assets/readme-cards/streak.svg)
-
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brazilianscriptguy&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianscriptguy&layout=compact&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=brazilianscriptguy&theme=tokyonight_duo)](https://streak-stats.demolab.com?user=brazilianscriptguy)
