@@ -83,18 +83,23 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 ## 📊 GitHub Stats
 
+### 👤 Profile Overview
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brazilianscriptguy&theme=tokyonight)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brazilianscriptguy&theme=tokyonight)
+### 📈 Activity & Productivity
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brazilianscriptguy&theme=tokyonight)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brazilianscriptguy&theme=tokyonight&utcOffset=-3)
 
-![Total Code Languages (All Repos)](https://raw.githubusercontent.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/main/assets/readme-cards/top-languages.svg)
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brazilianscriptguy&theme=tokyonight)
+### 💻 Codebase Composition
+![Total Code Languages (All Repositories)](https://raw.githubusercontent.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/main/assets/readme-cards/top-languages.svg)
+![Top Languages by Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brazilianscriptguy&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brazilianscriptguy&theme=tokyo-night&hide_border=true&area=true)
+### 🔥 Contribution Timeline
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=brazilianscriptguy&theme=tokyo-night&hide_border=true&area=true)
 
-_Total Code Languages = aggregated bytes across repositories ·  
-Top Languages by Commit = activity-based_
+> **Legend**  
+> • *Total Code Languages* → aggregated bytes across all repositories  
+> • *Top Languages by Commit* → languages with highest commit activity
 
 ---
 
