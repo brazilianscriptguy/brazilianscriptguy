@@ -83,12 +83,42 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 ## 📊 GitHub Stats
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brazilianscriptguy&theme=tokyonight)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brazilianscriptguy&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brazilianscriptguy&theme=tokyonight&utcOffset=-3)
+<!-- Row 1: Overview -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brazilianscriptguy&theme=tokyonight"
+    alt="Profile Details"
+  />
+</p>
 
-![Total Code Languages (All Repos)](https://raw.githubusercontent.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/main/assets/readme-cards/top-languages.svg)
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brazilianscriptguy&theme=tokyonight)
+<!-- Row 2: Core stats + productive time -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brazilianscriptguy&theme=tokyonight"
+    alt="Stats"
+    height="200"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brazilianscriptguy&theme=tokyonight&utcOffset=-3"
+    alt="Productive Time (UTC -3)"
+    height="200"
+  />
+</p>
+
+<!-- Row 3: Languages (All repos + by commit) -->
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/main/assets/readme-cards/top-languages.svg"
+    alt="Total Code Languages (All Repos)"
+    height="200"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brazilianscriptguy&theme=tokyonight"
+    alt="Top Languages by Commit"
+    height="200"
+  />
+</p>
+
 
 ---
 
