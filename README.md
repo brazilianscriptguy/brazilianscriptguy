@@ -127,4 +127,3 @@ Top Languages by Commit = activity-based_
 > 🚀 "My mission is to engineer secure, scalable, and reliable solutions that transform enterprise IT operations."
 
 © 2026 Luiz Hamilton. All rights reserved.
-```
