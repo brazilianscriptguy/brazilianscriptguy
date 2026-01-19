@@ -83,44 +83,29 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 ## 📊 GitHub Stats
 
-<!-- Row 1: Overview -->
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brazilianscriptguy&theme=tokyonight"
-    alt="Profile Details"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brazilianscriptguy&theme=tokyonight" width="100%" />
 </p>
 
-<!-- Row 2: Core stats + productive time -->
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brazilianscriptguy&theme=tokyonight"
-    alt="Stats"
-    height="200"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brazilianscriptguy&theme=tokyonight&utcOffset=-3"
-    alt="Productive Time (UTC -3)"
-    height="200"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brazilianscriptguy&theme=tokyonight" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brazilianscriptguy&theme=tokyonight&utcOffset=-3" height="200" />
 </p>
 
-<!-- Row 3: Languages (All repos + by commit) -->
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/main/assets/readme-cards/top-languages.svg"
-    alt="Total Code Languages (All Repos)"
-    height="200"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brazilianscriptguy&theme=tokyonight"
-    alt="Top Languages by Commit"
-    height="200"
-  />
+  <img src="https://raw.githubusercontent.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/main/assets/readme-cards/top-languages.svg" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brazilianscriptguy&theme=tokyonight" height="200" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brazilianscriptguy&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
 
----
+<p align="center">
+  <sub>
+    Total Code Languages = aggregated bytes across repos · Top Languages by Commit = activity-based
+  </sub>
+</p>
 
 ## 🌟 Highlights & Core Competencies
 
