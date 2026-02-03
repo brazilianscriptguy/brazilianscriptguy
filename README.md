@@ -66,8 +66,8 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 <!-- 🎨 JAVASCRIPT / MARKDOWN / WEB FILES -->
 [![Prettier Code Style](https://img.shields.io/badge/Code%20Style-Prettier-ff69b4?style=for-the-badge&logo=prettier)](https://prettier.io)
-[![Prettier Check](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/prettier-check.yml?branch=main&label=Prettier%20Lint&logo=prettier&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/prettier-check.yml)
-[![Prettier Summary](https://img.shields.io/badge/Format%20Summary-Artifact%20+%20Markdown-blueviolet?style=for-the-badge&logo=markdown)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/prettier-check.yml)
+[![Prettier Check](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/prettier-code-format-check.yml?branch=main&label=Prettier%20Lint&logo=prettier&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/prettier-code-format-check.yml)
+[![Prettier Summary](https://img.shields.io/badge/Format%20Summary-Artifact%20+%20Markdown-blueviolet?style=for-the-badge&logo=markdown)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/prettier-code-format-check.yml)
 
 <!-- ⚡ POWERSHELL -->
 [![PSScriptAnalyzer](https://img.shields.io/badge/PSScriptAnalyzer-Enabled-blueviolet?style=for-the-badge&logo=powershell)](https://github.com/PowerShell/PSScriptAnalyzer)
