@@ -96,12 +96,6 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 ---
 
-### 💻 Codebase Composition
-![Total Code Languages (All Repositories)](https://raw.githubusercontent.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/main/assets/readme-cards/top-languages.svg)
-![Top Languages by Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brazilianscriptguy&theme=tokyonight)
-
----
-
 ### 🔥 Contribution Timeline
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=brazilianscriptguy&theme=tokyo-night&hide_border=true&area=true)
 
