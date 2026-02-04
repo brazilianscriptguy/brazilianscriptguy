@@ -82,6 +82,13 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 ---
 
+## 📦 Research Software & DOI
+
+[![Zenodo DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18487320-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.18487320)
+[![Release](https://img.shields.io/badge/Windows--SysAdmin--ProSuite-v1.8.8-4CAF50?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite)
+
+---
+
 ## 📊 GitHub Stats
 
 ### 👤 Profile Overview
