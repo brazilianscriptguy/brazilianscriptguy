@@ -81,36 +81,35 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 ---
 
-## 📊 GitHub Stats (External Cards)
+## 📊 GitHub Stats
 
-<div align="center">
+---
 
-<!-- Profile / Overview -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brazilianscriptguy&theme=tokyonight" alt="Profile Details" />
+### 👤 Profile Overview
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brazilianscriptguy&theme=tokyonight)
 
-<!-- Core Stats + Streak -->
-<img src="https://github-readme-stats.vercel.app/api?username=brazilianscriptguy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165" />
-<img src="https://streak-stats.demolab.com?user=brazilianscriptguy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+---
 
-<!-- Languages (API) + Languages (Your Generator) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianscriptguy&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages (API)" height="165" />
-<img src="https://raw.githubusercontent.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/main/assets/readme-cards/top-languages.svg" alt="Total Code Languages (Generated)" height="165" />
+### 📈 Activity & Productivity
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brazilianscriptguy&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brazilianscriptguy&theme=tokyonight&utcOffset=-3)
 
-<!-- Productive time + Commit language (summary-cards) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brazilianscriptguy&theme=tokyonight&utcOffset=-3" alt="Productive Time" height="190" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brazilianscriptguy&theme=tokyonight" alt="Top Languages by Commit Activity" height="190" />
+---
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=brazilianscriptguy&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
+### 💻 Codebase Composition
+![Total Code Languages (All Repositories)](https://raw.githubusercontent.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/main/assets/readme-cards/top-languages.svg)
+![Top Languages by Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brazilianscriptguy&theme=tokyonight)
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brazilianscriptguy&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+---
 
-</div>
+### 🔥 Contribution Timeline
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=brazilianscriptguy&theme=tokyo-night&hide_border=true&area=true)
+
+---
 
 > **Legend**  
-> • *Total Code Languages (Generated)* → aggregated bytes computed by your repo workflow/script  
-> • *Top Languages (API)* / *Most Commit Language* → external computed cards (GitHub API-based)
+> • **Total Code Languages** → aggregated bytes across all repositories  
+> • **Top Languages by Commit** → languages with highest commit activity
 
 ---
 
