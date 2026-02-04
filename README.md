@@ -20,7 +20,6 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 [![Email](https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:luizhamilton.lhr@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Brazilian%20Stonehenge-blue?style=for-the-badge&logo=googlemaps)](https://www.google.com/maps/search/?api=1&query=2%C2%B037'13.0%22N+51%C2%B000'35.2%22W)
 ![Time](https://img.shields.io/static/v1?label=Time&message=UTC%20-03%3A00&color=green&style=for-the-badge)
-![Cite this software](https://img.shields.io/badge/Citation-CFF-blue)
 
 ---
 
