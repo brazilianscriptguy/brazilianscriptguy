@@ -24,6 +24,7 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 ---
 
 ## 💻 My Repository Packages
+
 **Efficient, Secure, and Ready-to-Deploy IT Solutions**
 
 | Repository | Description | Key Features |
@@ -83,15 +84,12 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 ## 📊 GitHub Stats
 
-
 ### 👤 Profile Overview
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brazilianscriptguy&theme=tokyonight)
-
 
 ### 📈 Activity & Productivity
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brazilianscriptguy&theme=tokyonight)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brazilianscriptguy&theme=tokyonight&utcOffset=-3)
-
 
 ### 🔥 Contribution Timeline
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=brazilianscriptguy&theme=tokyo-night&hide_border=true&area=true)
@@ -107,7 +105,7 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 - **💼 Windows Automation:** Advanced automation across Active Directory, DNS, DHCP, WSUS, GPOs, and certificate services.
 - **🛡️ Forensics & DFIR:** Tooling for credential artifact inspection, unauthorized access tracing, and security event correlation.
 - **🔁 CI/CD Excellence:** Automated validation via GitHub Actions including Prettier, PSScriptAnalyzer, EditorConfig, VBScript checks.
-- **📦 NuGet Packaging Engine:** Custom `.nuspec`-driven builds, changelog-aware versioning, and SHA256-integrity enforcement.
+- **📦 NuGet Packaging Engine:** Custom `.nuspec`-driven builds, changelog-aware versioning, and SHA256 integrity enforcement.
 - **📊 SARIF Integration:** Unified security reporting with CodeQL, PSScriptAnalyzer, and VBScript syntax checks via GitHub Code Scanning.
 - **🔎 CodeQL Security Audits:** Static analysis to detect vulnerabilities like injection, deserialization flaws, and insecure patterns.
 - **🏗️ Clean Codebase:** Prettier formatting, EditorConfig enforcement, and multi-language linting ensure maintainability and readability.
