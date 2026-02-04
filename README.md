@@ -83,27 +83,18 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 ## 📊 GitHub Stats
 
----
 
 ### 👤 Profile Overview
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brazilianscriptguy&theme=tokyonight)
 
----
 
 ### 📈 Activity & Productivity
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brazilianscriptguy&theme=tokyonight)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brazilianscriptguy&theme=tokyonight&utcOffset=-3)
 
----
 
 ### 🔥 Contribution Timeline
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=brazilianscriptguy&theme=tokyo-night&hide_border=true&area=true)
-
----
-
-> **Legend**  
-> • **Total Code Languages** → aggregated bytes across all repositories  
-> • **Top Languages by Commit** → languages with highest commit activity
 
 ---
 
