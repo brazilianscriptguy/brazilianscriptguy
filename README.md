@@ -125,7 +125,6 @@ ISSN: 1678-0817
 **Roberto da Silva, Luiz Hamilton**  
 **Event Logs: Applying a Log Analysis Model for Auditing Event Record Registration**  
 Publisher: Sorian — 1st edition, 2024  
-112 pages · 16 × 23 cm  
 Print ISBN: 978-65-5453-346-1 · eBook ISBN: 978-65-5453-366-9  
 
 > Book-length scholarly work presenting a practical model for **event log auditing**, **forensic readiness**, and **vulnerability identification**, with emphasis on audit trails, Syslog concepts, and PowerShell-enabled workflows.  
