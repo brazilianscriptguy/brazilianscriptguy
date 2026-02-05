@@ -120,7 +120,7 @@ ISSN: 1678-0817
 
 #### **2024**
 
-[![DOI](https://img.shields.io/badge/DOI-10.54466%2Fsorianed.978--65--5453--366--9-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.54466/sorianed.978-65-5453-366-9)  [![ISBN](https://img.shields.io/badge/ISBN-9786554533669-555555?style=for-the-badge&logo=bookstack)]()
+[![DOI](https://img.shields.io/badge/DOI-10.54466%2Fsorianed.978--65--5453--366--9-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.54466/sorianed.978-65-5453-366-9)  [![ISBN](https://img.shields.io/badge/ISBN-9786554533669-555555?style=for-the-badge&logo=bookstack)](https://www.magazineluiza.com.br/log-de-eventos-aplicacao-de-um-modelo-de-analise-de-logs-para-auditoria-de-registro-de-eventos-editora-sorian/p/ek6e33k93h/li/adml/?seller_id=sorianeditorial)
 
 **Roberto da Silva, Luiz Hamilton**  
 **Event Logs: Applying a Log Analysis Model for Auditing Event Record Registration**  
