@@ -134,7 +134,7 @@ Print ISBN: 978-65-5453-346-1 · eBook ISBN: 978-65-5453-366-9
 
 #### **2009**
 
-[![ISBN](https://img.shields.io/badge/ISBN-9788573938357-555555?style=for-the-badge&logo=bookstack)](https://www.worldcat.org/isbn/9788573938357)  [![DOI](https://img.shields.io/badge/DOI-10.54236%2Fedcimo.001-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.54236/edcimo.001)
+[![DOI](https://img.shields.io/badge/DOI-10.54236%2Fedcimo.001-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.54236/edcimo.001)  [![ISBN](https://img.shields.io/badge/ISBN-9788573938357-555555?style=for-the-badge&logo=bookstack)](https://www.worldcat.org/isbn/9788573938357)
 
 **Roberto da Silva, Luiz Hamilton**  
 **Computer Networking Technology: Using GPOs to Secure Corporate Domains**  
