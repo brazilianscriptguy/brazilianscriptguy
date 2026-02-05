@@ -80,6 +80,8 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 [![VBScript Check](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/vbscript-syntax-validation.yml?branch=main&label=VBScript%20Check&logo=windows&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/vbscript-syntax-validation.yml)
 [![VBScript SARIF](https://img.shields.io/badge/SARIF%20Export-VBScript-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
+---
+
 ## 📦 Research Software & DOI
 
 [![Zenodo DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18487320-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.18487320)
@@ -87,8 +89,6 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 
 > **Citation (APA):**  
 > Roberto da Silva, L. H. (2026). *Windows-SysAdmin-ProSuite* (Version 1.8.8) [Computer software]. https://doi.org/10.5281/zenodo.18487320
-
----
 
 ## 📚 Publications (Selected Works)
 
