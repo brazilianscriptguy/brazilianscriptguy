@@ -84,18 +84,23 @@ I build robust **PowerShell** and **VBScript** tools to automate identity workfl
 
 ## 📦 Research Software & DOI
 
-[![Zenodo DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18487320-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.18487320)
+#### **2026**
+
+[![Zenodo DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18487320-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.18487320)  
 [![Release](https://img.shields.io/badge/Windows--SysAdmin--ProSuite-v1.8.8-4CAF50?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite)
 
-Windows-SysAdmin-ProSuite is an enterprise-grade collection of PowerShell and VBScript automation tools for Windows Server and Windows 10/11 environments. The project supports ITSM-aligned provisioning, security hardening, identity and access management, and digital forensics readiness, with emphasis on auditability, reproducibility, and governance. It is suitable for operational, academic, and compliance-oriented contexts.
-> **Citation (APA):**  Roberto da Silva, L. H. (2026). *Windows-SysAdmin-ProSuite* (Version 1.8.8) [Computer software].
+**Windows-SysAdmin-ProSuite** is an enterprise-grade collection of **PowerShell** and **VBScript** automation tools for **Windows Server** and **Windows 10/11** environments, designed to support ITSM-aligned provisioning, security hardening, identity and access management, and digital forensics readiness.
+
+> **Citation (APA):**  
+> Roberto da Silva, L. H. (2026). *Windows-SysAdmin-ProSuite* (Version 1.8.8) [Computer software]. https://doi.org/10.5281/zenodo.18487320
 
 ---
 
 ## 📚 Publications
 
 The following works provide the **academic, methodological, and scientific foundation** that informs the engineering principles, governance model, security posture, and compliance-oriented design applied throughout **Windows-SysAdmin-ProSuite**.
-They include **peer-reviewed journal publications, books, and academic research** with emphasis on **Windows security, event log auditing, digital forensics, and enterprise governance**.
+
+They include **peer-reviewed journal publications**, **books**, and **academic research**, with emphasis on **Windows security**, **event log auditing**, **digital forensics**, and **enterprise governance**.
 
 ---
 
@@ -103,13 +108,14 @@ They include **peer-reviewed journal publications, books, and academic research*
 
 #### **2025**
 
-[![DOI](https://img.shields.io/badge/DOI-10.69849%2Frevistaft%2Fth102502121360-blue?style=for-the-badge\&logo=crossref)](https://doi.org/10.69849/revistaft/th102502121360)
-**Roberto da Silva, Luiz Hamilton**
-**“SQL Syntax Models for Building Parsers to Query Event Logs in EVTX Format”**
-*Revista FT — Computer Science*, Vol. 29, Issue 142, Jan 2025 — **Qualis B2**
-ISSN: 1678-0817
+[![DOI](https://img.shields.io/badge/DOI-10.69849%2Frevistaft%2Fth102502121360-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.69849/revistaft/th102502121360)
 
-> Peer-reviewed work proposing a structured approach for Windows Event Log (EVTX) analysis using SQL-based parsers, supporting auditing, incident investigation, and Active Directory authentication tracing.
+**Roberto da Silva, Luiz Hamilton**  
+**“SQL Syntax Models for Building Parsers to Query Event Logs in EVTX Format”**  
+*Revista FT — Computer Science*, Vol. 29, Issue 142, January 2025 — **Qualis B2**  
+ISSN: 1678-0817  
+
+> Peer-reviewed article proposing a structured approach for Windows Event Log (EVTX) analysis using SQL-based parsers, supporting auditing, incident investigation, and Active Directory authentication tracing.
 
 ---
 
@@ -117,27 +123,29 @@ ISSN: 1678-0817
 
 #### **2024**
 
-[![DOI](https://img.shields.io/badge/DOI-10.54466%2Fsorianed.978--65--5453--366--9-blue?style=for-the-badge\&logo=crossref)](https://doi.org/10.54466/sorianed.978-65-5453-366-9)
-[![ISBN](https://img.shields.io/badge/ISBN-9786554533669-555555?style=for-the-badge\&logo=bookstack)]()
-**Roberto da Silva, Luiz Hamilton**
-**Event Logs: Applying a Log Analysis Model for Auditing Event Record Registration**
-Publisher: Sorian — 1st edition, 2024
-112 pages · 16×23 cm
-Print ISBN: 978-65-5453-346-1 · eBook ISBN: 978-65-5453-366-9
+[![DOI](https://img.shields.io/badge/DOI-10.54466%2Fsorianed.978--65--5453--366--9-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.54466/sorianed.978-65-5453-366-9)  
+[![ISBN](https://img.shields.io/badge/ISBN-9786554533669-555555?style=for-the-badge&logo=bookstack)]()
 
-> Book-length contribution presenting a practical model for **event log auditing**, **forensic readiness**, and **vulnerability identification**, with a focus on audit trails, Syslog concepts, and PowerShell-enabled workflows.
-> Intended for **information security professionals**, auditors, and DFIR practitioners.
+**Roberto da Silva, Luiz Hamilton**  
+**Event Logs: Applying a Log Analysis Model for Auditing Event Record Registration**  
+Publisher: Sorian — 1st edition, 2024  
+112 pages · 16 × 23 cm  
+Print ISBN: 978-65-5453-346-1 · eBook ISBN: 978-65-5453-366-9  
+
+> Book-length scholarly work presenting a practical model for **event log auditing**, **forensic readiness**, and **vulnerability identification**, with emphasis on audit trails, Syslog concepts, and PowerShell-enabled workflows.  
+> Intended for **information security professionals**, **auditors**, and **DFIR practitioners**.
 
 ---
 
 #### **2009**
 
-[![ISBN](https://img.shields.io/badge/ISBN-9788573938357-555555?style=for-the-badge\&logo=bookstack)]()
-**Roberto da Silva, Luiz Hamilton**
-**Computer Networking Technology: Using GPOs to Secure Corporate Domains**
-Publisher: Ciência Moderna — 1st edition, 2009
+[![ISBN](https://img.shields.io/badge/ISBN-9788573938357-555555?style=for-the-badge&logo=bookstack)]()
 
-> Technical book focused on applying **Group Policy Objects (GPOs)** to harden and govern Windows domain environments, emphasizing policy enforcement and enterprise security baselines.
+**Roberto da Silva, Luiz Hamilton**  
+**Computer Networking Technology: Using GPOs to Secure Corporate Domains**  
+Publisher: Ciência Moderna — 1st edition, 2009  
+
+> Technical book focused on the application of **Group Policy Objects (GPOs)** to harden and govern Windows domain environments, emphasizing centralized policy enforcement and enterprise security baselines.
 
 ---
 
@@ -145,11 +153,12 @@ Publisher: Ciência Moderna — 1st edition, 2009
 
 #### **2017**
 
-[![Repository](https://img.shields.io/badge/UFPE-Academic%20Repository-003366?style=for-the-badge\&logo=academia)](https://repositorio.ufpe.br/handle/123456789/27515)
-**Roberto da Silva, Luiz Hamilton**
-**“Event Logs: Applying a Log Analysis Model for Auditing Event Record Registration”**
-Federal University of Pernambuco (UFPE), 2017
-Keywords: *Computer Science; Log Auditing; Digital Forensics*
+[![Repository](https://img.shields.io/badge/UFPE-Academic%20Repository-003366?style=for-the-badge&logo=academia)](https://repositorio.ufpe.br/handle/123456789/27515)
+
+**Roberto da Silva, Luiz Hamilton**  
+**“Event Logs: Applying a Log Analysis Model for Auditing Event Record Registration”**  
+Federal University of Pernambuco (UFPE), 2017  
+Keywords: *Computer Science; Log Auditing; Digital Forensics*  
 
 > Academic research defining a structured model for log auditing and forensic analysis, with practical emphasis on Syslog concepts and PowerShell-enabled analysis for security monitoring and governance.
 
@@ -157,10 +166,10 @@ Keywords: *Computer Science; Log Auditing; Digital Forensics*
 
 ### 🔗 Academic Profiles & Research Identifiers
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge\&logo=orcid)](https://orcid.org/0000-0003-3705-7468)
-[![Lattes](https://img.shields.io/badge/Lattes%20CV-CNPq-00A693?style=for-the-badge\&logo=academia)](http://lattes.cnpq.br/0191525072495482)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-3705-7468)  
+[![Lattes](https://img.shields.io/badge/Lattes%20CV-CNPq-00A693?style=for-the-badge&logo=academia)](http://lattes.cnpq.br/0191525072495482)
 
-> These identifiers consolidate the author’s **peer-reviewed publications, books, and academic research**, reinforcing the scholarly grounding behind **Windows-SysAdmin-ProSuite**.
+> These identifiers consolidate the author’s **peer-reviewed publications**, **books**, and **academic research**, reinforcing the scholarly grounding behind **Windows-SysAdmin-ProSuite**.
 
 ---
 
