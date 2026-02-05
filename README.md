@@ -86,8 +86,7 @@ I build robust **PowerShell** and **VBScript** tools to automate identity workfl
 
 #### **2026**
 
-[![Zenodo DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18487320-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.18487320)  
-[![Release](https://img.shields.io/badge/Windows--SysAdmin--ProSuite-v1.8.8-4CAF50?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite)
+[![Zenodo DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18487320-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.18487320)  [![Release](https://img.shields.io/badge/Windows--SysAdmin--ProSuite-v1.8.8-4CAF50?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite)
 
 **Windows-SysAdmin-ProSuite** is an enterprise-grade collection of **PowerShell** and **VBScript** automation tools for **Windows Server** and **Windows 10/11** environments, designed to support ITSM-aligned provisioning, security hardening, identity and access management, and digital forensics readiness.
 
@@ -99,8 +98,6 @@ I build robust **PowerShell** and **VBScript** tools to automate identity workfl
 ## 📚 Publications
 
 The following works provide the **academic, methodological, and scientific foundation** that informs the engineering principles, governance model, security posture, and compliance-oriented design applied throughout **Windows-SysAdmin-ProSuite**.
-
-They include **peer-reviewed journal publications**, **books**, and **academic research**, with emphasis on **Windows security**, **event log auditing**, **digital forensics**, and **enterprise governance**.
 
 ---
 
@@ -123,8 +120,7 @@ ISSN: 1678-0817
 
 #### **2024**
 
-[![DOI](https://img.shields.io/badge/DOI-10.54466%2Fsorianed.978--65--5453--366--9-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.54466/sorianed.978-65-5453-366-9)  
-[![ISBN](https://img.shields.io/badge/ISBN-9786554533669-555555?style=for-the-badge&logo=bookstack)]()
+[![DOI](https://img.shields.io/badge/DOI-10.54466%2Fsorianed.978--65--5453--366--9-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.54466/sorianed.978-65-5453-366-9)  [![ISBN](https://img.shields.io/badge/ISBN-9786554533669-555555?style=for-the-badge&logo=bookstack)]()
 
 **Roberto da Silva, Luiz Hamilton**  
 **Event Logs: Applying a Log Analysis Model for Auditing Event Record Registration**  
@@ -139,7 +135,7 @@ Print ISBN: 978-65-5453-346-1 · eBook ISBN: 978-65-5453-366-9
 
 #### **2009**
 
-[![ISBN](https://img.shields.io/badge/ISBN-9788573938357-555555?style=for-the-badge&logo=bookstack)]()
+[![ISBN](https://img.shields.io/badge/ISBN-9788573938357-555555?style=for-the-badge&logo=bookstack)](https://www.worldcat.org/isbn/9788573938357)  [![DOI](https://img.shields.io/badge/DOI-10.54236%2Fedcimo.001-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.54236/edcimo.001)
 
 **Roberto da Silva, Luiz Hamilton**  
 **Computer Networking Technology: Using GPOs to Secure Corporate Domains**  
@@ -166,8 +162,7 @@ Keywords: *Computer Science; Log Auditing; Digital Forensics*
 
 ### 🔗 Academic Profiles & Research Identifiers
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-3705-7468)  
-[![Lattes](https://img.shields.io/badge/Lattes%20CV-CNPq-00A693?style=for-the-badge&logo=academia)](http://lattes.cnpq.br/0191525072495482)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-3705-7468) [![Lattes](https://img.shields.io/badge/Lattes%20CV-CNPq-00A693?style=for-the-badge&logo=academia)](http://lattes.cnpq.br/0191525072495482)
 
 > These identifiers consolidate the author’s **peer-reviewed publications**, **books**, and **academic research**, reinforcing the scholarly grounding behind **Windows-SysAdmin-ProSuite**.
 
