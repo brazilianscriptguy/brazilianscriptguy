@@ -88,7 +88,7 @@ I build robust **PowerShell** and **VBScript** tools to automate identity workfl
 [![Release](https://img.shields.io/badge/Windows--SysAdmin--ProSuite-v1.8.8-4CAF50?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite)
 
 > **Citation (APA):**  
-> Roberto da Silva, L. H. (2026). *Windows-SysAdmin-ProSuite* (Version 1.8.8) [Computer software]. https://doi.org/10.5281/zenodo.18487320
+> Roberto da Silva, L. H. (2026). *Windows-SysAdmin-ProSuite* (Version 1.8.8) [Computer software].
 
 ---
 
