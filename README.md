@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Luiz Hamilton (@brazilianscriptguy)
 
-Welcome to my GitHub profile! I'm a results-driven **IAM Analyst** and **Senior Systems Analyst** with deep expertise in **Identity & Access Management**, **Cybersecurity**, and **Digital Forensics**. I specialize in securing and administering **Windows Server infrastructures**, developing enterprise-grade **automation scripts**, and supporting high-availability IT operations.
+Welcome to my GitHub profile! I'm a results-driven **IAM Analyst** and **Senior Systems Analyst** with deep expertise in **Identity & Access Management (IAM)**, **Cybersecurity**, and **Digital Forensics**. I specialize in securing and administering **Windows Server infrastructures**, developing enterprise-grade **automation scripts**, and supporting high-availability IT operations.
 
-I build robust `PowerShell` and `VBScript` tools to automate identity workflows, enforce ITSM compliance, and boost administrative productivity. My mission is to engineer secure, scalable, and reliable solutions that transform enterprise IT operations.
+I build robust **PowerShell** and **VBScript** tools to automate identity workflows, enforce ITSM compliance, and boost administrative productivity. My mission is to engineer **secure, scalable, and reliable solutions** that transform enterprise IT operations across public-sector and enterprise environments.
 
 ---
 
@@ -90,6 +90,8 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 > **Citation (APA):**  
 > Roberto da Silva, L. H. (2026). *Windows-SysAdmin-ProSuite* (Version 1.8.8) [Computer software]. https://doi.org/10.5281/zenodo.18487320
 
+---
+
 ## 📚 Publications (Selected Works)
 
 The following scholarly works provide the **academic and methodological foundation** that informs the engineering principles, governance model, security posture, and compliance-oriented design adopted throughout **Windows-SysAdmin-ProSuite**.
@@ -97,32 +99,27 @@ The following scholarly works provide the **academic and methodological foundati
 ### 🧪 Peer-Reviewed Articles & Technical Publications
 
 [![DOI](https://img.shields.io/badge/DOI-10.69849%2Frevistaft%2Fth102502121360-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.69849/revistaft/th102502121360)  
-**Roberto da Silva, L. H.**  
-*Revista FT — Technical / Applied Computing Publication*  
-> Research contribution in applied computing and systems analysis, with relevance to enterprise environments and structured automation.
+**Roberto da Silva, L. H.** — *Revista FT*  
+Applied computing and systems analysis research with relevance to enterprise automation and governance.
 
 [![DOI](https://img.shields.io/badge/DOI-10.54236%2Fedcimo.001-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.54236/edcimo.001)
 [![ISBN](https://img.shields.io/badge/ISBN-9788573938357-555555?style=for-the-badge&logo=bookstack)]()  
-**Roberto da Silva, L. H.**  
-*Edcimo — Scientific and Technical Publication*  
-> Academic work addressing computing, information systems, or applied technology topics aligned with governance and structured environments.
+**Roberto da Silva, L. H.** — *Edcimo*  
+Scientific and technical publication addressing applied computing and structured systems.
 
 ### 📘 Books & Book Chapters
 
 [![DOI](https://img.shields.io/badge/DOI-10.54466%2Fsorianed.978--65--5453--284--6-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.54466/sorianed.978-65-5453-284-6)
 [![ISBN](https://img.shields.io/badge/ISBN-9786554533669-555555?style=for-the-badge&logo=bookstack)]()  
-**Roberto da Silva, L. H.**  
-*Sorianed — Scholarly Book*  
-> Book-length contribution covering structured knowledge in computing, systems engineering, or applied research methodologies.
-
----
+**Roberto da Silva, L. H.** — *Sorianed*  
+Book-length scholarly contribution on computing, systems engineering, and applied research methodologies.
 
 ### 🔗 Academic Profiles & Research Identifiers
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-3705-7468)
 [![Lattes](https://img.shields.io/badge/Lattes%20CV-CNPq-00A693?style=for-the-badge&logo=academia)](http://lattes.cnpq.br/0191525072495482)
 
-> These identifiers consolidate the author’s **academic output, research trajectory, and peer-reviewed contributions**, reinforcing the scientific grounding behind this repository.
+> These identifiers consolidate the author’s academic output, research trajectory, and peer-reviewed contributions.
 
 ---
 
@@ -142,17 +139,17 @@ The following scholarly works provide the **academic and methodological foundati
 
 ## 🌟 Highlights & Core Competencies
 
-- **🎨 GUI-Driven Tools:** Intuitive PowerShell and HTA interfaces to simplify complex administrative workflows.
-- **📝 Structured Logging:** Human-readable and machine-parseable `.log` and `.csv` outputs for diagnostics, auditing, and reporting.
-- **🔐 Security by Design:** Hardening scripts with built-in credential hygiene, logging, and tamper-proofing for forensic readiness.
-- **⚙️ Modular Architecture:** Fully portable, layered script structure adaptable to enterprise-scale deployments.
-- **💼 Windows Automation:** Advanced automation across Active Directory, DNS, DHCP, WSUS, GPOs, and certificate services.
-- **🛡️ Forensics & DFIR:** Tooling for credential artifact inspection, unauthorized access tracing, and security event correlation.
-- **🔁 CI/CD Excellence:** Automated validation via GitHub Actions including Prettier, PSScriptAnalyzer, EditorConfig, VBScript checks.
-- **📦 NuGet Packaging Engine:** Custom `.nuspec`-driven builds, changelog-aware versioning, and SHA256 integrity enforcement.
-- **📊 SARIF Integration:** Unified security reporting with CodeQL, PSScriptAnalyzer, and VBScript syntax checks via GitHub Code Scanning.
-- **🔎 CodeQL Security Audits:** Static analysis to detect vulnerabilities like injection, deserialization flaws, and insecure patterns.
-- **🏗️ Clean Codebase:** Prettier formatting, EditorConfig enforcement, and multi-language linting ensure maintainability and readability.
+- 🎨 **GUI-Driven Tools:** Intuitive PowerShell and HTA interfaces for complex administrative workflows.
+- 📝 **Structured Logging:** Human-readable and machine-parseable `.log` and `.csv` outputs.
+- 🔐 **Security by Design:** Credential hygiene, traceability, and forensic readiness.
+- ⚙️ **Modular Architecture:** Portable, layered script structure for enterprise-scale deployments.
+- 💼 **Windows Automation:** Advanced AD, DNS, DHCP, WSUS, GPO, and PKI automation.
+- 🛡️ **Forensics & DFIR:** Credential artifact inspection and security event correlation.
+- 🔁 **CI/CD Excellence:** Automated validation with Prettier, PSScriptAnalyzer, and EditorConfig.
+- 📦 **NuGet Packaging Engine:** `.nuspec`-driven builds and SHA256 integrity enforcement.
+- 📊 **SARIF Integration:** Unified security reporting via GitHub Code Scanning.
+- 🔎 **CodeQL Audits:** Static analysis for vulnerability detection.
+- 🏗️ **Clean Codebase:** Enforced formatting and multi-language linting.
 
 ---
 
@@ -166,6 +163,6 @@ The following scholarly works provide the **academic and methodological foundati
 
 ---
 
-> 🚀 "My mission is to engineer secure, scalable, and reliable solutions that transform enterprise IT operations."
+> 🚀 *“My mission is to engineer secure, scalable, and reliable solutions that transform enterprise IT operations.”*
 
-© 2026 Luiz Hamilton. All rights reserved.
+© 2026 Luiz Hamilton Silva. All rights reserved.
