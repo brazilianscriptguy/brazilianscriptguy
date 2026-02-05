@@ -80,12 +80,49 @@ I build robust `PowerShell` and `VBScript` tools to automate identity workflows,
 [![VBScript Check](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/vbscript-syntax-validation.yml?branch=main&label=VBScript%20Check&logo=windows&style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/vbscript-syntax-validation.yml)
 [![VBScript SARIF](https://img.shields.io/badge/SARIF%20Export-VBScript-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
----
-
 ## 📦 Research Software & DOI
 
 [![Zenodo DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18487320-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.18487320)
 [![Release](https://img.shields.io/badge/Windows--SysAdmin--ProSuite-v1.8.8-4CAF50?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite)
+
+> **Citation (APA):**  
+> Roberto da Silva, L. H. (2026). *Windows-SysAdmin-ProSuite* (Version 1.8.8) [Computer software]. https://doi.org/10.5281/zenodo.18487320
+
+---
+
+## 📚 Publications (Selected Works)
+
+The following scholarly works provide the **academic and methodological foundation** that informs the engineering principles, governance model, security posture, and compliance-oriented design adopted throughout **Windows-SysAdmin-ProSuite**.
+
+### 🧪 Peer-Reviewed Articles & Technical Publications
+
+[![DOI](https://img.shields.io/badge/DOI-10.69849%2Frevistaft%2Fth102502121360-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.69849/revistaft/th102502121360)  
+**Roberto da Silva, L. H.**  
+*Revista FT — Technical / Applied Computing Publication*  
+> Research contribution in applied computing and systems analysis, with relevance to enterprise environments and structured automation.
+
+[![DOI](https://img.shields.io/badge/DOI-10.54236%2Fedcimo.001-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.54236/edcimo.001)
+[![ISBN](https://img.shields.io/badge/ISBN-9788573938357-555555?style=for-the-badge&logo=bookstack)]()  
+**Roberto da Silva, L. H.**  
+*Edcimo — Scientific and Technical Publication*  
+> Academic work addressing computing, information systems, or applied technology topics aligned with governance and structured environments.
+
+### 📘 Books & Book Chapters
+
+[![DOI](https://img.shields.io/badge/DOI-10.54466%2Fsorianed.978--65--5453--284--6-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.54466/sorianed.978-65-5453-284-6)
+[![ISBN](https://img.shields.io/badge/ISBN-9786554533669-555555?style=for-the-badge&logo=bookstack)]()  
+**Roberto da Silva, L. H.**  
+*Sorianed — Scholarly Book*  
+> Book-length contribution covering structured knowledge in computing, systems engineering, or applied research methodologies.
+
+---
+
+### 🔗 Academic Profiles & Research Identifiers
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-3705-7468)
+[![Lattes](https://img.shields.io/badge/Lattes%20CV-CNPq-00A693?style=for-the-badge&logo=academia)](http://lattes.cnpq.br/0191525072495482)
+
+> These identifiers consolidate the author’s **academic output, research trajectory, and peer-reviewed contributions**, reinforcing the scientific grounding behind this repository.
 
 ---
 
