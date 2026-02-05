@@ -91,7 +91,7 @@ I build robust **PowerShell** and **VBScript** tools to automate identity workfl
 **Windows-SysAdmin-ProSuite** is an enterprise-grade collection of **PowerShell** and **VBScript** automation tools for **Windows Server** and **Windows 10/11** environments, designed to support ITSM-aligned provisioning, security hardening, identity and access management, and digital forensics readiness.
 
 > **Citation (APA):**  
-> Roberto da Silva, L. H. (2026). *Windows-SysAdmin-ProSuite* (Version 1.8.8) [Computer software]. https://doi.org/10.5281/zenodo.18487320
+> Roberto da Silva, L. H. (2026). *Windows-SysAdmin-ProSuite* (Version 1.8.8) [Computer software].
 
 ---
 
