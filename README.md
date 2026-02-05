@@ -144,7 +144,7 @@ Publisher: Ciência Moderna — 1st edition, 2009
 
 ---
 
-### 🎓 Academic Research (Thesis / Dissertation)
+### 🎓 Academic Research (Master Degree Thesis / Dissertation)
 
 #### **2017**
 
