@@ -52,11 +52,8 @@ I build robust **PowerShell** and **VBScript** tools to automate identity workfl
 ## 🧾 Scripts Index
 
 [![PowerShell](https://img.shields.io/badge/View-.ps1_PowerShell_Scripts-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A*.ps1&type=code)
-
 [![VBScript](https://img.shields.io/badge/View-.vbs_VBScript_Files-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A*.vbs&type=code)
-
 [![HTA](https://img.shields.io/badge/View-.hta_HTA_UI_Files-00599C?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A*.hta&type=code)
-
 [![GitHub Actions](https://img.shields.io/badge/View-GitHub_Actions_Workflows-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A.github%2Fworkflows&type=code)
 
 ---
