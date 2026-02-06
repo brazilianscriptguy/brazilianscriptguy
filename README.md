@@ -80,7 +80,6 @@ I build robust **PowerShell** and **VBScript** tools to automate identity workfl
 
 [![VBScript](https://img.shields.io/badge/VBScript-ON-blue?style=for-the-badge&logo=windows)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite) [![VBS CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/vbscript-syntax-validation.yml?branch=main&style=for-the-badge&label=VBS%20CI&logo=windows)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/vbscript-syntax-validation.yml) [![VBS SARIF](https://img.shields.io/badge/SARIF-VBScript-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
-
 ---
 
 ## 📦 Research Software & DOI
