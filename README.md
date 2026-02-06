@@ -28,7 +28,7 @@ I build robust **PowerShell** and **VBScript** tools to automate identity workfl
 **Efficient, Secure, and Ready-to-Deploy IT Solutions**
 
 | Repository | Description | Key Features |
-|------------|-------------|--------------|
+|-----|------|-------|
 | [![SysAdmin ToolSet](https://img.shields.io/badge/SysAdmin%20ToolSet-Tools-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools) | Automation scripts for AD, GPOs, WSUS, CA, DHCP, DNS. | - Active Directory & GPO Management<br>- Certificate Authority Automation<br>- WSUS Maintenance & Cleanup<br>- DHCP & DNS Fixes |
 | [![BlueTeam Tools](https://img.shields.io/badge/BlueTeam%20Tools-Forensics-orange?style=for-the-badge&logo=protonmail&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/BlueTeam-Tools) | PowerShell tools for forensics and incident response. | - DFIR Collection Modules<br>- Credential Audit Parsers<br>- Threat Hunting Utilities |
 | [![Core ScriptLibrary](https://img.shields.io/badge/Core%20ScriptLibrary-Library-red?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary) | Modular PS1 scripts and NuGet packaging engine. | - Portable PowerShell Helpers<br>- NuGet Packaging Templates<br>- GUI Automation Libraries |
@@ -61,19 +61,19 @@ I build robust **PowerShell** and **VBScript** tools to automate identity workfl
 
 [![EditorConfig](https://img.shields.io/badge/EditorConfig-ON-blue?style=for-the-badge&logo=editorconfig)](https://editorconfig.org/) [![EC CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/editorconfig-check.yml?branch=main&style=for-the-badge&label=EC%20CI&logo=editorconfig)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/editorconfig-check.yml) [![EC Report](https://img.shields.io/badge/EC-Report-informational?style=for-the-badge&logo=markdown)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/editorconfig-check.yml)
 
-----------
+---
 
 #### 🎨 Web / Markdown Formatting
 
 [![Prettier](https://img.shields.io/badge/Prettier-ON-ff69b4?style=for-the-badge&logo=prettier)](https://prettier.io) [![Prettier CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/prettier-code-format-check.yml?branch=main&style=for-the-badge&label=Prettier%20CI&logo=prettier)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/prettier-code-format-check.yml) [![Format Report](https://img.shields.io/badge/Format-Report-blueviolet?style=for-the-badge&logo=markdown)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/prettier-code-format-check.yml)
 
-----------
+---
 
 #### ⚡ PowerShell Quality & Security
 
 [![PSScriptAnalyzer](https://img.shields.io/badge/PSScriptAnalyzer-ON-blueviolet?style=for-the-badge&logo=powershell)](https://github.com/PowerShell/PSScriptAnalyzer) [![PS CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/psscriptanalyzer-plus-sarif.yml?branch=main&style=for-the-badge&label=PS%20CI&logo=powershell)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/psscriptanalyzer-plus-sarif.yml) [![PS SARIF](https://img.shields.io/badge/SARIF-PowerShell-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
-----------
+---
 
 #### 📜 VBScript Quality & Security
 
