@@ -63,19 +63,19 @@ I build robust **PowerShell** and **VBScript** tools to automate identity workfl
 
 ----------
 
-### 🎨 Web / Markdown Formatting
+#### 🎨 Web / Markdown Formatting
 
 [![Prettier](https://img.shields.io/badge/Prettier-ON-ff69b4?style=for-the-badge&logo=prettier)](https://prettier.io) [![Prettier CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/prettier-code-format-check.yml?branch=main&style=for-the-badge&label=Prettier%20CI&logo=prettier)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/prettier-code-format-check.yml) [![Format Report](https://img.shields.io/badge/Format-Report-blueviolet?style=for-the-badge&logo=markdown)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/prettier-code-format-check.yml)
 
 ----------
 
-### ⚡ PowerShell Quality & Security
+#### ⚡ PowerShell Quality & Security
 
 [![PSScriptAnalyzer](https://img.shields.io/badge/PSScriptAnalyzer-ON-blueviolet?style=for-the-badge&logo=powershell)](https://github.com/PowerShell/PSScriptAnalyzer) [![PS CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/psscriptanalyzer-plus-sarif.yml?branch=main&style=for-the-badge&label=PS%20CI&logo=powershell)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/psscriptanalyzer-plus-sarif.yml) [![PS SARIF](https://img.shields.io/badge/SARIF-PowerShell-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
 ----------
 
-### 📜 VBScript Quality & Security
+#### 📜 VBScript Quality & Security
 
 [![VBScript](https://img.shields.io/badge/VBScript-ON-blue?style=for-the-badge&logo=windows)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite) [![VBS CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/vbscript-syntax-validation.yml?branch=main&style=for-the-badge&label=VBS%20CI&logo=windows)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/vbscript-syntax-validation.yml) [![VBS SARIF](https://img.shields.io/badge/SARIF-VBScript-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
