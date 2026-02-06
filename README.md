@@ -41,9 +41,7 @@ I build robust **PowerShell** and **VBScript** tools to automate identity workfl
 
 ## 📢 Latest Release & Automation Status
 
-[![Latest Release](https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&label=Latest%20Release&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases)
-[![GitHub Releases Status](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/make-update-github-releases.yml?branch=main&style=for-the-badge&label=GitHub%20Releases%20Status&logo=githubactions)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/make-update-github-releases.yml)
-[![Publish NuGet Package](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/publish-nuget-package-to-github.yml?branch=main&style=for-the-badge&label=Publish%20NuGet%20Package&logo=nuget)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/publish-nuget-package-to-github.yml)
+[![Release](https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases) [![Releases CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/make-update-github-releases.yml?branch=main&style=for-the-badge&label=Releases%20CI&logo=githubactions)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/make-update-github-releases.yml) [![NuGet](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/publish-nuget-package-to-github.yml?branch=main&style=for-the-badge&label=NuGet&logo=nuget)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/publish-nuget-package-to-github.yml)
 
 > 💡 Every release includes NuGet packaging, changelog automation, and SHA256 integrity validation.
 
