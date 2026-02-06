@@ -57,7 +57,7 @@ I build robust **PowerShell** and **VBScript** tools to automate identity workfl
 
 ## 📦 Project Configs & Quality Signals
 
-### 🧱 General Formatting & Config
+#### 🧱 General Formatting & Config
 
 [![EditorConfig](https://img.shields.io/badge/EditorConfig-ON-blue?style=for-the-badge&logo=editorconfig)](https://editorconfig.org/) [![EC CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/editorconfig-check.yml?branch=main&style=for-the-badge&label=EC%20CI&logo=editorconfig)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/editorconfig-check.yml) [![EC Report](https://img.shields.io/badge/EC-Report-informational?style=for-the-badge&logo=markdown)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/editorconfig-check.yml)
 
