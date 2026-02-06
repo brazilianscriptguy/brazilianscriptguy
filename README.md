@@ -49,8 +49,10 @@ I build robust **PowerShell** and **VBScript** tools to automate identity workfl
 
 ## 🧾 Scripts Index
 
-[![PS1](https://img.shields.io/badge/.ps1-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A*.ps1&type=code) [![VBS](https://img.shields.io/badge/.vbs-VBScript-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A*.vbs&type=code) [![HTA](https://img.shields.io/badge/.hta-UI-00599C?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A*.hta&type=code) [![CI](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A.github%2Fworkflows&type=code)
-
+[![PS1](https://img.shields.io/badge/.ps1-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A*.ps1&type=code)
+[![VBS](https://img.shields.io/badge/.vbs-VBScript-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A*.vbs&type=code)
+[![HTA](https://img.shields.io/badge/.hta-UI-00599C?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A*.hta&type=code)
+[![CI](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A.github%2Fworkflows&type=code)
 [![PowerShell](https://img.shields.io/badge/PowerShell-96.8%25-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=powershell)
 [![VBScript](https://img.shields.io/badge/VBScript-0.8%25-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=vbscript)
 [![HTML](https://img.shields.io/badge/HTML-0.8%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=html)
