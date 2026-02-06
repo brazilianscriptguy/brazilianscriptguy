@@ -56,7 +56,6 @@ I build robust **PowerShell** and **VBScript** tools to automate identity workfl
 ---
 
 ## 📦 Project Configs & Quality Signals
----
 
 ### 🧱 General Formatting & Config
 
