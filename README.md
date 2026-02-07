@@ -192,18 +192,26 @@ Keywords: *Computer Science; Log Auditing; Digital Forensics*
 
 ## 🌟 Highlights & Core Competencies
 
+<!-- Visual badges (human-first, recruiter-friendly) -->
 ![GUI Tools](https://img.shields.io/badge/GUI--Driven%20Tools-PowerShell%20%26%20HTA-blue?style=for-the-badge&logo=powershell)
 ![Structured Logging](https://img.shields.io/badge/Structured%20Logging-LOG%20%7C%20CSV-informational?style=for-the-badge&logo=files)
 ![Security by Design](https://img.shields.io/badge/Security%20by%20Design-Credential%20Hygiene%20%26%20Traceability-critical?style=for-the-badge&logo=github)
 ![Modular Architecture](https://img.shields.io/badge/Modular%20Architecture-Enterprise%20Ready-blueviolet?style=for-the-badge&logo=stackshare)
 ![Windows Automation](https://img.shields.io/badge/Windows%20Automation-AD%20%7C%20DNS%20%7C%20DHCP%20%7C%20GPO-blue?style=for-the-badge&logo=windows)
-![Forensics & DFIR](https://img.shields.io/badge/Forensics%20%26%20DFIR-Artifact%20Inspection%20%26%20Correlation-red?style=for-the-badge&logo=datadog)
+![Forensics & DFIR](https://img.shields.io/badge/Forensics%20%26%20DFIR-Digital%20Artifacts%20%26%20Correlation-red?style=for-the-badge&logo=datadog)
 
-![CI/CD Excellence](https://img.shields.io/badge/CI%2FCD%20Excellence-Prettier%20%7C%20PSScriptAnalyzer%20%7C%20EditorConfig-success?style=for-the-badge&logo=githubactions)
+![CI/CD Excellence](https://img.shields.io/badge/CI%2FCD%20Excellence-GitHub%20Actions-success?style=for-the-badge&logo=githubactions)
 ![NuGet Packaging](https://img.shields.io/badge/NuGet%20Packaging-.nuspec%20%7C%20SHA256-blue?style=for-the-badge&logo=nuget)
 ![SARIF Integration](https://img.shields.io/badge/SARIF%20Integration-GitHub%20Code%20Scanning-brightgreen?style=for-the-badge&logo=github)
-![CodeQL Audits](https://img.shields.io/badge/CodeQL-Automated%20Security%20Audits-purple?style=for-the-badge&logo=github)
+![CodeQL](https://img.shields.io/badge/CodeQL-Static%20Security%20Analysis-purple?style=for-the-badge&logo=github)
 ![Clean Codebase](https://img.shields.io/badge/Clean%20Codebase-Multi--Language%20Linting-informational?style=for-the-badge&logo=eslint)
+
+---
+
+<!-- ATS-optimized semantic layer (machine-first, invisible to visual readers) -->
+
+**Core Expertise (ATS Keywords):**  
+PowerShell automation, Windows Server administration, Active Directory, DNS, DHCP, WSUS, Group Policy (GPO), PKI, certificate management, identity and access management (IAM), security automation, credential hygiene, digital forensics, DFIR, log analysis, event correlation, incident response, CI/CD pipelines, GitHub Actions, PSScriptAnalyzer, Prettier, EditorConfig, NuGet packaging, `.nuspec`, SHA256 integrity validation, SARIF, GitHub Code Scanning, CodeQL, static analysis, secure DevOps, enterprise scripting, modular architecture, Windows infrastructure automation.
 
 --- 
 
