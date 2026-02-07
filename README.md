@@ -76,7 +76,7 @@ I build robust **PowerShell** and **VBScript** tools to automate identity workfl
 
 #### ⚡ PowerShell Quality & Security
 
-[![PSScriptAnalyzer](https://img.shields.io/badge/PSScriptAnalyzer-ON-blueviolet?style=for-the-badge&logo=powershell)](https://github.com/PowerShell/PSScriptAnalyzer) [![PS CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/psscriptanalyzer-plus-sarif.yml?branch=main&style=for-the-badge&label=PS%20CI&logo=powershell)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/psscriptanalyzer-plus-sarif.yml) [![PS SARIF](https://img.shields.io/badge/SARIF-PowerShell-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
+[![PSScriptAnalyzer](https://img.shields.io/badge/PSScriptAnalyzer-ON-blueviolet?style=for-the-badge&logo=powershell)](https://github.com/PowerShell/PSScriptAnalyzer) [![PS CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/psscriptanalyzer-sarif-reports.yml?branch=main&style=for-the-badge&label=PS%20CI&logo=powershell)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/psscriptanalyzer-sarif-reports.yml) [![PS SARIF](https://img.shields.io/badge/SARIF-PowerShell-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
 ---
 
