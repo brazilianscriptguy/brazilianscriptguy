@@ -188,23 +188,24 @@ Keywords: *Computer Science; Log Auditing; Digital Forensics*
 ### 🔥 Contribution Timeline
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=brazilianscriptguy&theme=tokyo-night&hide_border=true&area=true)
 
----
+--- 
 
 ## 🌟 Highlights & Core Competencies
 
-- 🎨 **GUI-Driven Tools:** Intuitive PowerShell and HTA interfaces for complex administrative workflows.
-- 📝 **Structured Logging:** Human-readable and machine-parseable `.log` and `.csv` outputs.
-- 🔐 **Security by Design:** Credential hygiene, traceability, and forensic readiness.
-- ⚙️ **Modular Architecture:** Portable, layered script structure for enterprise-scale deployments.
-- 💼 **Windows Automation:** Advanced AD, DNS, DHCP, WSUS, GPO, and PKI automation.
-- 🛡️ **Forensics & DFIR:** Credential artifact inspection and security event correlation.
-- 🔁 **CI/CD Excellence:** Automated validation with Prettier, PSScriptAnalyzer, and EditorConfig.
-- 📦 **NuGet Packaging Engine:** `.nuspec`-driven builds and SHA256 integrity enforcement.
-- 📊 **SARIF Integration:** Unified security reporting via GitHub Code Scanning.
-- 🔎 **CodeQL Audits:** Static analysis for vulnerability detection.
-- 🏗️ **Clean Codebase:** Enforced formatting and multi-language linting.
+![GUI Tools](https://img.shields.io/badge/GUI--Driven%20Tools-PowerShell%20%26%20HTA-blue?style=for-the-badge&logo=powershell)
+![Structured Logging](https://img.shields.io/badge/Structured%20Logging-LOG%20%7C%20CSV-informational?style=for-the-badge&logo=files)
+![Security by Design](https://img.shields.io/badge/Security%20by%20Design-Credential%20Hygiene%20%26%20Traceability-critical?style=for-the-badge&logo=github)
+![Modular Architecture](https://img.shields.io/badge/Modular%20Architecture-Enterprise%20Ready-blueviolet?style=for-the-badge&logo=stackshare)
+![Windows Automation](https://img.shields.io/badge/Windows%20Automation-AD%20%7C%20DNS%20%7C%20DHCP%20%7C%20GPO-blue?style=for-the-badge&logo=windows)
+![Forensics & DFIR](https://img.shields.io/badge/Forensics%20%26%20DFIR-Artifact%20Inspection%20%26%20Correlation-red?style=for-the-badge&logo=datadog)
 
----
+![CI/CD Excellence](https://img.shields.io/badge/CI%2FCD%20Excellence-Prettier%20%7C%20PSScriptAnalyzer%20%7C%20EditorConfig-success?style=for-the-badge&logo=githubactions)
+![NuGet Packaging](https://img.shields.io/badge/NuGet%20Packaging-.nuspec%20%7C%20SHA256-blue?style=for-the-badge&logo=nuget)
+![SARIF Integration](https://img.shields.io/badge/SARIF%20Integration-GitHub%20Code%20Scanning-brightgreen?style=for-the-badge&logo=github)
+![CodeQL Audits](https://img.shields.io/badge/CodeQL-Automated%20Security%20Audits-purple?style=for-the-badge&logo=github)
+![Clean Codebase](https://img.shields.io/badge/Clean%20Codebase-Multi--Language%20Linting-informational?style=for-the-badge&logo=eslint)
+
+--- 
 
 ## 🤝 Support & Contributions
 
