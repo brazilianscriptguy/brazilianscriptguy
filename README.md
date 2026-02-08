@@ -1,42 +1,25 @@
-# 🚀 Windows-SysAdmin-ProSuite
+# 👋 Hi there, I'm Luiz Hamilton (@brazilianscriptguy)
 
-### Enterprise Windows Automation · IAM · Cybersecurity · Forensic Readiness
+Welcome to my GitHub profile! I'm a results-driven **IAM Analyst** and **Senior Systems Analyst** with deep expertise in **Identity & Access Management (IAM)**, **Cybersecurity**, and **Digital Forensics**. I specialize in securing and administering **Windows Server infrastructures**, developing enterprise-grade **automation scripts**, and supporting high-availability IT operations.
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Windows--SysAdmin--ProSuite-181717?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5.1%20%7C%207.x-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](#)
-[![Windows](https://img.shields.io/badge/Windows-Server%20%7C%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=open-source-initiative)](LICENSE)
-[![CI - PowerShell Linting](https://img.shields.io/badge/CI-PowerShell%20Linting-2088FF?style=for-the-badge&logo=githubactions)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions)
-[![Code Scanning SARIF](https://img.shields.io/badge/SARIF-Code%20Scanning-brightgreen?style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
+I build robust **PowerShell** and **VBScript** tools to automate identity workflows, enforce ITSM compliance, and boost administrative productivity. My mission is to engineer **secure, scalable, and reliable solutions** that transform enterprise IT operations across public-sector and enterprise environments.
 
 ---
 
-## 🧭 Executive Overview
+## 🔗 Social & Contact Badges
 
-**Windows-SysAdmin-ProSuite** is an **enterprise-grade, research-aligned automation platform** for **Windows infrastructures**, authored and maintained by **Luiz Hamilton Silva (@brazilianscriptguy)**.
-
-The repository consolidates **production-tested PowerShell and VBScript toolchains** designed for:
-
-- Identity & Access Management (IAM)
-- Secure Windows administration
-- Cybersecurity and forensic readiness
-- ITSM-aligned provisioning and compliance
-- Auditability and operational traceability
-
-> All tooling is engineered with **runtime safety**, **deterministic logging**, and **PowerShell 5.1 compatibility** as first-class requirements.
-
----
-
-## 🎯 Scope & Intended Use
-
-This repository targets **real-world Windows environments**, including:
-
-- 🏛️ Public sector and judicial institutions  
-- 🏢 Enterprise and hybrid infrastructures  
-- 🛡️ Blue Team / DFIR operations  
-- 📋 Governance, risk, and compliance workflows  
-
-> It is **not** a collection of demos or isolated scripts, but a **cohesive automation suite** designed to operate safely across **large Windows realms**.
+[![GitHub](https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy)
+[![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/brazilianscriptguy)
+[![X](https://img.shields.io/badge/X-@brazilianscriptguy-000000?style=for-the-badge&logo=x)](https://x.com/brazscriptguy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in/brazilianscriptguy-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brazilianscriptguy/)
+[![YouTube](https://img.shields.io/badge/YouTube-@brazilianscriptguy-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@brazilianscriptguy)
+[![Instagram](https://img.shields.io/badge/Instagram-@4tetraforensics-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/4tetraforensics)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-PowerShellBR-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaEgqC50G0XZV1k4Mb1c)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-3705-7468)
+[![Lattes](https://img.shields.io/badge/Lattes%20CV-0191525072495482-00A693?style=for-the-badge&logo=academia)](http://lattes.cnpq.br/0191525072495482)
+[![Email](https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:luizhamilton.lhr@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Brazilian%20Stonehenge-blue?style=for-the-badge&logo=googlemaps)](https://www.google.com/maps/search/?api=1&query=2%C2%B037'13.0%22N+51%C2%B000'35.2%22W)
+![Time](https://img.shields.io/static/v1?label=Time&message=UTC%20-03%3A00&color=green&style=for-the-badge)
 
 ---
 
@@ -54,74 +37,194 @@ This repository targets **real-world Windows environments**, including:
 | [![GPO Templates](https://img.shields.io/badge/GPO--Templates-Policies-ffcc00?style=for-the-badge&logo=matrix&logoColor=black)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools/GroupPolicyObjects-Templates) | Ready-to-import **Group Policy Objects** for domain and forest environments. | - Security, UX & infrastructure GPOs<br>- Domain-level and forest-wide templates<br>- Export/import automation & versioning |
 | [![AD SSO APIs](https://img.shields.io/badge/AD--SSO--Integrations-SSO-8A2BE2?style=for-the-badge&logo=auth0&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools/ActiveDirectory-SSO-Integrations) | Cross-platform **Active Directory LDAP / SSO integration patterns** for applications and services. | - PHP, .NET, Flask, Node.js & Spring Boot examples<br>- Secure bind via environment variables<br>- Modular, documented, and enterprise-ready architecture |
 
+---
+
+## 📢 Latest Release & Automation Status
+
+[![Release](https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases) [![Releases CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/make-update-github-releases.yml?branch=main&style=for-the-badge&label=Releases%20CI&logo=githubactions)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/make-update-github-releases.yml) [![NuGet](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/publish-nuget-package-to-github.yml?branch=main&style=for-the-badge&label=NuGet&logo=nuget)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/publish-nuget-package-to-github.yml)
+
+> 💡 Every release includes NuGet packaging, changelog automation, and SHA256 integrity validation.
 
 ---
 
-## 🛡️ Engineering & Safety Principles
+## 🧾 Scripts Index
 
-- ✅ **PowerShell 5.1 first**, PowerShell 7.x compatible where applicable  
-- ✅ No destructive action without explicit intent (`ShouldProcess` enforced in core logic)  
-- ✅ GUI-driven execution for operator safety when appropriate  
-- ✅ Structured logging (`.log`) and exportable reports (`.csv`)  
-- ✅ No hidden state, no silent failure patterns  
-
-> The suite is continuously evaluated using **PSScriptAnalyzer**, **SARIF reporting**, and CI pipelines configured in **report-only mode** to ensure **visibility without delivery interruption**.
-
----
-
-## 🔍 Quality, CI & Static Analysis
-
-- PowerShell linting via **PSScriptAnalyzer**
-- SARIF output integrated with **GitHub Code Scanning**
-- Runtime-safety focused rule profile (low noise, high signal)
-- PowerShell 5.1 compatibility validation
-- Non-blocking CI: reports inform action, not gatekeeping
-
-> Findings are surfaced as **artifacts and dashboards**, enabling controlled remediation cycles.
+[![CI](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A.github%2Fworkflows&type=code)
+[![PowerShell](https://img.shields.io/badge/PowerShell-96.8%25-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=powershell)
+[![VBScript](https://img.shields.io/badge/VBScript-0.8%25-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=vbscript)
+[![HTML](https://img.shields.io/badge/HTML-0.8%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=html)
+[![Java](https://img.shields.io/badge/Java-0.4%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=java)
+[![PHP](https://img.shields.io/badge/PHP-0.4%25-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=php)
+[![CSharp](https://img.shields.io/badge/C%23-0.3%25-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=c%23)
+[![Other](https://img.shields.io/badge/Other-0.5%25-555555?style=for-the-badge)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite)
 
 ---
 
-## 📚 Research, Governance & Citation
+## 📦 Project Configs & Quality Signals
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18487320-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.18487320)
-[![CITATION.cff](https://img.shields.io/badge/CITATION.cff-Available-informational?style=for-the-badge)]()
+#### 🧱 General Formatting & Config
 
-This repository is suitable for **academic, technical, and policy-oriented citation**, particularly in areas involving:
-
-- Cybersecurity engineering
-- Digital forensics (DFIR)
-- Identity governance
-- IT governance and compliance
+[![EditorConfig](https://img.shields.io/badge/EditorConfig-ON-blue?style=for-the-badge&logo=editorconfig)](https://editorconfig.org/) [![EC CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/editorconfig-check.yml?branch=main&style=for-the-badge&label=EC%20CI&logo=editorconfig)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/editorconfig-check.yml) [![EC Report](https://img.shields.io/badge/EC-Report-informational?style=for-the-badge&logo=markdown)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/editorconfig-check.yml)
 
 ---
 
-## 👤 Author & Stewardship
+#### 🎨 Web / Markdown Formatting
 
-**Luiz Hamilton Silva**  
-Senior IAM Analyst | Identity & Access Management | AD & Azure AD | Windows Server Architect | PowerShell Automation  
-GitHub: `@brazilianscriptguy`
-
-> This project reflects **long-term stewardship**, real operational use, and continuous refinement.
+[![Prettier](https://img.shields.io/badge/Prettier-ON-ff69b4?style=for-the-badge&logo=prettier)](https://prettier.io) [![Prettier CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/prettier-code-format-check.yml?branch=main&style=for-the-badge&label=Prettier%20CI&logo=prettier)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/prettier-code-format-check.yml) [![Format Report](https://img.shields.io/badge/Format-Report-blueviolet?style=for-the-badge&logo=markdown)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/prettier-code-format-check.yml)
 
 ---
 
-## 🤝 Contribution & Reuse
+#### ⚡ PowerShell Quality & Security
 
-- Contributions are welcome via pull requests
-- Attribution is required under the MIT License
-- Reuse in academic or institutional contexts should cite the repository or DOI
+[![PSScriptAnalyzer](https://img.shields.io/badge/PSScriptAnalyzer-ON-blueviolet?style=for-the-badge&logo=powershell)](https://github.com/PowerShell/PSScriptAnalyzer) [![PS CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/psscriptanalyzer-sarif-reports.yml?branch=main&style=for-the-badge&label=PS%20CI&logo=powershell)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/psscriptanalyzer-sarif-reports.yml) [![PS SARIF](https://img.shields.io/badge/SARIF-PowerShell-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
 ---
 
-## 📬 Contact & Support
+#### 📜 VBScript Quality & Security
 
-[![Email](https://img.shields.io/badge/Email-luizhamilton.lhr%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:luizhamilton.lhr@gmail.com)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/brazilianscriptguy)
-[![Ko--fi](https://img.shields.io/badge/Ko--fi-Support-blue?style=for-the-badge&logo=kofi)](https://ko-fi.com/brazilianscriptguy)
-[![Patreon](https://img.shields.io/badge/Patreon-Support-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/brazilianscriptguy)
+[![VBScript](https://img.shields.io/badge/VBScript-ON-blue?style=for-the-badge&logo=windows)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite) [![VBS CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/vbscript-syntax-validation.yml?branch=main&style=for-the-badge&label=VBS%20CI&logo=windows)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/vbscript-syntax-validation.yml) [![VBS SARIF](https://img.shields.io/badge/SARIF-VBScript-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
+
+---
+#### 🔐 Secrets & Leak Prevention
+
+[![Gitleaks](https://img.shields.io/badge/Gitleaks-ON-red?style=for-the-badge&logo=github)](https://github.com/gitleaks/gitleaks) [![Secrets CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/secret-scan-gitleaks.yml?branch=main&style=for-the-badge&label=Secrets%20CI&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/secret-scan-gitleaks.yml) [![Secrets SARIF](https://img.shields.io/badge/SARIF-Secrets-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
 ---
 
-> **Engineering secure, auditable, and scalable Windows automation for enterprise and public-sector environments.**
+## 📦 Research Software & DOI
 
-© 2026 Luiz Hamilton Silva
+#### **2026**
+
+[![Zenodo DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18487320-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.18487320)  [![Release](https://img.shields.io/badge/Windows--SysAdmin--ProSuite-v1.8.8-4CAF50?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite)
+
+**Windows-SysAdmin-ProSuite** is an enterprise-grade collection of **PowerShell** and **VBScript** automation tools for **Windows Server** and **Windows 10/11** environments, designed to support ITSM-aligned provisioning, security hardening, identity and access management, and digital forensics readiness.
+
+> **Citation (APA):**  
+> Roberto da Silva, L. H. (2026). *Windows-SysAdmin-ProSuite* (Version 1.8.8) [Computer software].
+
+---
+
+## 📚 Publications
+
+The following works provide the **academic, methodological, and scientific foundation** that informs the engineering principles, governance model, security posture, and compliance-oriented design applied throughout **Windows-SysAdmin-ProSuite**.
+
+---
+
+### 🧪 Peer-Reviewed Articles & Technical Publications
+
+#### **2025**
+
+[![DOI](https://img.shields.io/badge/DOI-10.69849%2Frevistaft%2Fth102502121360-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.69849/revistaft/th102502121360)
+
+**Roberto da Silva, Luiz Hamilton**  
+**“SQL Syntax Models for Building Parsers to Query Event Logs in EVTX Format”**  
+*Revista FT — Computer Science*, Vol. 29, Issue 142, January 2025 — **Qualis B2**  
+ISSN: 1678-0817  
+
+> Peer-reviewed article proposing a structured approach for Windows Event Log (EVTX) analysis using SQL-based parsers, supporting auditing, incident investigation, and Active Directory authentication tracing.
+
+---
+
+### 📘 Books & Book Chapters
+
+#### **2024**
+
+[![DOI](https://img.shields.io/badge/DOI-10.54466%2Fsorianed.978--65--5453--366--9-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.54466/sorianed.978-65-5453-366-9)  [![ISBN](https://img.shields.io/badge/ISBN-9786554533669-555555?style=for-the-badge&logo=bookstack)](https://www.magazineluiza.com.br/log-de-eventos-aplicacao-de-um-modelo-de-analise-de-logs-para-auditoria-de-registro-de-eventos-editora-sorian/p/ek6e33k93h/li/adml/?seller_id=sorianeditorial)
+
+**Roberto da Silva, Luiz Hamilton**  
+**Event Logs: Applying a Log Analysis Model for Auditing Event Record Registration**  
+Publisher: Sorian — 1st edition, 2024  
+Print ISBN: 978-65-5453-346-1 · eBook ISBN: 978-65-5453-366-9  
+
+> Book-length scholarly work presenting a practical model for **event log auditing**, **forensic readiness**, and **vulnerability identification**, with emphasis on audit trails, Syslog concepts, and PowerShell-enabled workflows.  
+> Intended for **information security professionals**, **auditors**, and **DFIR practitioners**.
+
+---
+
+#### **2009**
+
+[![DOI](https://img.shields.io/badge/DOI-10.54236%2Fedcimo.001-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.54236/edcimo.001)  [![ISBN](https://img.shields.io/badge/ISBN-9788573938357-555555?style=for-the-badge&logo=bookstack)](https://www.worldcat.org/isbn/9788573938357)
+
+**Roberto da Silva, Luiz Hamilton**  
+**Computer Networking Technology: Using GPOs to Secure Corporate Domains**  
+Publisher: Ciência Moderna — 1st edition, 2009  
+
+> Technical book focused on the application of **Group Policy Objects (GPOs)** to harden and govern Windows domain environments, emphasizing centralized policy enforcement and enterprise security baselines.
+
+---
+
+### 🎓 Academic Research (Master Degree Thesis / Dissertation)
+
+#### **2017**
+
+[![Repository](https://img.shields.io/badge/UFPE-Academic%20Repository-003366?style=for-the-badge&logo=academia)](https://repositorio.ufpe.br/handle/123456789/27515)
+
+**Roberto da Silva, Luiz Hamilton**  
+**“Event Logs: Applying a Log Analysis Model for Auditing Event Record Registration”**  
+Federal University of Pernambuco (UFPE), 2017  
+Keywords: *Computer Science; Log Auditing; Digital Forensics*  
+
+> Academic research defining a structured model for log auditing and forensic analysis, with practical emphasis on Syslog concepts and PowerShell-enabled analysis for security monitoring and governance.
+
+---
+
+### 🔗 Academic Profiles & Research Identifiers
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-3705-7468) [![Lattes](https://img.shields.io/badge/Lattes%20CV-CNPq-00A693?style=for-the-badge&logo=academia)](http://lattes.cnpq.br/0191525072495482)
+
+> These identifiers consolidate the author’s **peer-reviewed publications**, **books**, and **academic research**, reinforcing the scholarly grounding behind **Windows-SysAdmin-ProSuite**.
+
+---
+
+## 📊 GitHub Stats
+
+### 👤 Profile Overview
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brazilianscriptguy&theme=tokyonight)
+
+### 📈 Activity & Productivity
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brazilianscriptguy&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brazilianscriptguy&theme=tokyonight&utcOffset=-3)
+
+### 🔥 Contribution Timeline
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=brazilianscriptguy&theme=tokyo-night&hide_border=true&area=true)
+
+--- 
+
+## 🌟 Highlights & Core Competencies
+
+<!-- Visual badges (human-first, recruiter-friendly) -->
+![GUI Tools](https://img.shields.io/badge/GUI--Driven%20Tools-PowerShell%20%26%20HTA-blue?style=for-the-badge&logo=powershell)
+![Structured Logging](https://img.shields.io/badge/Structured%20Logging-LOG%20%7C%20CSV-informational?style=for-the-badge&logo=files)
+![Security by Design](https://img.shields.io/badge/Security%20by%20Design-Credential%20Hygiene%20%26%20Traceability-critical?style=for-the-badge&logo=github)
+![Modular Architecture](https://img.shields.io/badge/Modular%20Architecture-Enterprise%20Ready-blueviolet?style=for-the-badge&logo=stackshare)
+![Windows Automation](https://img.shields.io/badge/Windows%20Automation-AD%20%7C%20DNS%20%7C%20DHCP%20%7C%20GPO-blue?style=for-the-badge&logo=windows)
+![Forensics & DFIR](https://img.shields.io/badge/Forensics%20%26%20DFIR-Digital%20Artifacts%20%26%20Correlation-red?style=for-the-badge&logo=datadog)
+
+![CI/CD Excellence](https://img.shields.io/badge/CI%2FCD%20Excellence-GitHub%20Actions-success?style=for-the-badge&logo=githubactions)
+![NuGet Packaging](https://img.shields.io/badge/NuGet%20Packaging-.nuspec%20%7C%20SHA256-blue?style=for-the-badge&logo=nuget)
+![SARIF Integration](https://img.shields.io/badge/SARIF%20Integration-GitHub%20Code%20Scanning-brightgreen?style=for-the-badge&logo=github)
+![CodeQL](https://img.shields.io/badge/CodeQL-Static%20Security%20Analysis-purple?style=for-the-badge&logo=github)
+![Clean Codebase](https://img.shields.io/badge/Clean%20Codebase-Multi--Language%20Linting-informational?style=for-the-badge&logo=eslint)
+
+---
+
+<!-- ATS-optimized semantic layer (machine-first, invisible to visual readers) -->
+
+**Core Expertise (ATS Keywords):**  
+PowerShell automation, Windows Server administration, Active Directory, DNS, DHCP, WSUS, Group Policy (GPO), PKI, certificate management, identity and access management (IAM), security automation, credential hygiene, digital forensics, DFIR, log analysis, event correlation, incident response, CI/CD pipelines, GitHub Actions, PSScriptAnalyzer, Prettier, EditorConfig, NuGet packaging, `.nuspec`, SHA256 integrity validation, SARIF, GitHub Code Scanning, CodeQL, static analysis, secure DevOps, enterprise scripting, modular architecture, Windows infrastructure automation.
+
+--- 
+
+## 🤝 Support & Contributions
+
+[![Email](https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:luizhamilton.lhr@gmail.com)
+[![Patreon](https://img.shields.io/badge/Support%20Me-Patreon-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/brazilianscriptguy)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/brazilianscriptguy)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-blue?style=for-the-badge&logo=kofi)](https://ko-fi.com/brazilianscriptguy)
+[![GoFundMe](https://img.shields.io/badge/GoFundMe-green?style=for-the-badge&logo=gofundme)](https://www.gofundme.com/f/brazilianscriptguy)
+
+---
+
+> 🚀 *“My mission is to engineer secure, scalable, and reliable solutions that transform enterprise IT operations.”*
+
+© 2026 Luiz Hamilton Silva. All rights reserved.
