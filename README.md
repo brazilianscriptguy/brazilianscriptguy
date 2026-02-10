@@ -90,9 +90,7 @@ I build robust **PowerShell** and **VBScript** tools to automate identity workfl
 
 [![Secrets Scan](https://img.shields.io/badge/Secrets%20Scan-Gitleaks-red?style=for-the-badge&logo=github)](https://github.com/gitleaks/gitleaks)
 [![Secrets CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/secret-scan-gitleaks.yml?branch=main&style=for-the-badge&label=Secrets%20CI&logo=githubactions)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/secret-scan-gitleaks.yml)
-[![Mode](https://img.shields.io/badge/Mode-Report--Only-informational?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/secret-scan-gitleaks.yml)
 [![Code Scanning](https://img.shields.io/badge/Code%20Scanning-SARIF%20Secrets-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
-
 
 ---
 
