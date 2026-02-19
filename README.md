@@ -50,7 +50,7 @@ I build robust **PowerShell** and **VBScript** tools to automate identity workfl
 ## 🧾 Scripts Index
 
 [![CI](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A.github%2Fworkflows&type=code)
-[![PowerShell](https://img.shields.io/badge/PowerShell-95.9%25-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=powershell)
+[![PowerShell](https://img.shields.io/badge/PowerShell-96.0%25-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=powershell)
 [![VBScript](https://img.shields.io/badge/VBScript-1.7%25-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=vbscript)
 [![HTML](https://img.shields.io/badge/HTML-0.8%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=html)
 [![Java](https://img.shields.io/badge/Java-0.4%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=java)
