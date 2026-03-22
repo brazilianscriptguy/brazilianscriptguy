@@ -63,13 +63,12 @@ An **enterprise-grade, research-aligned automation platform** for Windows Server
 ---
 
 ## 🧾 Codebase Composition
-
-[![PowerShell](https://img.shields.io/badge/PowerShell-96.0%25-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=powershell)
-[![VBScript](https://img.shields.io/badge/VBScript-1.7%25-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=vbscript)
-[![HTML](https://img.shields.io/badge/HTML-0.7%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=html)
-[![Java](https://img.shields.io/badge/Java-0.4%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=java)
-[![PHP](https://img.shields.io/badge/PHP-0.4%25-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=php)
-[![CSharp](https://img.shields.io/badge/C%23-0.3%25-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=c%23)
+[![PowerShell](https://img.shields.io/badge/PowerShell-96.7%25-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=powershell)
+[![VBScript](https://img.shields.io/badge/VBScript-1.3%25-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=vbscript)
+[![HTML](https://img.shields.io/badge/HTML-0.6%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=html)
+[![TSQL](https://img.shields.io/badge/TSQL-0.4%25-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=tsql)
+[![Java](https://img.shields.io/badge/Java-0.3%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=java)
+[![PHP](https://img.shields.io/badge/PHP-0.3%25-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=php)
 [![CI Workflows](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A.github%2Fworkflows&type=code)
 
 ---
