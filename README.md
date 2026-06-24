@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luiz Hamilton — @brazilianscriptguy
 
-**Senior IAM Analyst · Windows Server Architect · PowerShell Automation Engineer · Digital Forensics Researcher**
+**Identity & Access Management Architect | Active Directory, Microsoft Entra ID & PKI | Identity Security | Cybersecurity | Windows Infrastructure*
 
 I design and maintain **enterprise-grade PowerShell and VBScript automation** for Windows Server and workstation environments — covering Identity & Access Management (IAM), ITSM-aligned provisioning, cybersecurity hardening, and digital forensics readiness. My work serves public-sector institutions, judicial bodies, and enterprise IT teams who need **secure, auditable, and scalable** solutions in production.
 
