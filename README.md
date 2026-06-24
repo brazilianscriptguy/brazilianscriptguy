@@ -221,3 +221,8 @@ If this work is useful to you, consider supporting it:
 ---
 
 © 2026 Luiz Hamilton Silva · MIT License
+
+
+![ITIL](https://img.shields.io/badge/ITIL_4-Certified-0052CC?style=for-the-badge)
+![COBIT](https://img.shields.io/badge/COBIT_2019-Certified-4B0082?style=for-the-badge)
+![CISO](https://img.shields.io/badge/CISO_Leader-Certified-8B0000?style=for-the-badge)
