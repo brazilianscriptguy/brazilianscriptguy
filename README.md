@@ -2,9 +2,9 @@
 
 **Identity & Access Management Architect | Active Directory, Microsoft Entra ID & PKI | Identity Security | Cybersecurity | Windows Infrastructure**
 
-I design and maintain **enterprise-grade PowerShell and VBScript automation** for Windows Server and workstation environments — covering Identity & Access Management (IAM), ITSM-aligned provisioning, cybersecurity hardening, and digital forensics readiness. My work serves public-sector institutions, judicial bodies, and enterprise IT teams who need **secure, auditable, and scalable** solutions in production.
+I design and maintain **enterprise-grade automation and identity solutions** for Windows Server and enterprise environments — covering Identity & Access Management (IAM), Active Directory, Microsoft Entra ID, PKI, ITSM-aligned provisioning, cybersecurity hardening, and digital forensics readiness. My work supports public-sector institutions, judicial organizations, and enterprise IT teams that require **secure, auditable, resilient, and scalable** solutions in production.
 
-> *"My mission is to engineer secure, scalable, and reliable solutions that transform enterprise IT operations."*
+> *"My mission is to engineer secure, resilient, and scalable solutions that strengthen trust, governance, and operational excellence."*
 
 ---
 
