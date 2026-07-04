@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luiz Hamilton — @brazilianscriptguy
 
-**Identity & Access Management Architect | Active Directory, Microsoft Entra ID & PKI | Identity Security | Cybersecurity | Windows Infrastructure**
+**Principal Identity Architect | Active Directory · Microsoft Entra ID · Hybrid Identity · PKI · Zero Trust · IAM | PowerShell Automation**
 
 I design and maintain **enterprise-grade automation and identity solutions** for Windows Server and enterprise environments — covering Identity & Access Management (IAM), Active Directory, Microsoft Entra ID, PKI, ITSM-aligned provisioning, cybersecurity hardening, and digital forensics readiness. My work supports public-sector institutions, judicial organizations, and enterprise IT teams that require **secure, auditable, resilient, and scalable** solutions in production.
 
