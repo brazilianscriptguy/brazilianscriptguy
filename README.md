@@ -221,9 +221,12 @@ If this work is useful to you, consider supporting it:
 
 ---
 
+## 🏅 Certifications & Awards
+
+![ITIL 4 Foundation](https://img.shields.io/badge/ITIL%204%20Foundation-Certified-6C2DC7?style=for-the-badge)
+![COBIT Foundation](https://img.shields.io/badge/COBIT%20Foundation-Certified-4B0082?style=for-the-badge)
+![CISO Leader](https://img.shields.io/badge/CISO%20Leader-Certified-B22222?style=for-the-badge)
+![CompTIA Security+ SY0-701](https://img.shields.io/badge/CompTIA%20Security%2B%20SY0--701-Certified-EA3C2D?style=for-the-badge)
+
 © 2026 Luiz Hamilton Silva · MIT License
 
-
-![ITIL](https://img.shields.io/badge/ITIL_Foundation-Certified-0052CC?style=for-the-badge)
-![COBIT](https://img.shields.io/badge/COBIT_Foundation-Certified-4B0082?style=for-the-badge)
-![CISO](https://img.shields.io/badge/CISO_Leader-Certified-8B0000?style=for-the-badge)
