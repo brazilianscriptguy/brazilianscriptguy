@@ -221,8 +221,6 @@ If this work is useful to you, consider supporting it:
 
 ---
 
-## 🏅 Certifications & Awards
-
 ## 🏅 Certifications
 
 ![ITIL 4 Foundation](https://img.shields.io/badge/ITIL%204%20Foundation-Certified-6C2DC7?style=for-the-badge)
