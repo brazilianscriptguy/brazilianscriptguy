@@ -209,15 +209,16 @@ Keywords: *Computer Science · Log Auditing · Digital Forensics*
 
 ---
 
-## 🤝 Support & Contributions
+## 🤝 Support, Sponsorship & Contributions
 
-If this work is useful to you, consider supporting it:
+If you find my work valuable, there are several ways you can support its continued development:
 
-[![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/brazilianscriptguy)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/brazilianscriptguy)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-29ABE0?style=for-the-badge&logo=kofi)](https://ko-fi.com/brazilianscriptguy)
-[![GoFundMe](https://img.shields.io/badge/GoFundMe-00B964?style=for-the-badge&logo=gofundme)](https://www.gofundme.com/f/brazilianscriptguy)
-[![Email](https://img.shields.io/badge/Email-luizhamilton.lhr@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:luizhamilton.lhr@gmail.com)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/brazilianscriptguy)
+[![Patreon](https://img.shields.io/badge/Patreon-Become%20a%20Patron-FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/brazilianscriptguy)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/brazilianscriptguy)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-29ABE0?style=for-the-badge&logo=kofi)](https://ko-fi.com/brazilianscriptguy)
+[![GoFundMe](https://img.shields.io/badge/GoFundMe-Donate-00B964?style=for-the-badge&logo=gofundme)](https://www.gofundme.com/f/brazilianscriptguy)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:luizhamilton.lhr@gmail.com)
 
 ---
 
