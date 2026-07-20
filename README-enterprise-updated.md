@@ -54,18 +54,16 @@ An **enterprise-grade, research-aligned automation platform** for Windows Server
 
 ## 🏗️ Engineering Principles
 
-![Security by Design](https://img.shields.io/badge/Security%20by%20Design-Enabled-critical?style=for-the-badge&logo=github)
-![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Identity%20First-0A66C2?style=for-the-badge&logo=microsoft)
-![Least Privilege](https://img.shields.io/badge/Least%20Privilege-Enforced-1E88E5?style=for-the-badge&logo=windows)
-![Enterprise Architecture](https://img.shields.io/badge/Enterprise-Architecture-00599C?style=for-the-badge&logo=stackshare)
-![Modular Design](https://img.shields.io/badge/Modular-Architecture-6A1B9A?style=for-the-badge&logo=powershell)
-![Infrastructure Automation](https://img.shields.io/badge/Infrastructure-Automation-0078D4?style=for-the-badge&logo=microsoft)
-![Structured Logging](https://img.shields.io/badge/Structured-Logging-2E7D32?style=for-the-badge&logo=files)
-![Audit Ready](https://img.shields.io/badge/Audit-Ready-success?style=for-the-badge&logo=securityscorecard)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
-![Automation First](https://img.shields.io/badge/Automation-First-0175C2?style=for-the-badge&logo=powershell)
-![Reusable Components](https://img.shields.io/badge/Reusable-Components-FF9800?style=for-the-badge&logo=nuget)
-![Production Ready](https://img.shields.io/badge/Production-Ready-43A047?style=for-the-badge&logo=windows)
+![Identity First](https://img.shields.io/badge/Identity-First-0078D4?style=for-the-badge&logo=microsoft)
+![Zero Trust](https://img.shields.io/badge/Zero-Trust-005FB8?style=for-the-badge&logo=microsoft)
+![Least Privilege](https://img.shields.io/badge/Least-Privilege-1565C0?style=for-the-badge&logo=windows)
+![Defense in Depth](https://img.shields.io/badge/Defense-in-Depth-B71C1C?style=for-the-badge)
+![Security by Design](https://img.shields.io/badge/Security-by%20Design-Enabled-critical?style=for-the-badge)
+![Governance by Default](https://img.shields.io/badge/Governance-by%20Default-3949AB?style=for-the-badge)
+![Compliance Driven](https://img.shields.io/badge/Compliance-Driven-00897B?style=for-the-badge)
+![Auditability](https://img.shields.io/badge/Auditability-End%20to%20End-2E7D32?style=for-the-badge)
+![Standardization](https://img.shields.io/badge/Enterprise-Standardization-455A64?style=for-the-badge)
+![Operational Resilience](https://img.shields.io/badge/Operational-Resilience-43A047?style=for-the-badge)
 
 > **Engineering philosophy:** Every solution is designed with **security, governance, automation, traceability, maintainability, and operational resilience** as foundational principles for enterprise Windows and Hybrid Identity environments.
 
