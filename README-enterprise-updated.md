@@ -54,16 +54,15 @@ An **enterprise-grade, research-aligned automation platform** for Windows Server
 
 ## 🏗️ Engineering Principles
 
-![Identity First](https://img.shields.io/badge/Identity-First-0078D4?style=for-the-badge&logo=microsoft)
-![Zero Trust](https://img.shields.io/badge/Zero-Trust-005FB8?style=for-the-badge&logo=microsoft)
-![Least Privilege](https://img.shields.io/badge/Least-Privilege-1565C0?style=for-the-badge&logo=windows)
-![Defense in Depth](https://img.shields.io/badge/Defense-in-Depth-B71C1C?style=for-the-badge)
-![Security by Design](https://img.shields.io/badge/Security-by%20Design-Enabled-critical?style=for-the-badge)
-![Governance by Default](https://img.shields.io/badge/Governance-by%20Default-3949AB?style=for-the-badge)
+![Identity First](https://img.shields.io/badge/Identity-First-0078D4?style=for-the-badge)
+![Zero Trust](https://img.shields.io/badge/Zero-Trust-005FB8?style=for-the-badge)
+![Least Privilege](https://img.shields.io/badge/Least-Privilege-1565C0?style=for-the-badge)
+![Defense in Depth](https://img.shields.io/badge/Defense%20in%20Depth-Enabled-B22222?style=for-the-badge)
+![Governance by Default](https://img.shields.io/badge/Governance-By%20Default-3949AB?style=for-the-badge)
 ![Compliance Driven](https://img.shields.io/badge/Compliance-Driven-00897B?style=for-the-badge)
-![Auditability](https://img.shields.io/badge/Auditability-End%20to%20End-2E7D32?style=for-the-badge)
-![Standardization](https://img.shields.io/badge/Enterprise-Standardization-455A64?style=for-the-badge)
-![Operational Resilience](https://img.shields.io/badge/Operational-Resilience-43A047?style=for-the-badge)
+![End-to-End Auditability](https://img.shields.io/badge/Auditability-End--to--End-2E7D32?style=for-the-badge)
+![Enterprise Standardization](https://img.shields.io/badge/Enterprise-Standardization-455A64?style=for-the-badge)
+![Operational Resilience](https://img.shields.io/badge/Operational-Resilience-388E3C?style=for-the-badge)
 
 > **Engineering philosophy:** Every solution is designed with **security, governance, automation, traceability, maintainability, and operational resilience** as foundational principles for enterprise Windows and Hybrid Identity environments.
 
