@@ -240,7 +240,7 @@ If you find my work valuable, there are several ways you can support its continu
 
 ## 🏅 Certifications
 
-![ITIL 4 Foundation](https://img.shields.io/badge/ITIL%204%20Foundation-Certified-6C2DC7?style=for-the-badge)
+![ITIL 3 Foundation](https://img.shields.io/badge/ITIL%204%20Foundation-Certified-6C2DC7?style=for-the-badge)
 ![COBIT 4.1 Foundation](https://img.shields.io/badge/COBIT%204.1%20Foundation-Certified-4B0082?style=for-the-badge)
 ![COBIT Foundation 2019](https://img.shields.io/badge/COBIT%202019%20Foundation-Certified-483D8B?style=for-the-badge)
 ![CompTIA Security+ SY0-701](https://img.shields.io/badge/CompTIA%20Security%2B%20SY0--701-Certified-EA3C2D?style=for-the-badge)
