@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Luiz Hamilton --- @brazilianscriptguy
+# 👋 Hi, I'm Luiz Hamilton - @brazilianscriptguy
 
 **Principal Identity Architect \| Active Directory · Microsoft Entra ID
 · Hybrid Identity · PKI · Zero Trust · IAM \| PowerShell Automation**
 
 I design and maintain **enterprise-grade automation and identity
-solutions** for Windows Server and enterprise environments --- covering
+solutions** for Windows Server and enterprise environments - covering
 Identity & Access Management (IAM), Active Directory, Microsoft Entra
 ID, PKI, ITSM-aligned provisioning, cybersecurity hardening, and digital
 forensics readiness. My work supports public-sector institutions,
@@ -14,7 +14,7 @@ auditable, resilient, and scalable** solutions in production.
 > *"My mission is to engineer secure, resilient, and scalable solutions
 > that strengthen trust, governance, and operational excellence."*
 
-------------------------------------------------------------------------
+------------------------
 
 ## 🔗 Find Me
 
@@ -32,9 +32,9 @@ CV](https://img.shields.io/badge/Lattes%20CV-0191525072495482-00A693?style=for-t
 [![Location](https://img.shields.io/badge/Location-Brazilian%20Stonehenge-blue?style=for-the-badge&logo=googlemaps)](https://www.google.com/maps/search/?api=1&query=2%C2%B037'13.0%22N+51%C2%B000'35.2%22W)
 ![Time](https://img.shields.io/static/v1?label=Time&message=UTC%20-03%3A00&color=green&style=for-the-badge)
 
-------------------------------------------------------------------------
+------------------------
 
-## 🚀 Featured Repository --- Windows-SysAdmin-ProSuite
+## 🚀 Featured Repository - Windows-SysAdmin-ProSuite
 
 [![Windows-SysAdmin-ProSuite](https://img.shields.io/badge/Windows--SysAdmin--ProSuite-v1.8.8-4CAF50?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18487320-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.18487320)
@@ -46,13 +46,13 @@ An **enterprise-grade, research-aligned automation platform** for
 Windows Server and Windows 10/11 environments, organized into nine
 specialized modules:
 
-------------------------------------------------------------------------
+------------------------
 
 ## 💻 Suite Modules
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  -----------------------------------------------------------------------------------------------------------
   Module                                                                                                                                                                                                                                                                   Description              Key Capabilities
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ------------------------ -------------------------------
+  ---------------------------------------------------------------------------------------- -------- -----------
   [![ADCS-Management-Tools](https://img.shields.io/badge/ADCS--Management--Tools-PKI-005A9C?style=flat-square&logo=letsencrypt&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools/ADCS-Management-Tools)           PowerShell toolset for   CA maintenance · Certificate
                                                                                                                                                                                                                                                                            **AD CS, enterprise PKI  lifecycle · Expired certificate
                                                                                                                                                                                                                                                                            & certificate            cleanup · Repository
@@ -97,9 +97,9 @@ specialized modules:
                                                                                                                                                                                                                                                                            **Windows Server, AD,    enforcement · WSUS & SUSDB ·
                                                                                                                                                                                                                                                                            network services &       DNS, DHCP, RDS
                                                                                                                                                                                                                                                                            WSUS** administration.   
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  -----------------------------------------------------------------------------------------------------------
 
-------------------------------------------------------------------------
+------------------------
 
 ## 🏗️ Engineering Principles
 
@@ -127,7 +127,7 @@ Resilience](https://img.shields.io/badge/Operational-Resilience-388E3C?style=for
 > operational resilience** as foundational principles for enterprise
 > Windows and Hybrid Identity environments.
 
-------------------------------------------------------------------------
+------------------------
 
 ## 📢 Release & CI Status
 
@@ -139,7 +139,7 @@ CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Win
 > 💡 Every release includes NuGet packaging, automated changelog
 > generation, and SHA256 integrity validation.
 
-------------------------------------------------------------------------
+------------------------
 
 ## 🧾 Codebase Composition
 
@@ -153,7 +153,7 @@ CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Win
 [![CI
 Workflows](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A.github%2Fworkflows&type=code)
 
-------------------------------------------------------------------------
+------------------------
 
 ## 🛡️ Quality & Security Signals
 
@@ -190,15 +190,15 @@ CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Win
 [![Secrets
 SARIF](https://img.shields.io/badge/SARIF-Secrets-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
-------------------------------------------------------------------------
+------------------------
 
 ## 📚 Research & Publications
 
 The following works form the **academic and methodological foundation**
-behind Windows-SysAdmin-ProSuite --- grounding its engineering
+behind Windows-SysAdmin-ProSuite - grounding its engineering
 principles in peer-reviewed science.
 
-------------------------------------------------------------------------
+------------------------
 
 ### 🔬 Peer-Reviewed Articles
 
@@ -207,7 +207,7 @@ principles in peer-reviewed science.
 [![DOI](https://img.shields.io/badge/DOI-10.69849%2Frevistaft%2Fth102502121360-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.69849/revistaft/th102502121360)
 
 **Roberto da Silva, Luiz Hamilton** **"SQL Syntax Models for Building
-Parsers to Query Event Logs in EVTX Format"** *Revista FT --- Computer
+Parsers to Query Event Logs in EVTX Format"** *Revista FT - Computer
 Science*, Vol. 29, Issue 142, January 2025 · **Qualis B2** · ISSN:
 1678-0817
 
@@ -215,7 +215,7 @@ Science*, Vol. 29, Issue 142, January 2025 · **Qualis B2** · ISSN:
 > analysis, supporting incident investigation, auditing, and Active
 > Directory authentication tracing.
 
-------------------------------------------------------------------------
+------------------------
 
 ### 📘 Books
 
@@ -229,11 +229,11 @@ Analysis Model for Auditing Event Record Registration** Sorian, 1st ed.,
 2024 · Print ISBN: 978-65-5453-346-1 · eBook ISBN: 978-65-5453-366-9
 
 > A practitioner-focused scholarly work on event log auditing, forensic
-> readiness, and vulnerability identification --- using Syslog concepts
+> readiness, and vulnerability identification - using Syslog concepts
 > and PowerShell-enabled workflows. For information security
 > professionals, auditors, and DFIR practitioners.
 
-------------------------------------------------------------------------
+------------------------
 
 **2009**
 
@@ -247,11 +247,11 @@ Using GPOs to Secure Corporate Domains** Ciência Moderna, 1st ed., 2009
 > domain environments, with emphasis on centralized policy enforcement
 > and enterprise security baselines.
 
-------------------------------------------------------------------------
+------------------------
 
 ### 🎓 Master's Thesis
 
-**2017 --- Federal University of Pernambuco (UFPE)**
+**2017 - Federal University of Pernambuco (UFPE)**
 
 [![UFPE
 Repository](https://img.shields.io/badge/UFPE-Academic%20Repository-003366?style=for-the-badge&logo=academia)](https://repositorio.ufpe.br/handle/123456789/27515)
@@ -264,7 +264,7 @@ Forensics*
 > analysis, applying Syslog principles and PowerShell-driven analysis
 > for security monitoring and governance.
 
-------------------------------------------------------------------------
+------------------------
 
 ### 🔗 Academic Profiles
 
@@ -272,7 +272,7 @@ Forensics*
 [![Lattes
 CV](https://img.shields.io/badge/Lattes%20CV-CNPq-00A693?style=for-the-badge&logo=academia)](http://lattes.cnpq.br/0191525072495482)
 
-------------------------------------------------------------------------
+------------------------
 
 ## 📊 GitHub Stats
 
@@ -293,7 +293,7 @@ Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?
 ![Contribution
 Graph](https://github-readme-activity-graph.vercel.app/graph?username=brazilianscriptguy&theme=tokyo-night&hide_border=true&area=true)
 
-------------------------------------------------------------------------
+------------------------
 
 ## 🌟 Core Competencies
 
@@ -321,7 +321,7 @@ Integration](https://img.shields.io/badge/SARIF%20Integration-GitHub%20Code%20Sc
 ![Clean
 Codebase](https://img.shields.io/badge/Clean%20Codebase-Multi--Language%20Linting-informational?style=for-the-badge&logo=eslint)
 
-------------------------------------------------------------------------
+------------------------
 
 \`\`\`{=html} `<!-- ATS-optimized keyword layer -->`{=html}
 
@@ -344,7 +344,7 @@ Actions · CI/CD · release automation · NuGet packaging · SHA256
 integrity validation · PSScriptAnalyzer · SARIF · CodeQL · EditorConfig
 · Prettier · Gitleaks · secure DevOps · enterprise automation
 
-------------------------------------------------------------------------
+------------------------
 
 ## 🤝 Support, Sponsorship & Contributions
 
@@ -360,7 +360,7 @@ Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=
 [![GoFundMe](https://img.shields.io/badge/GoFundMe-Donate-00B964?style=for-the-badge&logo=gofundme)](https://www.gofundme.com/f/brazilianscriptguy)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:luizhamilton.lhr@gmail.com)
 
-------------------------------------------------------------------------
+------------------------
 
 ## 🏅 Certifications
 
