@@ -323,7 +323,7 @@ Codebase](https://img.shields.io/badge/Clean%20Codebase-Multi--Language%20Lintin
 
 ------------------------
 
-\`\`\`{=html} `<!-- ATS-optimized keyword layer -->`{=html}
+`<!-- ATS-optimized keyword layer -->`
 
 **Core Expertise:** PowerShell automation · Windows systems
 administration · Windows Server · Windows 10 · Windows 11 · Active
