@@ -290,33 +290,13 @@ Codebase](https://img.shields.io/badge/Clean%20Codebase-Multi--Language%20Lintin
 
 ------------------------------------------------------------------------
 
-```{=html}
-<!-- ATS-optimized keyword layer -->
-```
-**Core Expertise:** PowerShell automation · Windows systems
-administration · Windows Server · Windows 10/11 · Active Directory ·
-Active Directory Domain Services (AD DS) · Active Directory Certificate
-Services (AD CS) · enterprise Public Key Infrastructure (PKI) ·
-Certificate Authority administration · certificate lifecycle management
-· certificate repository management · Identity and Access Management
-(IAM) · LDAP · Single Sign-On (SSO) · Group Policy (GPO) · DNS · DHCP ·
-Windows Server Update Services (WSUS) · WSUS administration · WSUS
-maintenance · WSUS inventory · WSUS configuration auditing · Windows
-Update infrastructure · patch management · patch compliance · SUSDB ·
-Windows Internal Database (WID) · Microsoft SQL Server · SUSDB
-maintenance · database reindexing · WSUS cleanup · network
-infrastructure administration · system configuration · software
-deployment · ITSM · workstation lifecycle management · server lifecycle
-management · security hardening · least privilege · credential hygiene ·
-Blue Team · Digital Forensics and Incident Response (DFIR) · incident
-response · Windows Event Log monitoring · EVTX analysis · event
-correlation · security auditing · compliance · governance · structured
-logging · operational traceability · modular PowerShell architecture ·
-GitHub Actions · CI/CD · release automation · NuGet packaging · SHA256
-integrity validation · PSScriptAnalyzer · SARIF · CodeQL · EditorConfig
-· Prettier · Gitleaks · secure DevOps · enterprise automation
+------------------------
 
-------------------------------------------------------------------------
+<!-- ATS-optimized keyword layer -->
+
+**Core Expertise:** PowerShell automation · Windows systems administration · Windows Server · Windows 10/11 · Active Directory · Active Directory Domain Services (AD DS) · Active Directory Certificate Services (AD CS) · enterprise Public Key Infrastructure (PKI) · Certificate Authority administration · certificate lifecycle management · certificate repository management · Identity and Access Management (IAM) · LDAP · Single Sign-On (SSO) · Group Policy (GPO) · DNS · DHCP · Windows Server Update Services (WSUS) · WSUS administration · WSUS maintenance · WSUS inventory · WSUS configuration auditing · Windows Update infrastructure · patch management · patch compliance · SUSDB · Windows Internal Database (WID) · Microsoft SQL Server · SUSDB maintenance · database reindexing · WSUS cleanup · network infrastructure administration · system configuration · software deployment · ITSM · workstation lifecycle management · server lifecycle management · security hardening · least privilege · credential hygiene · Blue Team · Digital Forensics and Incident Response (DFIR) · incident response · Windows Event Log monitoring · EVTX analysis · event correlation · security auditing · compliance · governance · structured logging · operational traceability · modular PowerShell architecture · GitHub Actions · CI/CD · release automation · NuGet packaging · SHA256 integrity validation · PSScriptAnalyzer · SARIF · CodeQL · EditorConfig · Prettier · Gitleaks · secure DevOps · enterprise automation
+
+------------------------------------------------------------------------------------------------
 
 ## 🤝 Support, Sponsorship & Contributions
 
