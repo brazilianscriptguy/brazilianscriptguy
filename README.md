@@ -217,18 +217,19 @@ DOI: **10.54236/edcimo.001**
 
 ### 🎓 Master's Thesis
 
-**2017 - Federal University of Pernambuco (UFPE)**
+**2017 — Federal University of Pernambuco (UFPE)**
 
-[![UFPE
-Repository](https://img.shields.io/badge/UFPE-Academic%20Repository-003366?style=for-the-badge&logo=academia)](https://repositorio.ufpe.br/handle/123456789/27515)
+[![UFPE Repository](https://img.shields.io/badge/UFPE-Academic%20Repository-003366?style=for-the-badge&logo=academia)](https://repositorio.ufpe.br/handle/123456789/27515)
+[![Institution](https://img.shields.io/badge/Institution-UFPE-555555?style=for-the-badge&logo=academia)](https://repositorio.ufpe.br/handle/123456789/27515)
+[![Field](https://img.shields.io/badge/Field-Computer%20Science-4CAF50?style=for-the-badge&logo=academia&logoColor=white)](https://repositorio.ufpe.br/handle/123456789/27515)
 
-**"Event Logs: Applying a Log Analysis Model for Auditing Event Record
-Registration"** Keywords: *Computer Science · Log Auditing · Digital
-Forensics*
+**Roberto da Silva, Luiz Hamilton**  
+**_"Event Logs: Applying a Log Analysis Model for Auditing Event Record Registration"_**  
+Federal University of Pernambuco (UFPE), 2017  
+Master's Thesis · **Computer Science**  
+Keywords: **Log Auditing · Digital Forensics · Event Logs · Security Monitoring**
 
-> Defines a structured methodology for log auditing and forensic
-> analysis, applying Syslog principles and PowerShell-driven analysis
-> for security monitoring and governance.
+> Defines a structured methodology for **event-log auditing and digital forensic analysis**, applying Syslog principles and PowerShell-driven workflows to security-event examination, forensic readiness, operational monitoring, and governance. The research provides the methodological foundation for repeatable log-analysis practices applicable to cybersecurity, Digital Forensics & Incident Response (DFIR), and Windows security environments.
 
 ---
 
