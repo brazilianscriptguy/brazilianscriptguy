@@ -14,7 +14,7 @@ auditable, resilient, and scalable** solutions in production.
 > *"My mission is to engineer secure, resilient, and scalable solutions
 > that strengthen trust, governance, and operational excellence."*
 
-------------------------------------------------------------------------
+---
 
 ## 🔗 Find Me
 
@@ -32,7 +32,7 @@ CV](https://img.shields.io/badge/Lattes%20CV-0191525072495482-00A693?style=for-t
 [![Location](https://img.shields.io/badge/Location-Brazilian%20Stonehenge-blue?style=for-the-badge&logo=googlemaps)](https://www.google.com/maps/search/?api=1&query=2%C2%B037'13.0%22N+51%C2%B000'35.2%22W)
 ![Time](https://img.shields.io/static/v1?label=Time&message=UTC%20-03%3A00&color=green&style=for-the-badge)
 
-------------------------------------------------------------------------
+---
 
 ## 🚀 Featured Repository - Windows-SysAdmin-ProSuite
 
@@ -46,7 +46,7 @@ An **enterprise-grade, research-aligned automation platform** for
 Windows Server and Windows 10/11 environments, organized into ten
 specialized modules:
 
-------------------------------------------------------------------------
+---
 
 ## 💻 Suite Modules
 
@@ -64,7 +64,6 @@ specialized modules:
 | [![WSUS-Management-Tools](https://img.shields.io/badge/WSUS--Management--Tools-Updates-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools/WSUS-Management-Tools) | PowerShell toolset for **WSUS administration, maintenance & SUSDB optimization**. | WSUS inventory · Configuration auditing · Cleanup operations · WID/SQL maintenance · SUSDB reindexing · API validation |
 
 ---
-------------------------------------------------------------------------
 
 ## 🏗️ Engineering Principles
 
@@ -92,7 +91,7 @@ Resilience](https://img.shields.io/badge/Operational-Resilience-388E3C?style=for
 > operational resilience** as foundational principles for enterprise
 > Windows and Hybrid Identity environments.
 
-------------------------------------------------------------------------
+---
 
 ## 📢 Release & CI Status
 
@@ -104,7 +103,7 @@ CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Win
 > 💡 Every release includes NuGet packaging, automated changelog
 > generation, and SHA256 integrity validation.
 
-------------------------------------------------------------------------
+---
 
 ## 🧾 Codebase Composition
 
@@ -118,7 +117,7 @@ CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Win
 [![CI
 Workflows](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A.github%2Fworkflows&type=code)
 
-------------------------------------------------------------------------
+---
 
 ## 🛡️ Quality & Security Signals
 
@@ -155,7 +154,7 @@ CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Win
 [![Secrets
 SARIF](https://img.shields.io/badge/SARIF-Secrets-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
-------------------------------------------------------------------------
+---
 
 ## 📚 Research & Publications
 
@@ -163,7 +162,7 @@ The following works form the **academic and methodological foundation**
 behind Windows-SysAdmin-ProSuite - grounding its engineering principles
 in peer-reviewed science.
 
-------------------------------------------------------------------------
+---
 
 ### 🔬 Peer-Reviewed Articles
 
@@ -180,7 +179,7 @@ Science*, Vol. 29, Issue 142, January 2025 · **Qualis B2** · ISSN:
 > analysis, supporting incident investigation, auditing, and Active
 > Directory authentication tracing.
 
-------------------------------------------------------------------------
+---
 
 ### 📘 Books
 
@@ -198,7 +197,7 @@ Analysis Model for Auditing Event Record Registration** Sorian, 1st ed.,
 > and PowerShell-enabled workflows. For information security
 > professionals, auditors, and DFIR practitioners.
 
-------------------------------------------------------------------------
+---
 
 **2009**
 
@@ -212,7 +211,7 @@ Using GPOs to Secure Corporate Domains** Ciência Moderna, 1st ed., 2009
 > domain environments, with emphasis on centralized policy enforcement
 > and enterprise security baselines.
 
-------------------------------------------------------------------------
+---
 
 ### 🎓 Master's Thesis
 
@@ -229,7 +228,7 @@ Forensics*
 > analysis, applying Syslog principles and PowerShell-driven analysis
 > for security monitoring and governance.
 
-------------------------------------------------------------------------
+---
 
 ### 🔗 Academic Profiles
 
@@ -237,7 +236,7 @@ Forensics*
 [![Lattes
 CV](https://img.shields.io/badge/Lattes%20CV-CNPq-00A693?style=for-the-badge&logo=academia)](http://lattes.cnpq.br/0191525072495482)
 
-------------------------------------------------------------------------
+---
 
 ## 📊 GitHub Stats
 
@@ -258,7 +257,7 @@ Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?
 ![Contribution
 Graph](https://github-readme-activity-graph.vercel.app/graph?username=brazilianscriptguy&theme=tokyo-night&hide_border=true&area=true)
 
-------------------------------------------------------------------------
+---
 
 ## 🌟 Core Competencies
 
@@ -288,15 +287,13 @@ Integration](https://img.shields.io/badge/SARIF%20Integration-GitHub%20Code%20Sc
 ![Clean
 Codebase](https://img.shields.io/badge/Clean%20Codebase-Multi--Language%20Linting-informational?style=for-the-badge&logo=eslint)
 
-------------------------------------------------------------------------
-
-------------------------
+---
 
 <!-- ATS-optimized keyword layer -->
 
 **Core Expertise:** PowerShell automation · Windows systems administration · Windows Server · Windows 10/11 · Active Directory · Active Directory Domain Services (AD DS) · Active Directory Certificate Services (AD CS) · enterprise Public Key Infrastructure (PKI) · Certificate Authority administration · certificate lifecycle management · certificate repository management · Identity and Access Management (IAM) · LDAP · Single Sign-On (SSO) · Group Policy (GPO) · DNS · DHCP · Windows Server Update Services (WSUS) · WSUS administration · WSUS maintenance · WSUS inventory · WSUS configuration auditing · Windows Update infrastructure · patch management · patch compliance · SUSDB · Windows Internal Database (WID) · Microsoft SQL Server · SUSDB maintenance · database reindexing · WSUS cleanup · network infrastructure administration · system configuration · software deployment · ITSM · workstation lifecycle management · server lifecycle management · security hardening · least privilege · credential hygiene · Blue Team · Digital Forensics and Incident Response (DFIR) · incident response · Windows Event Log monitoring · EVTX analysis · event correlation · security auditing · compliance · governance · structured logging · operational traceability · modular PowerShell architecture · GitHub Actions · CI/CD · release automation · NuGet packaging · SHA256 integrity validation · PSScriptAnalyzer · SARIF · CodeQL · EditorConfig · Prettier · Gitleaks · secure DevOps · enterprise automation
 
-------------------------------------------------------------------------------------------------
+---------------------------
 
 ## 🤝 Support, Sponsorship & Contributions
 
@@ -312,7 +309,7 @@ Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=
 [![GoFundMe](https://img.shields.io/badge/GoFundMe-Donate-00B964?style=for-the-badge&logo=gofundme)](https://www.gofundme.com/f/brazilianscriptguy)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:luizhamilton.lhr@gmail.com)
 
-------------------------------------------------------------------------
+---
 
 ## 🏅 Certifications
 
