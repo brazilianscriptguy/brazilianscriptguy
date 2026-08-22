@@ -169,15 +169,16 @@ in peer-reviewed science.
 **2025**
 
 [![DOI](https://img.shields.io/badge/DOI-10.69849%2Frevistaft%2Fth102502121360-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.69849/revistaft/th102502121360)
+[![ISSN](https://img.shields.io/badge/ISSN-1678--0817-555555?style=for-the-badge&logo=readthedocs)](https://doi.org/10.69849/revistaft/th102502121360)
+[![Qualis](https://img.shields.io/badge/Qualis-B2-4CAF50?style=for-the-badge&logo=academia&logoColor=white)](https://doi.org/10.69849/revistaft/th102502121360)
 
-**Roberto da Silva, Luiz Hamilton** **"SQL Syntax Models for Building
-Parsers to Query Event Logs in EVTX Format"** *Revista FT - Computer
-Science*, Vol. 29, Issue 142, January 2025 · **Qualis B2** · ISSN:
-1678-0817
+**Roberto da Silva, Luiz Hamilton**  
+**_"SQL Syntax Models for Building Parsers to Query Event Logs in EVTX Format"_**  
+*Revista FT — Computer Science*, Vol. 29, Issue 142, January 2025  
+ISSN: **1678-0817** · Qualis: **B2**  
+DOI: **10.69849/revistaft/th102502121360**
 
-> Proposes a structured SQL-based approach to Windows Event Log (EVTX)
-> analysis, supporting incident investigation, auditing, and Active
-> Directory authentication tracing.
+> Presents a structured **SQL-oriented methodology for querying and parsing Windows Event Log (EVTX) data**, supporting security auditing, incident investigation, event correlation, authentication analysis, and Active Directory traceability. The work contributes to repeatable log-analysis workflows for cybersecurity, Digital Forensics & Incident Response (DFIR), and operational security monitoring.
 
 ---
 
