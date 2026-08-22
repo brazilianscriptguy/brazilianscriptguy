@@ -186,30 +186,31 @@ Science*, Vol. 29, Issue 142, January 2025 · **Qualis B2** · ISSN:
 **2024**
 
 [![DOI](https://img.shields.io/badge/DOI-10.54466%2Fsorianed.978--65--5453--366--9-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.54466/sorianed.978-65-5453-366-9)
-[![ISBN](https://img.shields.io/badge/ISBN-9786554533669-555555?style=for-the-badge&logo=bookstack)](https://www.magazineluiza.com.br/log-de-eventos-aplicacao-de-um-modelo-de-analise-de-logs-para-auditoria-de-registro-de-eventos-editora-sorian/p/ek6e33k93h/li/adml/?seller_id=sorianeditorial)
+[![Print ISBN](https://img.shields.io/badge/Print%20ISBN-978--65--5453--346--1-555555?style=for-the-badge&logo=bookstack)](https://www.magazineluiza.com.br/log-de-eventos-aplicacao-de-um-modelo-de-analise-de-logs-para-auditoria-de-registro-de-eventos-editora-sorian/p/ek6e33k93h/li/adml/?seller_id=sorianeditorial)
+[![eBook ISBN](https://img.shields.io/badge/eBook%20ISBN-978--65--5453--366--9-555555?style=for-the-badge&logo=bookstack)](https://www.magazineluiza.com.br/log-de-eventos-aplicacao-de-um-modelo-de-analise-de-logs-para-auditoria-de-registro-de-eventos-editora-sorian/p/ek6e33k93h/li/adml/?seller_id=sorianeditorial)
 
-**Roberto da Silva, Luiz Hamilton** **Event Logs: Applying a Log
-Analysis Model for Auditing Event Record Registration** Sorian, 1st ed.,
-2024 · Print ISBN: 978-65-5453-346-1 · eBook ISBN: 978-65-5453-366-9
+**Roberto da Silva, Luiz Hamilton**  
+**_Event Logs: Applying a Log Analysis Model for Auditing Event Record Registration_**  
+Sorian, 1st ed., 2024  
+Print ISBN: **978-65-5453-346-1** · eBook ISBN: **978-65-5453-366-9**  
+DOI: **10.54466/sorianed.978-65-5453-366-9**
 
-> A practitioner-focused scholarly work on event log auditing, forensic
-> readiness, and vulnerability identification - using Syslog concepts
-> and PowerShell-enabled workflows. For information security
-> professionals, auditors, and DFIR practitioners.
+> A practitioner-focused scholarly work on **Windows Event Log auditing, forensic readiness, security-event analysis, and vulnerability identification**, combining Syslog concepts with PowerShell-enabled workflows. Intended for information security professionals, auditors, system administrators, researchers, and Digital Forensics & Incident Response (DFIR) practitioners.
 
 ---
 
 **2009**
 
 [![DOI](https://img.shields.io/badge/DOI-10.54236%2Fedcimo.001-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.54236/edcimo.001)
-[![ISBN](https://img.shields.io/badge/ISBN-9788573938357-555555?style=for-the-badge&logo=bookstack)](https://www.worldcat.org/isbn/9788573938357)
+[![ISBN](https://img.shields.io/badge/ISBN-978--85--7393--835--7-555555?style=for-the-badge&logo=bookstack)](https://www.worldcat.org/isbn/9788573938357)
 
-**Roberto da Silva, Luiz Hamilton** **Computer Networking Technology:
-Using GPOs to Secure Corporate Domains** Ciência Moderna, 1st ed., 2009
+**Roberto da Silva, Luiz Hamilton**  
+**_Computer Networking Technology: Using GPOs to Secure Corporate Domains_**  
+Ciência Moderna, 1st ed., 2009  
+ISBN: **978-85-7393-835-7**  
+DOI: **10.54236/edcimo.001**
 
-> Focused on applying Group Policy Objects (GPOs) to harden Windows
-> domain environments, with emphasis on centralized policy enforcement
-> and enterprise security baselines.
+> Focused on the use of **Group Policy Objects (GPOs)** to secure and standardize Windows domain environments, with emphasis on centralized policy enforcement, Active Directory administration, enterprise security baselines, configuration governance, and domain-level hardening.
 
 ---
 
