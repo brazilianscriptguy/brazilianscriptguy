@@ -241,22 +241,25 @@ CV](https://img.shields.io/badge/Lattes%20CV-CNPq-00A693?style=for-the-badge&log
 
 ---
 
+## 📊 GitHub Analytics
 
+### 👤 Developer Overview
 
-## 📊 GitHub Stats
+![GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brazilianscriptguy&theme=tokyonight)
 
-### 👤 Profile Overview
-
-![GitHub Profile Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brazilianscriptguy&theme=tokyonight)
-
-### 📈 Activity & Productivity
+### 📈 Development Activity
 
 ![GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brazilianscriptguy&theme=tokyonight)
-![GitHub Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brazilianscriptguy&theme=tokyonight&utcOffset=-3)
+![Coding Productivity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brazilianscriptguy&theme=tokyonight&utcOffset=-3)
 
-### 🔥 Contribution Timeline
+### 🔥 Contribution Activity
 
-[![GitHub Contribution Timeline](https://ghchart.rshah.org/7AA2F7/brazilianscriptguy)](https://github.com/brazilianscriptguy?tab=overview)
+[![GitHub Contributions](https://ghchart.rshah.org/7AA2F7/brazilianscriptguy)](https://github.com/brazilianscriptguy?tab=overview)
+
+### 🏆 Development Highlights
+
+[![GitHub Repositories](https://img.shields.io/badge/Repositories-Explore-7AA2F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brazilianscriptguy?tab=repositories)
+[![PowerShell Projects](https://img.shields.io/badge/PowerShell-Projects-BB9AF7?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/brazilianscriptguy?tab=repositories)
 
 ---
 
