@@ -257,7 +257,7 @@ Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?
 
 ### 🔥 Contribution Timeline
 
-📊 [Explore My GitHub Contributions](https://github.com/brazilianscriptguy?tab=overview)
+[![GitHub Activity Graph](https://brazilianscriptguy.vercel.app/graph?username=brazilianscriptguy&theme=tokyo-night&hide_border=true&area=true)](https://github.com/brazilianscriptguy)
 
 ---
 
