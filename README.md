@@ -241,23 +241,24 @@ CV](https://img.shields.io/badge/Lattes%20CV-CNPq-00A693?style=for-the-badge&log
 
 ---
 
+
 ## 📊 GitHub Stats
 
 ### 👤 Profile Overview
 
-![Profile
-Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brazilianscriptguy&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brazilianscriptguy&theme=tokyonight)
 
 ### 📈 Activity & Productivity
 
-![GitHub
-Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brazilianscriptguy&theme=tokyonight)
-![Productive
-Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brazilianscriptguy&theme=tokyonight&utcOffset=-3)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brazilianscriptguy&theme=tokyonight)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brazilianscriptguy&theme=tokyonight&utcOffset=-3)
 
 ### 🔥 Contribution Timeline
 
-[![GitHub Activity Graph](https://brazilianscriptguy.vercel.app/graph?username=brazilianscriptguy&theme=tokyo-night&hide_border=true&area=true)](https://github.com/brazilianscriptguy)
+[![GitHub Contribution Timeline](https://ghchart.rshah.org/7AA2F7/brazilianscriptguy)](https://github.com/brazilianscriptguy)
+
+[View Full Contribution History](https://github.com/brazilianscriptguy?tab=overview)
 
 ---
 
