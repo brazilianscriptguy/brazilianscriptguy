@@ -28,11 +28,11 @@ auditable, resilient, and scalable** solutions in production.
 
 ## 🚀 Featured Repository - Windows-SysAdmin-ProSuite
 
-[![Windows-SysAdmin-ProSuite](https://img.shields.io/badge/Windows--SysAdmin--ProSuite-v1.8.8-4CAF50?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18487320-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.18487320)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=open-source-initiative)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/blob/main/LICENSE.txt)
-[![Stars](https://img.shields.io/github/stars/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/stargazers)
-[![Release](https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases)
+[![Windows-SysAdmin-ProSuite](https://img.shields.io/badge/Windows--SysAdmin--ProSuite-v1.8.8-24292F?style=for-the-badge&logo=github&labelColor=161B22&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18487320-1682D4?style=for-the-badge&logo=zenodo&labelColor=115A91&logoColor=white)](https://doi.org/10.5281/zenodo.18487320)
+[![License](https://img.shields.io/badge/License-MIT-3DA639?style=for-the-badge&logo=open-source-initiative&labelColor=256D24&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/blob/main/LICENSE.txt)
+[![Stars](https://img.shields.io/github/stars/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&logo=github&labelColor=161B22&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/stargazers)
+[![Release](https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&logo=github&labelColor=161B22&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases)
 
 An **enterprise-grade, research-aligned automation platform** for
 Windows Server and Windows 10/11 environments, organized into ten
@@ -44,39 +44,39 @@ specialized modules:
 
 | Module | Description | Key Capabilities |
 |--------|-------------|-----------------|
-| [![ADCS-Management-Tools](https://img.shields.io/badge/ADCS--Management--Tools-PKI-005A9C?style=flat-square&logo=letsencrypt&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools/ADCS-Management-Tools) | PowerShell toolset for **AD CS, enterprise PKI & certificate lifecycle** administration. | CA maintenance · Certificate lifecycle · Expired certificate cleanup · Repository organization |
-| [![AD-SSO-Integrations](https://img.shields.io/badge/AD--SSO--Integrations-LDAP%2FSSO-8A2BE2?style=flat-square&logo=auth0&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools/ActiveDirectory-SSO-Integrations) | Cross-platform **AD LDAP / SSO integration patterns** for apps and services. | PHP · .NET · Flask · Node.js · Spring Boot · Secure env-var binding |
-| [![BlueTeam-Tools](https://img.shields.io/badge/BlueTeam--Tools-DFIR-E05C00?style=flat-square&logo=protonmail&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/BlueTeam-Tools) | Defensive security & **digital forensics** utilities for investigation and IR. | DFIR collection · EVTX parsers · Credential audits · Threat hunting |
-| [![Core-ScriptLibrary](https://img.shields.io/badge/Core--ScriptLibrary-Framework-C0392B?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary) | Foundational **modular PowerShell framework** shared by all modules. | Reusable helpers · Centralized logging · NuGet & SHA256 release automation |
-| [![GPO-Templates](https://img.shields.io/badge/GPO--Templates-Policies-F39C12?style=flat-square&logo=matrix&logoColor=black)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools/GroupPolicyObjects-Templates) | Ready-to-import **Group Policy Objects** for domain and forest environments. | Security & UX GPOs · Forest-wide templates · Export/import automation |
-| [![ITSM-Templates-SVR](https://img.shields.io/badge/ITSM--Templates-SVR-8E44AD?style=flat-square&logo=windows&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-SVR) | **Windows Server provisioning, hardening & ITSM compliance** automation. | Server baselines · Role configuration · GPO drift remediation & audit logs |
-| [![ITSM-Templates-WKS](https://img.shields.io/badge/ITSM--Templates-WKS-27AE60?style=flat-square&logo=windows&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS) | **Windows 10/11 workstation lifecycle** automation aligned with ITSM practices. | Pre/post-join automation · Profile & printer standardization · Compliance hardening |
-| [![ProSuite-Hub](https://img.shields.io/badge/ProSuite--Hub-Launcher-1ABC9C?style=flat-square&logo=powershell&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ProSuite-Hub) | Unified **GUI launcher and module orchestrator** for the entire suite. | Centralized tool discovery · Menu-driven interface · Single entry point |
-| [![SysAdmin-Tools](https://img.shields.io/badge/SysAdmin--Tools-Automation-0078D6?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools) | PowerShell toolset for **Windows Server, Active Directory & network infrastructure** administration. | AD & OU lifecycle · GPO enforcement · DNS · DHCP · RDS · System administration |
-| [![WSUS-Management-Tools](https://img.shields.io/badge/WSUS--Management--Tools-Updates-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools/WSUS-Management-Tools) | PowerShell toolset for **WSUS administration, maintenance & SUSDB optimization**. | WSUS inventory · Configuration auditing · Cleanup operations · WID/SQL maintenance · SUSDB reindexing · API validation |
+| [![ADCS-Management-Tools](https://img.shields.io/badge/ADCS--Management--Tools-PKI-0069B4?style=flat-square&logo=letsencrypt&logoColor=white&labelColor=004477)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools/ADCS-Management-Tools) | PowerShell toolset for **AD CS, enterprise PKI & certificate lifecycle** administration. | CA maintenance · Certificate lifecycle · Expired certificate cleanup · Repository organization |
+| [![AD-SSO-Integrations](https://img.shields.io/badge/AD--SSO--Integrations-LDAP%2FSSO-8A2BE2?style=flat-square&logo=auth0&logoColor=white&labelColor=57209B)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools/ActiveDirectory-SSO-Integrations) | Cross-platform **AD LDAP / SSO integration patterns** for apps and services. | PHP · .NET · Flask · Node.js · Spring Boot · Secure env-var binding |
+| [![BlueTeam-Tools](https://img.shields.io/badge/BlueTeam--Tools-DFIR-D45B26?style=flat-square&logo=protonmail&logoColor=white&labelColor=963B18)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/BlueTeam-Tools) | Defensive security & **digital forensics** utilities for investigation and IR. | DFIR collection · EVTX parsers · Credential audits · Threat hunting |
+| [![Core-ScriptLibrary](https://img.shields.io/badge/Core--ScriptLibrary-Framework-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=005A92)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/Core-ScriptLibrary) | Foundational **modular PowerShell framework** shared by all modules. | Reusable helpers · Centralized logging · NuGet & SHA256 release automation |
+| [![GPO-Templates](https://img.shields.io/badge/GPO--Templates-Policies-E3A008?style=flat-square&logo=matrix&logoColor=black&labelColor=926600)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools/GroupPolicyObjects-Templates) | Ready-to-import **Group Policy Objects** for domain and forest environments. | Security & UX GPOs · Forest-wide templates · Export/import automation |
+| [![ITSM-Templates-SVR](https://img.shields.io/badge/ITSM--Templates-SVR-0078D4?style=flat-square&logo=windows&logoColor=white&labelColor=005A9E)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-SVR) | **Windows Server provisioning, hardening & ITSM compliance** automation. | Server baselines · Role configuration · GPO drift remediation & audit logs |
+| [![ITSM-Templates-WKS](https://img.shields.io/badge/ITSM--Templates-WKS-0078D4?style=flat-square&logo=windows&logoColor=white&labelColor=005A9E)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ITSM-Templates-WKS) | **Windows 10/11 workstation lifecycle** automation aligned with ITSM practices. | Pre/post-join automation · Profile & printer standardization · Compliance hardening |
+| [![ProSuite-Hub](https://img.shields.io/badge/ProSuite--Hub-Launcher-3975C6?style=flat-square&logo=powershell&logoColor=white&labelColor=224D87)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/ProSuite-Hub) | Unified **GUI launcher and module orchestrator** for the entire suite. | Centralized tool discovery · Menu-driven interface · Single entry point |
+| [![SysAdmin-Tools](https://img.shields.io/badge/SysAdmin--Tools-Automation-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=005A9E)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools) | PowerShell toolset for **Windows Server, Active Directory & network infrastructure** administration. | AD & OU lifecycle · GPO enforcement · DNS · DHCP · RDS · System administration |
+| [![WSUS-Management-Tools](https://img.shields.io/badge/WSUS--Management--Tools-Updates-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=005A9E)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/tree/main/SysAdmin-Tools/WSUS-Management-Tools) | PowerShell toolset for **WSUS administration, maintenance & SUSDB optimization**. | WSUS inventory · Configuration auditing · Cleanup operations · WID/SQL maintenance · SUSDB reindexing · API validation |
 
 ---
 
 ## 🏗️ Engineering Principles
 
 ![Identity
-First](https://img.shields.io/badge/Identity-First-0078D4?style=for-the-badge)
+First](https://img.shields.io/badge/Identity-First-3978AD?style=for-the-badge&labelColor=244E74)
 ![Zero
-Trust](https://img.shields.io/badge/Zero-Trust-005FB8?style=for-the-badge)
+Trust](https://img.shields.io/badge/Zero-Trust-3978AD?style=for-the-badge&labelColor=244E74)
 ![Least
-Privilege](https://img.shields.io/badge/Least-Privilege-1565C0?style=for-the-badge)
+Privilege](https://img.shields.io/badge/Least-Privilege-3978AD?style=for-the-badge&labelColor=244E74)
 ![Defense in
-Depth](https://img.shields.io/badge/Defense%20in%20Depth-Enabled-B22222?style=for-the-badge)
+Depth](https://img.shields.io/badge/Defense%20in%20Depth-Enabled-3978AD?style=for-the-badge&labelColor=244E74)
 ![Governance by
-Default](https://img.shields.io/badge/Governance-By%20Default-3949AB?style=for-the-badge)
+Default](https://img.shields.io/badge/Governance-By%20Default-3978AD?style=for-the-badge&labelColor=244E74)
 ![Compliance
-Driven](https://img.shields.io/badge/Compliance-Driven-00897B?style=for-the-badge)
+Driven](https://img.shields.io/badge/Compliance-Driven-3978AD?style=for-the-badge&labelColor=244E74)
 ![End-to-End
-Auditability](https://img.shields.io/badge/Auditability-End--to--End-2E7D32?style=for-the-badge)
+Auditability](https://img.shields.io/badge/Auditability-End--to--End-3978AD?style=for-the-badge&labelColor=244E74)
 ![Enterprise
-Standardization](https://img.shields.io/badge/Enterprise-Standardization-455A64?style=for-the-badge)
+Standardization](https://img.shields.io/badge/Enterprise-Standardization-3978AD?style=for-the-badge&labelColor=244E74)
 ![Operational
-Resilience](https://img.shields.io/badge/Operational-Resilience-388E3C?style=for-the-badge)
+Resilience](https://img.shields.io/badge/Operational-Resilience-3978AD?style=for-the-badge&labelColor=244E74)
 
 > **Engineering philosophy:** Every solution is designed with
 > **security, governance, automation, traceability, maintainability, and
@@ -87,10 +87,10 @@ Resilience](https://img.shields.io/badge/Operational-Resilience-388E3C?style=for
 
 ## 📢 Release & CI Status
 
-[![Release](https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases)
+[![Release](https://img.shields.io/github/v/release/brazilianscriptguy/Windows-SysAdmin-ProSuite?style=for-the-badge&logo=github&labelColor=161B22&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/releases)
 [![Releases
-CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/make-update-github-releases.yml?branch=main&style=for-the-badge&label=Releases%20CI&logo=githubactions)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/make-update-github-releases.yml)
-[![NuGet](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/publish-nuget-package-to-github.yml?branch=main&style=for-the-badge&label=NuGet&logo=nuget)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/publish-nuget-package-to-github.yml)
+CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/make-update-github-releases.yml?branch=main&style=for-the-badge&label=Releases%20CI&logo=githubactions&labelColor=1558A6&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/make-update-github-releases.yml)
+[![NuGet](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/publish-nuget-package-to-github.yml?branch=main&style=for-the-badge&label=NuGet&logo=nuget&labelColor=003052&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/publish-nuget-package-to-github.yml)
 
 > 💡 Every release includes NuGet packaging, automated changelog
 > generation, and SHA256 integrity validation.
@@ -99,15 +99,15 @@ CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Win
 
 ## 🧾 Codebase Composition
 
-[![PowerShell](https://img.shields.io/badge/PowerShell-98.5%25-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=powershell)
-[![HTML](https://img.shields.io/badge/HTML-0.3%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=html)
-[![VBScript](https://img.shields.io/badge/VBScript-0.3%25-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=vbscript)
-[![TSQL](https://img.shields.io/badge/TSQL-0.2%25-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=tsql)
-[![Java](https://img.shields.io/badge/Java-0.2%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=java)
-[![PHP](https://img.shields.io/badge/PHP-0.2%25-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=php)
-[![Other](https://img.shields.io/badge/Other-0.3%25-6E7781?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite)
+[![PowerShell](https://img.shields.io/badge/PowerShell-98.5%25-3975C6?style=for-the-badge&logo=powershell&logoColor=white&labelColor=224D87)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=powershell)
+[![HTML](https://img.shields.io/badge/HTML-0.3%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=9D3016)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=html)
+[![VBScript](https://img.shields.io/badge/VBScript-0.3%25-0078D4?style=for-the-badge&logo=windows&logoColor=white&labelColor=005A9E)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=vbscript)
+[![TSQL](https://img.shields.io/badge/TSQL-0.2%25-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=861B1A)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=tsql)
+[![Java](https://img.shields.io/badge/Java-0.2%25-D87900?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=955000)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=java)
+[![PHP](https://img.shields.io/badge/PHP-0.2%25-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=4E4D7C)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/search?l=php)
+[![Other](https://img.shields.io/badge/Other-0.3%25-24292F?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite)
 [![CI
-Workflows](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A.github%2Fworkflows&type=code)
+Workflows](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1558A6)](https://github.com/search?q=repo%3Abrazilianscriptguy%2FWindows-SysAdmin-ProSuite+path%3A.github%2Fworkflows&type=code)
 
 ---
 
@@ -115,36 +115,36 @@ Workflows](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=for-the
 
 #### 🧱 Formatting & Config
 
-[![EditorConfig](https://img.shields.io/badge/EditorConfig-ON-blue?style=for-the-badge&logo=editorconfig)](https://editorconfig.org/)
+[![EditorConfig](https://img.shields.io/badge/EditorConfig-ON-E0A526?style=for-the-badge&logo=editorconfig&labelColor=916B17&logoColor=white)](https://editorconfig.org/)
 [![EC
-CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/editorconfig-check.yml?branch=main&style=for-the-badge&label=EC%20CI&logo=editorconfig)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/editorconfig-check.yml)
-[![Prettier](https://img.shields.io/badge/Prettier-ON-ff69b4?style=for-the-badge&logo=prettier)](https://prettier.io)
+CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/editorconfig-check.yml?branch=main&style=for-the-badge&label=EC%20CI&logo=editorconfig&labelColor=916B17&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/editorconfig-check.yml)
+[![Prettier](https://img.shields.io/badge/Prettier-ON-D65D9E?style=for-the-badge&logo=prettier&labelColor=873763&logoColor=white)](https://prettier.io)
 [![Prettier
-CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/prettier-code-format-check.yml?branch=main&style=for-the-badge&label=Prettier%20CI&logo=prettier)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/prettier-code-format-check.yml)
+CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/prettier-code-format-check.yml?branch=main&style=for-the-badge&label=Prettier%20CI&logo=prettier&labelColor=873763&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/prettier-code-format-check.yml)
 
 #### ⚡ PowerShell Quality
 
-[![PSScriptAnalyzer](https://img.shields.io/badge/PSScriptAnalyzer-ON-blueviolet?style=for-the-badge&logo=powershell)](https://github.com/PowerShell/PSScriptAnalyzer)
+[![PSScriptAnalyzer](https://img.shields.io/badge/PSScriptAnalyzer-ON-3975C6?style=for-the-badge&logo=powershell&labelColor=224D87&logoColor=white)](https://github.com/PowerShell/PSScriptAnalyzer)
 [![PS
-CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/psscriptanalyzer-sarif-reports.yml?branch=main&style=for-the-badge&label=PS%20CI&logo=powershell)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/psscriptanalyzer-sarif-reports.yml)
+CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/psscriptanalyzer-sarif-reports.yml?branch=main&style=for-the-badge&label=PS%20CI&logo=powershell&labelColor=224D87&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/psscriptanalyzer-sarif-reports.yml)
 [![PS
-SARIF](https://img.shields.io/badge/SARIF-PowerShell-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
+SARIF](https://img.shields.io/badge/SARIF-PowerShell-24292F?style=for-the-badge&logo=github&labelColor=161B22&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
 #### 📜 VBScript Quality
 
 [![VBScript
-CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/vbscript-syntax-validation.yml?branch=main&style=for-the-badge&label=VBS%20CI&logo=windows)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/vbscript-syntax-validation.yml)
+CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/vbscript-syntax-validation.yml?branch=main&style=for-the-badge&label=VBS%20CI&logo=windows&labelColor=005A9E&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/vbscript-syntax-validation.yml)
 [![VBS
-SARIF](https://img.shields.io/badge/SARIF-VBScript-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
+SARIF](https://img.shields.io/badge/SARIF-VBScript-24292F?style=for-the-badge&logo=github&labelColor=161B22&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
 #### 🔐 Secrets & Leak Prevention
 
 [![Secrets
-Scan](https://img.shields.io/badge/Secrets%20Scan-Gitleaks-red?style=for-the-badge&logo=github)](https://github.com/gitleaks/gitleaks)
+Scan](https://img.shields.io/badge/Secrets%20Scan-Gitleaks-24292F?style=for-the-badge&logo=github&labelColor=161B22&logoColor=white)](https://github.com/gitleaks/gitleaks)
 [![Secrets
-CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/secret-scan-gitleaks.yml?branch=main&style=for-the-badge&label=Secrets%20CI&logo=githubactions)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/secret-scan-gitleaks.yml)
+CI](https://img.shields.io/github/actions/workflow/status/brazilianscriptguy/Windows-SysAdmin-ProSuite/secret-scan-gitleaks.yml?branch=main&style=for-the-badge&label=Secrets%20CI&logo=githubactions&labelColor=1558A6&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/actions/workflows/secret-scan-gitleaks.yml)
 [![Secrets
-SARIF](https://img.shields.io/badge/SARIF-Secrets-brightgreen?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
+SARIF](https://img.shields.io/badge/SARIF-Secrets-24292F?style=for-the-badge&logo=github&labelColor=161B22&logoColor=white)](https://github.com/brazilianscriptguy/Windows-SysAdmin-ProSuite/security/code-scanning)
 
 ---
 
@@ -160,9 +160,9 @@ in peer-reviewed science.
 
 **2025**
 
-[![DOI](https://img.shields.io/badge/DOI-10.69849%2Frevistaft%2Fth102502121360-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.69849/revistaft/th102502121360)
-[![ISSN](https://img.shields.io/badge/ISSN-1678--0817-555555?style=for-the-badge&logo=readthedocs)](https://doi.org/10.69849/revistaft/th102502121360)
-[![Qualis](https://img.shields.io/badge/Qualis-B2-4CAF50?style=for-the-badge&logo=academia&logoColor=white)](https://doi.org/10.69849/revistaft/th102502121360)
+[![DOI](https://img.shields.io/badge/DOI-10.69849%2Frevistaft%2Fth102502121360-1678A5?style=for-the-badge&logo=crossref&labelColor=105270&logoColor=white)](https://doi.org/10.69849/revistaft/th102502121360)
+[![ISSN](https://img.shields.io/badge/ISSN-1678--0817-536477?style=for-the-badge&logo=readthedocs&labelColor=354455&logoColor=white)](https://doi.org/10.69849/revistaft/th102502121360)
+[![Qualis](https://img.shields.io/badge/Qualis-B2-008C95?style=for-the-badge&logo=academia&logoColor=white&labelColor=005F73)](https://doi.org/10.69849/revistaft/th102502121360)
 
 **Roberto da Silva, Luiz Hamilton**  
 **_"SQL Syntax Models for Building Parsers to Query Event Logs in EVTX Format"_**  
@@ -178,9 +178,9 @@ DOI: **10.69849/revistaft/th102502121360**
 
 **2024**
 
-[![DOI](https://img.shields.io/badge/DOI-10.54466%2Fsorianed.978--65--5453--366--9-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.54466/sorianed.978-65-5453-366-9)
-[![Print ISBN](https://img.shields.io/badge/Print%20ISBN-978--65--5453--346--1-555555?style=for-the-badge&logo=bookstack)](https://www.magazineluiza.com.br/log-de-eventos-aplicacao-de-um-modelo-de-analise-de-logs-para-auditoria-de-registro-de-eventos-editora-sorian/p/ek6e33k93h/li/adml/?seller_id=sorianeditorial)
-[![eBook ISBN](https://img.shields.io/badge/eBook%20ISBN-978--65--5453--366--9-555555?style=for-the-badge&logo=bookstack)](https://www.magazineluiza.com.br/log-de-eventos-aplicacao-de-um-modelo-de-analise-de-logs-para-auditoria-de-registro-de-eventos-editora-sorian/p/ek6e33k93h/li/adml/?seller_id=sorianeditorial)
+[![DOI](https://img.shields.io/badge/DOI-10.54466%2Fsorianed.978--65--5453--366--9-1678A5?style=for-the-badge&logo=crossref&labelColor=105270&logoColor=white)](https://doi.org/10.54466/sorianed.978-65-5453-366-9)
+[![Print ISBN](https://img.shields.io/badge/Print%20ISBN-978--65--5453--346--1-526B87?style=for-the-badge&logo=bookstack&labelColor=34475F&logoColor=white)](https://www.magazineluiza.com.br/log-de-eventos-aplicacao-de-um-modelo-de-analise-de-logs-para-auditoria-de-registro-de-eventos-editora-sorian/p/ek6e33k93h/li/adml/?seller_id=sorianeditorial)
+[![eBook ISBN](https://img.shields.io/badge/eBook%20ISBN-978--65--5453--366--9-526B87?style=for-the-badge&logo=bookstack&labelColor=34475F&logoColor=white)](https://www.magazineluiza.com.br/log-de-eventos-aplicacao-de-um-modelo-de-analise-de-logs-para-auditoria-de-registro-de-eventos-editora-sorian/p/ek6e33k93h/li/adml/?seller_id=sorianeditorial)
 
 **Roberto da Silva, Luiz Hamilton**  
 **_Event Logs: Applying a Log Analysis Model for Auditing Event Record Registration_**  
@@ -194,8 +194,8 @@ DOI: **10.54466/sorianed.978-65-5453-366-9**
 
 **2009**
 
-[![DOI](https://img.shields.io/badge/DOI-10.54236%2Fedcimo.001-blue?style=for-the-badge&logo=crossref)](https://doi.org/10.54236/edcimo.001)
-[![ISBN](https://img.shields.io/badge/ISBN-978--85--7393--835--7-555555?style=for-the-badge&logo=bookstack)](https://www.worldcat.org/isbn/9788573938357)
+[![DOI](https://img.shields.io/badge/DOI-10.54236%2Fedcimo.001-1678A5?style=for-the-badge&logo=crossref&labelColor=105270&logoColor=white)](https://doi.org/10.54236/edcimo.001)
+[![ISBN](https://img.shields.io/badge/ISBN-978--85--7393--835--7-526B87?style=for-the-badge&logo=bookstack&labelColor=34475F&logoColor=white)](https://www.worldcat.org/isbn/9788573938357)
 
 **Roberto da Silva, Luiz Hamilton**  
 **_Computer Networking Technology: Using GPOs to Secure Corporate Domains_**  
@@ -211,9 +211,9 @@ DOI: **10.54236/edcimo.001**
 
 **2017 — Federal University of Pernambuco (UFPE)**
 
-[![UFPE Repository](https://img.shields.io/badge/UFPE-Academic%20Repository-003366?style=for-the-badge&logo=academia)](https://repositorio.ufpe.br/handle/123456789/27515)
-[![Institution](https://img.shields.io/badge/Institution-UFPE-555555?style=for-the-badge&logo=academia)](https://repositorio.ufpe.br/handle/123456789/27515)
-[![Field](https://img.shields.io/badge/Field-Computer%20Science-4CAF50?style=for-the-badge&logo=academia&logoColor=white)](https://repositorio.ufpe.br/handle/123456789/27515)
+[![UFPE Repository](https://img.shields.io/badge/UFPE-Academic%20Repository-008C95?style=for-the-badge&logo=academia&labelColor=005F73&logoColor=white)](https://repositorio.ufpe.br/handle/123456789/27515)
+[![Institution](https://img.shields.io/badge/Institution-UFPE-008C95?style=for-the-badge&logo=academia&labelColor=005F73&logoColor=white)](https://repositorio.ufpe.br/handle/123456789/27515)
+[![Field](https://img.shields.io/badge/Field-Computer%20Science-008C95?style=for-the-badge&logo=academia&logoColor=white&labelColor=005F73)](https://repositorio.ufpe.br/handle/123456789/27515)
 
 **Roberto da Silva, Luiz Hamilton**  
 **_"Event Logs: Applying a Log Analysis Model for Auditing Event Record Registration"_**  
@@ -227,9 +227,9 @@ Keywords: **Log Auditing · Digital Forensics · Event Logs · Security Monitori
 
 ### 🔗 Academic Profiles
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-3705-7468)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid&labelColor=6C9A20&logoColor=white)](https://orcid.org/0000-0003-3705-7468)
 [![Lattes
-CV](https://img.shields.io/badge/Lattes%20CV-CNPq-00A693?style=for-the-badge&logo=academia)](http://lattes.cnpq.br/0191525072495482)
+CV](https://img.shields.io/badge/Lattes%20CV-CNPq-008C95?style=for-the-badge&logo=academia&labelColor=005F73&logoColor=white)](http://lattes.cnpq.br/0191525072495482)
 
 ---
 
@@ -250,38 +250,38 @@ CV](https://img.shields.io/badge/Lattes%20CV-CNPq-00A693?style=for-the-badge&log
 
 ### 🏆 Development Highlights
 
-[![GitHub Repositories](https://img.shields.io/badge/Repositories-Explore-7AA2F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brazilianscriptguy?tab=repositories)
-[![PowerShell Projects](https://img.shields.io/badge/PowerShell-Projects-BB9AF7?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/brazilianscriptguy?tab=repositories)
+[![GitHub Repositories](https://img.shields.io/badge/Repositories-Explore-24292F?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22)](https://github.com/brazilianscriptguy?tab=repositories)
+[![PowerShell Projects](https://img.shields.io/badge/PowerShell-Projects-3975C6?style=for-the-badge&logo=powershell&logoColor=white&labelColor=224D87)](https://github.com/brazilianscriptguy?tab=repositories)
 
 ---
 
 ## 🌟 Core Competencies
 
 ![GUI
-Tools](https://img.shields.io/badge/GUI--Driven%20Tools-PowerShell%20%26%20HTA-blue?style=for-the-badge&logo=powershell)
+Tools](https://img.shields.io/badge/GUI--Driven%20Tools-PowerShell%20%26%20HTA-3975C6?style=for-the-badge&logo=powershell&labelColor=224D87&logoColor=white)
 ![Structured
-Logging](https://img.shields.io/badge/Structured%20Logging-LOG%20%7C%20CSV-informational?style=for-the-badge&logo=files)
+Logging](https://img.shields.io/badge/Structured%20Logging-LOG%20%7C%20CSV-3980B5?style=for-the-badge&logo=files&labelColor=23547B&logoColor=white)
 ![Security by
-Design](https://img.shields.io/badge/Security%20by%20Design-Credential%20Hygiene%20%26%20Traceability-critical?style=for-the-badge&logo=github)
+Design](https://img.shields.io/badge/Security%20by%20Design-Credential%20Hygiene%20%26%20Traceability-24292F?style=for-the-badge&logo=github&labelColor=161B22&logoColor=white)
 ![ITSM
-Automation](https://img.shields.io/badge/ITSM%20Automation-WKS%20%26%20SVR%20Provisioning-27AE60?style=for-the-badge&logo=windows)
+Automation](https://img.shields.io/badge/ITSM%20Automation-WKS%20%26%20SVR%20Provisioning-0078D4?style=for-the-badge&logo=windows&labelColor=005A9E&logoColor=white)
 ![Modular
-Architecture](https://img.shields.io/badge/Modular%20Architecture-Enterprise%20Ready-blueviolet?style=for-the-badge&logo=stackshare)
+Architecture](https://img.shields.io/badge/Modular%20Architecture-Enterprise%20Ready-7654BD?style=for-the-badge&logo=stackshare&labelColor=49347C&logoColor=white)
 ![Windows
-Automation](https://img.shields.io/badge/Windows%20Automation-AD%20%7C%20DNS%20%7C%20DHCP%20%7C%20GPO-blue?style=for-the-badge&logo=windows)
+Automation](https://img.shields.io/badge/Windows%20Automation-AD%20%7C%20DNS%20%7C%20DHCP%20%7C%20GPO-0078D4?style=for-the-badge&logo=windows&labelColor=005A9E&logoColor=white)
 ![WSUS
-Management](https://img.shields.io/badge/WSUS%20Management-SUSDB%20%7C%20WID%20%7C%20SQL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+Management](https://img.shields.io/badge/WSUS%20Management-SUSDB%20%7C%20WID%20%7C%20SQL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=005A9E)
 ![Forensics &
-DFIR](https://img.shields.io/badge/Forensics%20%26%20DFIR-Digital%20Artifacts%20%26%20Correlation-red?style=for-the-badge&logo=datadog)
+DFIR](https://img.shields.io/badge/Forensics%20%26%20DFIR-Digital%20Artifacts%20%26%20Correlation-7B49AE?style=for-the-badge&logo=datadog&labelColor=4D2E76&logoColor=white)
 ![CI/CD
-Excellence](https://img.shields.io/badge/CI%2FCD%20Excellence-GitHub%20Actions-success?style=for-the-badge&logo=githubactions)
+Excellence](https://img.shields.io/badge/CI%2FCD%20Excellence-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&labelColor=1558A6&logoColor=white)
 ![NuGet
-Packaging](https://img.shields.io/badge/NuGet%20Packaging-.nuspec%20%7C%20SHA256-blue?style=for-the-badge&logo=nuget)
+Packaging](https://img.shields.io/badge/NuGet%20Packaging-.nuspec%20%7C%20SHA256-004880?style=for-the-badge&logo=nuget&labelColor=003052&logoColor=white)
 ![SARIF
-Integration](https://img.shields.io/badge/SARIF%20Integration-GitHub%20Code%20Scanning-brightgreen?style=for-the-badge&logo=github)
-![CodeQL](https://img.shields.io/badge/CodeQL-Static%20Security%20Analysis-purple?style=for-the-badge&logo=github)
+Integration](https://img.shields.io/badge/SARIF%20Integration-GitHub%20Code%20Scanning-24292F?style=for-the-badge&logo=github&labelColor=161B22&logoColor=white)
+![CodeQL](https://img.shields.io/badge/CodeQL-Static%20Security%20Analysis-24292F?style=for-the-badge&logo=github&labelColor=161B22&logoColor=white)
 ![Clean
-Codebase](https://img.shields.io/badge/Clean%20Codebase-Multi--Language%20Linting-informational?style=for-the-badge&logo=eslint)
+Codebase](https://img.shields.io/badge/Clean%20Codebase-Multi--Language%20Linting-6441A5?style=for-the-badge&logo=eslint&labelColor=3E2769&logoColor=white)
 
 ---
 
@@ -297,27 +297,27 @@ If you find my work valuable, there are several ways you can support its
 continued development:
 
 [![GitHub
-Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/brazilianscriptguy)
-[![Patreon](https://img.shields.io/badge/Patreon-Become%20a%20Patron-FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/brazilianscriptguy)
+Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&labelColor=A3266B&logoColor=white)](https://github.com/sponsors/brazilianscriptguy)
+[![Patreon](https://img.shields.io/badge/Patreon-Become%20a%20Patron-FF424D?style=for-the-badge&logo=patreon&labelColor=B72430&logoColor=white)](https://www.patreon.com/brazilianscriptguy)
 [![Buy Me a
-Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/brazilianscriptguy)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-29ABE0?style=for-the-badge&logo=kofi)](https://ko-fi.com/brazilianscriptguy)
-[![GoFundMe](https://img.shields.io/badge/GoFundMe-Donate-00B964?style=for-the-badge&logo=gofundme)](https://www.gofundme.com/f/brazilianscriptguy)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:luizhamilton.lhr@gmail.com)
+Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-E3B800?style=for-the-badge&logo=buymeacoffee&labelColor=916F00&logoColor=white)](https://buymeacoffee.com/brazilianscriptguy)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-229BD1?style=for-the-badge&logo=kofi&labelColor=15668B&logoColor=white)](https://ko-fi.com/brazilianscriptguy)
+[![GoFundMe](https://img.shields.io/badge/GoFundMe-Donate-00A85C?style=for-the-badge&logo=gofundme&labelColor=006F3D&logoColor=white)](https://www.gofundme.com/f/brazilianscriptguy)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&labelColor=B3261E&logoColor=white)](mailto:luizhamilton.lhr@gmail.com)
 
 ---
 
 ## 🏅 Certifications
 
 ![ITIL 3
-Foundation](https://img.shields.io/badge/ITIL%204%20Foundation-Certified-6C2DC7?style=for-the-badge)
+Foundation](https://img.shields.io/badge/ITIL%204%20Foundation-Certified-3978AD?style=for-the-badge&labelColor=244E74)
 ![COBIT 4.1
-Foundation](https://img.shields.io/badge/COBIT%204.1%20Foundation-Certified-4B0082?style=for-the-badge)
+Foundation](https://img.shields.io/badge/COBIT%204.1%20Foundation-Certified-3978AD?style=for-the-badge&labelColor=244E74)
 ![COBIT Foundation
-2019](https://img.shields.io/badge/COBIT%202019%20Foundation-Certified-483D8B?style=for-the-badge)
+2019](https://img.shields.io/badge/COBIT%202019%20Foundation-Certified-3978AD?style=for-the-badge&labelColor=244E74)
 ![CompTIA Security+
-SY0-701](https://img.shields.io/badge/CompTIA%20Security%2B%20SY0--701-Certified-EA3C2D?style=for-the-badge)
+SY0-701](https://img.shields.io/badge/CompTIA%20Security%2B%20SY0--701-Certified-3978AD?style=for-the-badge&labelColor=244E74)
 ![CISO
-Leader](https://img.shields.io/badge/CISO%20Leader-Certified-B22222?style=for-the-badge)
+Leader](https://img.shields.io/badge/CISO%20Leader-Certified-3978AD?style=for-the-badge&labelColor=244E74)
 
 © 2026 Luiz Hamilton Silva · MIT License
