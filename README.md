@@ -18,9 +18,6 @@ auditable, resilient, and scalable** solutions in production.
 
 ## 🔗 Find Me
 
-
-<div align="center">
-
 [![GitHub](https://img.shields.io/badge/GitHub-@brazilianscriptguy-181717?style=for-the-badge&logo=github)](https://github.com/brazilianscriptguy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in/brazilianscriptguy-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brazilianscriptguy/)
 [![YouTube](https://img.shields.io/badge/YouTube-@brazilianscriptguy-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@brazilianscriptguy)
@@ -34,9 +31,6 @@ auditable, resilient, and scalable** solutions in production.
 
 [![Location](https://img.shields.io/badge/Location-The%20Amazonian%20Stonehenge-blue?style=for-the-badge&logo=googlemaps)](https://www.google.com/maps/search/?api=1&query=2%C2%B037'13.0%22N+51%C2%B000'35.2%22W)
 ![Time](https://img.shields.io/static/v1?label=Time&message=UTC%20-03%3A00&color=green&style=for-the-badge)
-
-</div>
-
 
 ---
 
