@@ -29,7 +29,7 @@ auditable, resilient, and scalable** solutions in production.
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3705--7468-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-3705-7468)
 [![Lattes
 CV](https://img.shields.io/badge/Lattes%20CV-0191525072495482-00A693?style=for-the-badge&logo=academia)](http://lattes.cnpq.br/0191525072495482)
-[![Location](https://img.shields.io/badge/Location-Brazilian%20Stonehenge-blue?style=for-the-badge&logo=googlemaps)](https://www.google.com/maps/search/?api=1&query=2%C2%B037'13.0%22N+51%C2%B000'35.2%22W)
+[![Location](https://img.shields.io/badge/Location-The%20Amazonian%20Stonehenge-blue?style=for-the-badge&logo=googlemaps)](https://www.google.com/maps/search/?api=1&query=2%C2%B037'13.0%22N+51%C2%B000'35.2%22W)
 ![Time](https://img.shields.io/static/v1?label=Time&message=UTC%20-03%3A00&color=green&style=for-the-badge)
 
 ---
