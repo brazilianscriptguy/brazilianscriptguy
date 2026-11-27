@@ -59,24 +59,15 @@ specialized modules:
 
 ## 🏗️ Engineering Principles
 
-![Identity
-First](https://img.shields.io/badge/Identity-First-3978AD?style=for-the-badge&labelColor=244E74)
-![Zero
-Trust](https://img.shields.io/badge/Zero-Trust-3978AD?style=for-the-badge&labelColor=244E74)
-![Least
-Privilege](https://img.shields.io/badge/Least-Privilege-3978AD?style=for-the-badge&labelColor=244E74)
-![Defense in
-Depth](https://img.shields.io/badge/Defense%20in%20Depth-Enabled-3978AD?style=for-the-badge&labelColor=244E74)
-![Governance by
-Default](https://img.shields.io/badge/Governance-By%20Default-3978AD?style=for-the-badge&labelColor=244E74)
-![Compliance
-Driven](https://img.shields.io/badge/Compliance-Driven-3978AD?style=for-the-badge&labelColor=244E74)
-![End-to-End
-Auditability](https://img.shields.io/badge/Auditability-End--to--End-3978AD?style=for-the-badge&labelColor=244E74)
-![Enterprise
-Standardization](https://img.shields.io/badge/Enterprise-Standardization-3978AD?style=for-the-badge&labelColor=244E74)
-![Operational
-Resilience](https://img.shields.io/badge/Operational-Resilience-3978AD?style=for-the-badge&labelColor=244E74)
+![IdentityFirst](https://img.shields.io/badge/Identity-First-3978AD?style=for-the-badge&labelColor=244E74)
+![ZeroTrust](https://img.shields.io/badge/Zero-Trust-3978AD?style=for-the-badge&labelColor=244E74)
+![LeastPrivilege](https://img.shields.io/badge/Least-Privilege-3978AD?style=for-the-badge&labelColor=244E74)
+![Defense inDepth](https://img.shields.io/badge/Defense%20in%20Depth-Enabled-3978AD?style=for-the-badge&labelColor=244E74)
+![Governance byDefault](https://img.shields.io/badge/Governance-By%20Default-3978AD?style=for-the-badge&labelColor=244E74)
+![ComplianceDriven](https://img.shields.io/badge/Compliance-Driven-3978AD?style=for-the-badge&labelColor=244E74)
+![End-to-EndAuditability](https://img.shields.io/badge/Auditability-End--to--End-3978AD?style=for-the-badge&labelColor=244E74)
+![EnterpriseStandardization](https://img.shields.io/badge/Enterprise-Standardization-3978AD?style=for-the-badge&labelColor=244E74)
+![OperationalResilience](https://img.shields.io/badge/Operational-Resilience-3978AD?style=for-the-badge&labelColor=244E74)
 
 > **Engineering philosophy:** Every solution is designed with
 > **security, governance, automation, traceability, maintainability, and
